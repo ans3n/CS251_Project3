@@ -78,19 +78,37 @@ std::shared_ptr<typename splay_tree<K,V>::splay_tree_node> splay_tree<K,V>::get_
 }
 
 template <typename K, typename V>
-void splay_tree<K,V>::rightRotation(std::shared_ptr<splay_tree_node>& current) {
-    std::shared_ptr<splay_tree_node> temp = current->m_left;
-    current->m_left = temp->m_right;
-    temp->m_right = current;
-    current = temp;
+void splay_tree<K,V>::rightRotation(std::shared_ptr<splay_tree_node>& nodeY) {
+    std::shared_ptr<splay_tree_node> nodeX = nodeY->m_left;
+    std::shared_ptr<splay_tree_node> parentY = nodeY->m_parent.lock();
+    nodeY->m_left = nodeX->m_right;
+    nodeX->m_right = nodeY;
+
+    if (parentY->m_left == nodeY) {
+        parentY->m_left = nodeX;
+    } else {
+        parentY->m_right = nodeX;
+    }
+    nodeX->m_parent.lock() = parentY;
+
+    nodeY->m_parent.lock() = nodeX;
 }
 
 template <typename K, typename V>
-void splay_tree<K,V>::leftRotation(std::shared_ptr<splay_tree_node>& current) {
-    std::shared_ptr<splay_tree_node> temp = current->m_right;
-    current->m_right = temp->m_left;
-    temp->m_left = current;
-    current = temp;
+void splay_tree<K,V>::leftRotation(std::shared_ptr<splay_tree_node>& nodeX) {
+    std::shared_ptr<splay_tree_node> nodeY = nodeX->m_right;
+    std::shared_ptr<splay_tree_node> parentX = nodeX->m_parent.lock();
+    nodeX->m_right = nodeY->m_left;
+    nodeY->m_left = nodeX;
+
+    if (parentX->m_left == nodeX) {
+        parentX->m_left = nodeY;
+    } else {
+        parentX->m_right = nodeY;
+    }
+    nodeY->m_parent.lock() = parentX;
+
+    nodeX->m_parent.lock() = nodeY;
 }
 
 template <typename K, typename V>
@@ -131,7 +149,18 @@ void splay_tree<K,V>::zigZag(std::shared_ptr<splay_tree_node>& current) {
 //splay the key up to the root
 template <typename K, typename V>
 void splay_tree<K,V>::splay(std::shared_ptr<splay_tree_node>& current) {
+    while (current != m_root) {
+        std::shared_ptr<splay_tree_node> parent = current->m_parent.lock();
 
+        if (parent->m_parent.lock() == nullptr) {
+            zig(current);
+        } else if (((parent->m_parent.lock()->m_left == parent) && (parent->m_left == current)) ||
+        ((parent->m_parent.lock()->m_right == parent) && (parent->m_right == current))) {
+            zigZig(current);
+        } else {
+            zigZag(current);
+        }
+    }
 }
 
 template <typename K, typename V>
