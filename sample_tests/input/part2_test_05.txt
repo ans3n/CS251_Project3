@@ -1,0 +1,140 @@
+name float
+extract Drireri Drivam
+print
+maximum_key
+minimum_key
+print
+extract Galsa Sedas
+extract Vobend Sendas
+print
+minimum_key
+extract Ienas Alen
+insert Galdres Salor -969.588
+print
+insert Galdres Salor 795.008
+insert Rilas Berethi 57.2579
+insert Bethes Ravel 71.4479
+extract Bethes Ravel
+print
+peek Galdres Salor
+insert Rilas Berethi -714.853
+insert Gilas Ores 183.974
+peek Rilas Berethi
+extract Rilas Berethi
+insert Gindas Rothren 434.791
+maximum_key
+extract Galdres Salor
+peek Gindas Rothren
+insert Alvur Teneran -515.23
+peek Gilas Ores
+extract Alvur Teneran
+maximum_key
+extract Gilas Ores
+extract Gindas Rothren
+peek Brelar Raloran
+insert Ranis Malas 678.132
+extract Ranis Malas
+extract Dredyni Hlan
+extract Seler Oreyn
+peek Sovisa Rindu
+extract Gadasu Fathyron
+insert Drandryn Thirandus -929.108
+peek Drandryn Thirandus
+insert Thadar Dral 199.493
+peek Thadar Dral
+extract Thadar Dral
+minimum_key
+extract Drandryn Thirandus
+empty
+size
+minimum_key
+size
+minimum_key
+extract Llaro Rendas
+peek Salama Vandus
+print
+extract Llavelea Rothari
+insert Dravynea Omalor -181.456
+minimum_key
+print
+extract Dravynea Omalor
+insert Dondos Athram -982.376
+print
+peek Dondos Athram
+extract Dondos Athram
+size
+extract Fadren Velothren
+insert Galdal Saryon 452.27
+size
+maximum_key
+extract Galdal Saryon
+extract Melur Uvayn
+size
+peek Almsi Ulven
+insert Davas Baren -40.2051
+peek Davas Baren
+insert Aleri Heleran 560.69
+insert Llandras Andalas 533.815
+empty
+print
+maximum_key
+size
+extract Lliros Sarathram
+print
+extract Llandras Andalas
+peek Davas Baren
+empty
+insert Delyna Sarethi 639.104
+peek Davas Baren
+size
+insert Melvure Thirvayn 926.903
+insert Gilyne Serven 280.584
+extract Melvure Thirvayn
+extract Delyna Sarethi
+insert Danaronea Ravel 33.572
+print
+peek Gadayn Marvani
+minimum_key
+insert Valveli Garer 718.678
+maximum_key
+empty
+insert Felara Girendas 809.312
+minimum_key
+insert Farena Areth -364.424
+insert Nathala Dalas 658.046
+insert Llaynasa Veloren 488.029
+size
+insert Drandryn Verethi -834.831
+extract Llaynasa Veloren
+print
+extract Davas Baren
+minimum_key
+print
+extract Drandryn Verethi
+insert Llaros Sarendas 352.036
+extract Gilyne Serven
+minimum_key
+extract Falura Thilarvel
+extract Felara Girendas
+size
+peek Valveli Garer
+extract Farena Areth
+insert Thilse Hledri 138.18
+insert Adondasi Belan -55.6403
+insert Boderi Uvulas 885.809
+size
+extract Danaronea Ravel
+insert Sendel Davor -176.862
+extract Nathala Dalas
+print
+insert Ulenea Nelaram -874.878
+peek Aleri Heleran
+empty
+insert Milvela Renim -996.846
+peek Thilse Hledri
+maximum_key
+extract Sendel Davor
+extract Valveli Garer
+size
+print
+quit

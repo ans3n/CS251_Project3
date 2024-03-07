@@ -1,0 +1,597 @@
+extract -992
+Key does not exist!
+size
+0
+extract 624
+Key does not exist!
+insert 723 Goras Hloran
+print
+  0: [empty]
+  1: [empty]
+  2: [empty]
+  3: 723 -> Goras Hloran
+  4: [empty]
+  5: [empty]
+  6: [empty]
+  7: [empty]
+  8: [empty]
+  9: [empty]
+ 10: [empty]
+ 11: [empty]
+extract 723
+Goras Hloran
+extract 477
+Key does not exist!
+peek 520
+Key does not exist!
+size
+0
+peek 502
+Key does not exist!
+extract 341
+Key does not exist!
+size
+0
+insert -425 Deval Menas
+bucket_count
+12
+hash_code -425
+11
+insert -894 Drelis Uleni
+insert -700 Tarvus Uvaram
+insert -971 Milar Ravel
+insert -820 Favani Seri
+insert -536 Domesea Elvul
+size
+6
+insert -177 Ilen Faram
+peek -536
+Domesea Elvul
+extract -425
+Deval Menas
+insert 359 Nevon Mencele
+extract -894
+Drelis Uleni
+peek -971
+Milar Ravel
+print
+  0: -820 -> Favani Seri
+     └R: -700 -> Tarvus Uvaram
+  1: [empty]
+  2: [empty]
+  3: [empty]
+  4: [empty]
+  5: -971 -> Milar Ravel
+  6: [empty]
+  7: -177 -> Ilen Faram
+  8: -536 -> Domesea Elvul
+  9: [empty]
+ 10: [empty]
+ 11: 359 -> Nevon Mencele
+insert 229 Foves Raviro
+bucket_count
+12
+print
+  0: -820 -> Favani Seri
+     └R: -700 -> Tarvus Uvaram
+  1: 229 -> Foves Raviro
+  2: [empty]
+  3: [empty]
+  4: [empty]
+  5: -971 -> Milar Ravel
+  6: [empty]
+  7: -177 -> Ilen Faram
+  8: -536 -> Domesea Elvul
+  9: [empty]
+ 10: [empty]
+ 11: 359 -> Nevon Mencele
+empty
+false
+print
+  0: -820 -> Favani Seri
+     └R: -700 -> Tarvus Uvaram
+  1: 229 -> Foves Raviro
+  2: [empty]
+  3: [empty]
+  4: [empty]
+  5: -971 -> Milar Ravel
+  6: [empty]
+  7: -177 -> Ilen Faram
+  8: -536 -> Domesea Elvul
+  9: [empty]
+ 10: [empty]
+ 11: 359 -> Nevon Mencele
+insert 735 Banden Deras
+extract -971
+Milar Ravel
+empty
+false
+bucket_count
+12
+insert 173 Ralen Hledas
+print
+  0: -820 -> Favani Seri
+     └R: -700 -> Tarvus Uvaram
+  1: 229 -> Foves Raviro
+  2: [empty]
+  3: 735 -> Banden Deras
+  4: [empty]
+  5: 173 -> Ralen Hledas
+  6: [empty]
+  7: -177 -> Ilen Faram
+  8: -536 -> Domesea Elvul
+  9: [empty]
+ 10: [empty]
+ 11: 359 -> Nevon Mencele
+hash_code -820
+0
+empty
+false
+extract 229
+Foves Raviro
+print
+  0: -820 -> Favani Seri
+     └R: -700 -> Tarvus Uvaram
+  1: [empty]
+  2: [empty]
+  3: 735 -> Banden Deras
+  4: [empty]
+  5: 173 -> Ralen Hledas
+  6: [empty]
+  7: -177 -> Ilen Faram
+  8: -536 -> Domesea Elvul
+  9: [empty]
+ 10: [empty]
+ 11: 359 -> Nevon Mencele
+hash_code 735
+3
+print
+  0: -820 -> Favani Seri
+     └R: -700 -> Tarvus Uvaram
+  1: [empty]
+  2: [empty]
+  3: 735 -> Banden Deras
+  4: [empty]
+  5: 173 -> Ralen Hledas
+  6: [empty]
+  7: -177 -> Ilen Faram
+  8: -536 -> Domesea Elvul
+  9: [empty]
+ 10: [empty]
+ 11: 359 -> Nevon Mencele
+peek 735
+Banden Deras
+print
+  0: -820 -> Favani Seri
+     └R: -700 -> Tarvus Uvaram
+  1: [empty]
+  2: [empty]
+  3: 735 -> Banden Deras
+  4: [empty]
+  5: 173 -> Ralen Hledas
+  6: [empty]
+  7: -177 -> Ilen Faram
+  8: -536 -> Domesea Elvul
+  9: [empty]
+ 10: [empty]
+ 11: 359 -> Nevon Mencele
+peek -820
+Favani Seri
+print
+  0: -820 -> Favani Seri
+     └R: -700 -> Tarvus Uvaram
+  1: [empty]
+  2: [empty]
+  3: 735 -> Banden Deras
+  4: [empty]
+  5: 173 -> Ralen Hledas
+  6: [empty]
+  7: -177 -> Ilen Faram
+  8: -536 -> Domesea Elvul
+  9: [empty]
+ 10: [empty]
+ 11: 359 -> Nevon Mencele
+extract -536
+Domesea Elvul
+extract -820
+Favani Seri
+peek 359
+Nevon Mencele
+print
+  0: -700 -> Tarvus Uvaram
+  1: [empty]
+  2: [empty]
+  3: 735 -> Banden Deras
+  4: [empty]
+  5: 173 -> Ralen Hledas
+  6: [empty]
+  7: -177 -> Ilen Faram
+  8: [empty]
+  9: [empty]
+ 10: [empty]
+ 11: 359 -> Nevon Mencele
+peek -177
+Ilen Faram
+insert 740 Dilvene Drinith
+size
+6
+hash_code -177
+7
+bucket_count
+12
+insert -823 Ethes Drals
+extract -177
+Ilen Faram
+insert -265 Nilvyn Drilvi
+extract 740
+Dilvene Drinith
+insert 536 Sadal Elarven
+insert 653 Vadeni Hloran
+insert -790 Talsi Hlaren
+insert 439 Balsa Arobar
+insert -284 Melvure Verethi
+insert 954 Dralcea Drathen
+hash_code -24
+4
+insert -276 Terer Llandu
+extract 448
+Key does not exist!
+size
+13
+insert 128 Tarar Bedas
+hash_code 173
+5
+insert -169 Golar Savil
+insert 488 Melsu Llothas
+insert 536 Thauraver Adas
+Duplicate key!
+insert 602 Brerayne Tobor
+size
+17
+extract -265
+Nilvyn Drilvi
+extract 359
+Nevon Mencele
+insert -602 Urvel Salothran
+extract -918
+Key does not exist!
+insert 211 Guls Samarys
+insert 439 Llarusea Reloth
+Duplicate key!
+extract -169
+Golar Savil
+insert 980 Drerel Belaal
+hash_code 439
+7
+size
+17
+extract 735
+Banden Deras
+size
+16
+extract 488
+Melsu Llothas
+insert -415 Vatollia Othreleth
+print
+  0: -700 -> Tarvus Uvaram
+  1: [empty]
+  2: -602 -> Urvel Salothran
+     └R: 602 -> Brerayne Tobor
+  3: [empty]
+  4: -276 -> Terer Llandu
+  5: 653 -> Vadeni Hloran
+     └L: 173 -> Ralen Hledas
+  6: 954 -> Dralcea Drathen
+     └L: -790 -> Talsi Hlaren
+  7: 211 -> Guls Samarys
+     └R: 439 -> Balsa Arobar
+  8: 536 -> Sadal Elarven
+     ├L: 128 -> Tarar Bedas
+     │└L: -284 -> Melvure Verethi
+     └R: 980 -> Drerel Belaal
+  9: -415 -> Vatollia Othreleth
+     └L: -823 -> Ethes Drals
+ 10: [empty]
+ 11: [empty]
+extract 602
+Brerayne Tobor
+extract -284
+Melvure Verethi
+insert -372 Fevris Ertis
+size
+15
+print
+  0: -700 -> Tarvus Uvaram
+  1: [empty]
+  2: -602 -> Urvel Salothran
+  3: [empty]
+  4: -372 -> Fevris Ertis
+     └R: -276 -> Terer Llandu
+  5: 653 -> Vadeni Hloran
+     └L: 173 -> Ralen Hledas
+  6: 954 -> Dralcea Drathen
+     └L: -790 -> Talsi Hlaren
+  7: 211 -> Guls Samarys
+     └R: 439 -> Balsa Arobar
+  8: 128 -> Tarar Bedas
+     └R: 536 -> Sadal Elarven
+      └R: 980 -> Drerel Belaal
+  9: -415 -> Vatollia Othreleth
+     └L: -823 -> Ethes Drals
+ 10: [empty]
+ 11: [empty]
+extract 536
+Sadal Elarven
+hash_code 653
+5
+size
+14
+insert 659 Hort Favani
+size
+15
+print
+  0: -700 -> Tarvus Uvaram
+  1: [empty]
+  2: -602 -> Urvel Salothran
+  3: [empty]
+  4: -372 -> Fevris Ertis
+     └R: -276 -> Terer Llandu
+  5: 653 -> Vadeni Hloran
+     └L: 173 -> Ralen Hledas
+  6: 954 -> Dralcea Drathen
+     └L: -790 -> Talsi Hlaren
+  7: 211 -> Guls Samarys
+     └R: 439 -> Balsa Arobar
+  8: 980 -> Drerel Belaal
+     └L: 128 -> Tarar Bedas
+  9: -415 -> Vatollia Othreleth
+     └L: -823 -> Ethes Drals
+ 10: [empty]
+ 11: 659 -> Hort Favani
+peek 659
+Hort Favani
+print
+  0: -700 -> Tarvus Uvaram
+  1: [empty]
+  2: -602 -> Urvel Salothran
+  3: [empty]
+  4: -372 -> Fevris Ertis
+     └R: -276 -> Terer Llandu
+  5: 653 -> Vadeni Hloran
+     └L: 173 -> Ralen Hledas
+  6: 954 -> Dralcea Drathen
+     └L: -790 -> Talsi Hlaren
+  7: 211 -> Guls Samarys
+     └R: 439 -> Balsa Arobar
+  8: 980 -> Drerel Belaal
+     └L: 128 -> Tarar Bedas
+  9: -415 -> Vatollia Othreleth
+     └L: -823 -> Ethes Drals
+ 10: [empty]
+ 11: 659 -> Hort Favani
+hash_code 128
+8
+extract -823
+Ethes Drals
+extract -700
+Tarvus Uvaram
+size
+13
+insert -400 Meryn Girethi
+insert -676 Dinor Arns
+insert 570 Dils Farothran
+bucket_count
+12
+print
+  0: -676 -> Dinor Arns
+     └R: -400 -> Meryn Girethi
+  1: [empty]
+  2: -602 -> Urvel Salothran
+  3: [empty]
+  4: -372 -> Fevris Ertis
+     └R: -276 -> Terer Llandu
+  5: 653 -> Vadeni Hloran
+     └L: 173 -> Ralen Hledas
+  6: 570 -> Dils Farothran
+     ├L: -790 -> Talsi Hlaren
+     └R: 954 -> Dralcea Drathen
+  7: 211 -> Guls Samarys
+     └R: 439 -> Balsa Arobar
+  8: 980 -> Drerel Belaal
+     └L: 128 -> Tarar Bedas
+  9: -415 -> Vatollia Othreleth
+ 10: [empty]
+ 11: 659 -> Hort Favani
+extract 570
+Dils Farothran
+insert 298 Meder Varam
+extract 128
+Tarar Bedas
+peek 298
+Meder Varam
+insert -829 Girvani Sari
+peek -676
+Dinor Arns
+bucket_count
+12
+insert -204 Sarayn Drobar
+extract -353
+Key does not exist!
+hash_code -562
+6
+extract -204
+Sarayn Drobar
+empty
+false
+bucket_count
+12
+peek 921
+Key does not exist!
+insert -692 Alvos Nalyn
+extract 653
+Vadeni Hloran
+insert -490 Tivam Hlervi
+size
+17
+hash_code -676
+0
+insert -504 Thoryn Fendyn
+size
+18
+peek 211
+Guls Samarys
+peek -372
+Fevris Ertis
+extract -400
+Meryn Girethi
+insert 896 Tiras Saren
+insert -523 Falanu Rothren
+hash_code -186
+10
+peek 211
+Guls Samarys
+extract 173
+Ralen Hledas
+extract 896
+Tiras Saren
+print
+  0: -676 -> Dinor Arns
+  1: [empty]
+  2: -602 -> Urvel Salothran
+  3: -829 -> Girvani Sari
+  4: -372 -> Fevris Ertis
+     ├L: -504 -> Thoryn Fendyn
+     └R: -276 -> Terer Llandu
+  5: [empty]
+  6: -490 -> Tivam Hlervi
+     ├L: -790 -> Talsi Hlaren
+     └R: 954 -> Dralcea Drathen
+  7: 211 -> Guls Samarys
+     └R: 439 -> Balsa Arobar
+  8: 980 -> Drerel Belaal
+     └L: -692 -> Alvos Nalyn
+  9: -523 -> Falanu Rothren
+     └R: -415 -> Vatollia Othreleth
+ 10: 298 -> Meder Varam
+ 11: 659 -> Hort Favani
+insert -778 Raynila Nelas
+peek 439
+Balsa Arobar
+empty
+false
+insert -372 Felara Neleth
+Duplicate key!
+empty
+false
+bucket_count
+12
+peek -415
+Vatollia Othreleth
+insert 10 Endroni Tharys
+peek -778
+Raynila Nelas
+print
+  0: -676 -> Dinor Arns
+  1: [empty]
+  2: -602 -> Urvel Salothran
+  3: -829 -> Girvani Sari
+  4: -372 -> Fevris Ertis
+     ├L: -504 -> Thoryn Fendyn
+     └R: -276 -> Terer Llandu
+  5: [empty]
+  6: -778 -> Raynila Nelas
+     ├L: -790 -> Talsi Hlaren
+     └R: -490 -> Tivam Hlervi
+      └R: 954 -> Dralcea Drathen
+  7: 439 -> Balsa Arobar
+     └L: 211 -> Guls Samarys
+  8: 980 -> Drerel Belaal
+     └L: -692 -> Alvos Nalyn
+  9: -415 -> Vatollia Othreleth
+     └L: -523 -> Falanu Rothren
+ 10: 10 -> Endroni Tharys
+     └R: 298 -> Meder Varam
+ 11: 659 -> Hort Favani
+insert -502 Endar Raram
+insert -63 Melvuli Thirano
+extract -63
+Melvuli Thirano
+extract -602
+Urvel Salothran
+hash_code 298
+10
+insert -483 Marena Indules
+empty
+false
+bucket_count
+12
+insert -137 Novor Telvayn
+extract -44
+Key does not exist!
+extract 924
+Key does not exist!
+insert 503 Badama Mavandes
+empty
+false
+insert -98 Ulyne Faveran
+print
+  0: -676 -> Dinor Arns
+  1: -483 -> Marena Indules
+  2: -98 -> Ulyne Faveran
+  3: -829 -> Girvani Sari
+  4: -372 -> Fevris Ertis
+     ├L: -504 -> Thoryn Fendyn
+     └R: -276 -> Terer Llandu
+  5: [empty]
+  6: -502 -> Endar Raram
+     ├L: -778 -> Raynila Nelas
+     │└L: -790 -> Talsi Hlaren
+     └R: -490 -> Tivam Hlervi
+      └R: 954 -> Dralcea Drathen
+  7: 439 -> Balsa Arobar
+     └L: 211 -> Guls Samarys
+  8: 980 -> Drerel Belaal
+     └L: -692 -> Alvos Nalyn
+  9: -415 -> Vatollia Othreleth
+     └L: -523 -> Falanu Rothren
+ 10: 10 -> Endroni Tharys
+     └R: 298 -> Meder Varam
+ 11: 503 -> Badama Mavandes
+     ├L: -137 -> Novor Telvayn
+     └R: 659 -> Hort Favani
+extract -535
+Key does not exist!
+print
+  0: -676 -> Dinor Arns
+  1: -483 -> Marena Indules
+  2: -98 -> Ulyne Faveran
+  3: -829 -> Girvani Sari
+  4: -372 -> Fevris Ertis
+     ├L: -504 -> Thoryn Fendyn
+     └R: -276 -> Terer Llandu
+  5: [empty]
+  6: -502 -> Endar Raram
+     ├L: -778 -> Raynila Nelas
+     │└L: -790 -> Talsi Hlaren
+     └R: -490 -> Tivam Hlervi
+      └R: 954 -> Dralcea Drathen
+  7: 439 -> Balsa Arobar
+     └L: 211 -> Guls Samarys
+  8: 980 -> Drerel Belaal
+     └L: -692 -> Alvos Nalyn
+  9: -415 -> Vatollia Othreleth
+     └L: -523 -> Falanu Rothren
+ 10: 10 -> Endroni Tharys
+     └R: 298 -> Meder Varam
+ 11: 503 -> Badama Mavandes
+     ├L: -137 -> Novor Telvayn
+     └R: 659 -> Hort Favani
+peek 980
+Drerel Belaal
+bucket_count
+12
+peek -98
+Ulyne Faveran
+peek 980
+Drerel Belaal
+quit

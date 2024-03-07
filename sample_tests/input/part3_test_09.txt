@@ -1,0 +1,136 @@
+name int
+10
+print
+bucket_count
+insert Alanil Telvani -473
+bucket_count
+extract Alanil Telvani
+insert Tinos Omayn 957
+size
+extract Tinos Omayn
+size
+print
+empty
+peek Garila Selarys
+peek Tandram Rothalen
+insert Daroso Marvani -532
+extract Daroso Marvani
+bucket_count
+extract Favas Rendas
+print
+insert Ralmyn Nervion -575
+insert Feranos Relarys -834
+bucket_count
+extract Balver Uleni
+insert Salvas Salothan 140
+extract Sadas Vavas
+size
+bucket_count
+extract Salvas Salothan
+insert Favilea Rendas 597
+peek Ralmyn Nervion
+insert Favela Dalobar 861
+bucket_count
+peek Favilea Rendas
+hash_code Ralmyn Nervion
+insert Favilea Rendas -445
+extract Favela Dalobar
+extract Feranos Relarys
+insert Manwe Darethran 572
+peek Manwe Darethran
+bucket_count
+extract Favilea Rendas
+insert Irvsie Nelvani -441
+insert Favilea Saren -440
+extract Manwe Darethran
+insert Elmussa Helas -778
+print
+peek Ralmyn Nervion
+extract Ralmyn Nervion
+insert Llaalam Arns 526
+extract Elmussa Helas
+print
+empty
+size
+insert Guril Tharyon 385
+size
+insert Guril Tharyon 612
+insert Irvsie Nelvani -985
+hash_code Irvsie Nelvani
+insert Raldenu Nalyn 791
+extract Llaalam Arns
+extract Raldenu Nalyn
+insert Danoso Moren 172
+extract Irvsie Nelvani
+print
+extract Danoso Moren
+insert Vonden Maloren -440
+peek Vonden Maloren
+extract Vonden Maloren
+empty
+print
+hash_code Guril Tharyon
+print
+peek Favilea Saren
+size
+print
+hash_code Favilea Saren
+print
+insert Foryn Selarys 993
+size
+peek Selman Beneran
+print
+empty
+insert Valvosa Garvon 577
+bucket_count
+hash_code Galsa Hleran
+insert Lleras Andoren -782
+print
+insert Llaalamu Sadus 207
+peek Foryn Selarys
+insert Alnas Herendas 795
+insert Sedyni Tharam -159
+insert Alvan Uveran -217
+extract Lleras Andoren
+extract Favilea Saren
+insert Avon Hardil 907
+hash_code Llaalamu Sadus
+empty
+extract Sedyni Tharam
+print
+extract Llaalamu Sadus
+insert Dedaenc Tunel -963
+insert Valvosa Garvon 272
+size
+insert Vadusa Nethan -102
+size
+extract Almse Nethalen
+extract Valvosa Garvon
+empty
+insert Folvys Salaron 424
+insert Ulveni Favel 622
+peek Dedaenc Tunel
+insert Selmen Milar -860
+size
+insert Dandera Indrano 774
+extract Avon Hardil
+empty
+peek Alvan Uveran
+peek Guril Tharyon
+extract Guril Tharyon
+size
+peek Vadusa Nethan
+print
+extract Alnas Herendas
+insert Dedaenc Telvayn -433
+peek Aroa Daram
+insert Dunel Dalis -444
+extract Dandera Indrano
+insert Drarayne Teria -796
+peek Dedaenc Tunel
+bucket_count
+size
+peek Alvan Uveran
+print
+insert Folvys Salaron -381
+quit

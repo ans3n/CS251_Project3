@@ -1,0 +1,378 @@
+print
+  0: [empty]
+  1: [empty]
+  2: [empty]
+  3: [empty]
+  4: [empty]
+  5: [empty]
+  6: [empty]
+  7: [empty]
+  8: [empty]
+  9: [empty]
+bucket_count
+10
+insert Alanil Telvani -473
+bucket_count
+10
+extract Alanil Telvani
+-473
+insert Tinos Omayn 957
+size
+1
+extract Tinos Omayn
+957
+size
+0
+print
+  0: [empty]
+  1: [empty]
+  2: [empty]
+  3: [empty]
+  4: [empty]
+  5: [empty]
+  6: [empty]
+  7: [empty]
+  8: [empty]
+  9: [empty]
+empty
+true
+peek Garila Selarys
+Key does not exist!
+peek Tandram Rothalen
+Key does not exist!
+insert Daroso Marvani -532
+extract Daroso Marvani
+-532
+bucket_count
+10
+extract Favas Rendas
+Key does not exist!
+print
+  0: [empty]
+  1: [empty]
+  2: [empty]
+  3: [empty]
+  4: [empty]
+  5: [empty]
+  6: [empty]
+  7: [empty]
+  8: [empty]
+  9: [empty]
+insert Ralmyn Nervion -575
+insert Feranos Relarys -834
+bucket_count
+10
+extract Balver Uleni
+Key does not exist!
+insert Salvas Salothan 140
+extract Sadas Vavas
+Key does not exist!
+size
+3
+bucket_count
+10
+extract Salvas Salothan
+140
+insert Favilea Rendas 597
+peek Ralmyn Nervion
+-575
+insert Favela Dalobar 861
+bucket_count
+10
+peek Favilea Rendas
+597
+hash_code Ralmyn Nervion
+1
+insert Favilea Rendas -445
+Duplicate key!
+extract Favela Dalobar
+861
+extract Feranos Relarys
+-834
+insert Manwe Darethran 572
+peek Manwe Darethran
+572
+bucket_count
+10
+extract Favilea Rendas
+597
+insert Irvsie Nelvani -441
+insert Favilea Saren -440
+extract Manwe Darethran
+572
+insert Elmussa Helas -778
+print
+  0: [empty]
+  1: Ralmyn Nervion -> -575
+  2: [empty]
+  3: [empty]
+  4: [empty]
+  5: Elmussa Helas -> -778
+  6: [empty]
+  7: [empty]
+  8: Favilea Saren -> -440
+  9: Irvsie Nelvani -> -441
+peek Ralmyn Nervion
+-575
+extract Ralmyn Nervion
+-575
+insert Llaalam Arns 526
+extract Elmussa Helas
+-778
+print
+  0: [empty]
+  1: [empty]
+  2: [empty]
+  3: [empty]
+  4: [empty]
+  5: Llaalam Arns -> 526
+  6: [empty]
+  7: [empty]
+  8: Favilea Saren -> -440
+  9: Irvsie Nelvani -> -441
+empty
+false
+size
+3
+insert Guril Tharyon 385
+size
+4
+insert Guril Tharyon 612
+Duplicate key!
+insert Irvsie Nelvani -985
+Duplicate key!
+hash_code Irvsie Nelvani
+9
+insert Raldenu Nalyn 791
+extract Llaalam Arns
+526
+extract Raldenu Nalyn
+791
+insert Danoso Moren 172
+extract Irvsie Nelvani
+-441
+print
+  0: [empty]
+  1: [empty]
+  2: Danoso Moren -> 172
+  3: [empty]
+  4: [empty]
+  5: [empty]
+  6: Guril Tharyon -> 385
+  7: [empty]
+  8: Favilea Saren -> -440
+  9: [empty]
+extract Danoso Moren
+172
+insert Vonden Maloren -440
+peek Vonden Maloren
+-440
+extract Vonden Maloren
+-440
+empty
+false
+print
+  0: [empty]
+  1: [empty]
+  2: [empty]
+  3: [empty]
+  4: [empty]
+  5: [empty]
+  6: Guril Tharyon -> 385
+  7: [empty]
+  8: Favilea Saren -> -440
+  9: [empty]
+hash_code Guril Tharyon
+6
+print
+  0: [empty]
+  1: [empty]
+  2: [empty]
+  3: [empty]
+  4: [empty]
+  5: [empty]
+  6: Guril Tharyon -> 385
+  7: [empty]
+  8: Favilea Saren -> -440
+  9: [empty]
+peek Favilea Saren
+-440
+size
+2
+print
+  0: [empty]
+  1: [empty]
+  2: [empty]
+  3: [empty]
+  4: [empty]
+  5: [empty]
+  6: Guril Tharyon -> 385
+  7: [empty]
+  8: Favilea Saren -> -440
+  9: [empty]
+hash_code Favilea Saren
+8
+print
+  0: [empty]
+  1: [empty]
+  2: [empty]
+  3: [empty]
+  4: [empty]
+  5: [empty]
+  6: Guril Tharyon -> 385
+  7: [empty]
+  8: Favilea Saren -> -440
+  9: [empty]
+insert Foryn Selarys 993
+size
+3
+peek Selman Beneran
+Key does not exist!
+print
+  0: [empty]
+  1: [empty]
+  2: [empty]
+  3: [empty]
+  4: Foryn Selarys -> 993
+  5: [empty]
+  6: Guril Tharyon -> 385
+  7: [empty]
+  8: Favilea Saren -> -440
+  9: [empty]
+empty
+false
+insert Valvosa Garvon 577
+bucket_count
+10
+hash_code Galsa Hleran
+8
+insert Lleras Andoren -782
+print
+  0: [empty]
+  1: Valvosa Garvon -> 577
+  2: [empty]
+  3: [empty]
+  4: Foryn Selarys -> 993
+  5: [empty]
+  6: Guril Tharyon -> 385
+  7: Lleras Andoren -> -782
+  8: Favilea Saren -> -440
+  9: [empty]
+insert Llaalamu Sadus 207
+peek Foryn Selarys
+993
+insert Alnas Herendas 795
+insert Sedyni Tharam -159
+insert Alvan Uveran -217
+extract Lleras Andoren
+-782
+extract Favilea Saren
+-440
+insert Avon Hardil 907
+hash_code Llaalamu Sadus
+4
+empty
+false
+extract Sedyni Tharam
+-159
+print
+  0: Alvan Uveran -> -217
+  1: Valvosa Garvon -> 577
+  2: [empty]
+  3: [empty]
+  4: Avon Hardil -> 907
+     └R: Llaalamu Sadus -> 207
+      └R: Foryn Selarys -> 993
+  5: [empty]
+  6: Guril Tharyon -> 385
+  7: [empty]
+  8: [empty]
+  9: Alnas Herendas -> 795
+extract Llaalamu Sadus
+207
+insert Dedaenc Tunel -963
+insert Valvosa Garvon 272
+Duplicate key!
+size
+7
+insert Vadusa Nethan -102
+size
+8
+extract Almse Nethalen
+Key does not exist!
+extract Valvosa Garvon
+577
+empty
+false
+insert Folvys Salaron 424
+insert Ulveni Favel 622
+peek Dedaenc Tunel
+-963
+insert Selmen Milar -860
+size
+10
+insert Dandera Indrano 774
+extract Avon Hardil
+907
+empty
+false
+peek Alvan Uveran
+-217
+peek Guril Tharyon
+385
+extract Guril Tharyon
+385
+size
+9
+peek Vadusa Nethan
+-102
+print
+  0: Vadusa Nethan -> -102
+     └R: Alvan Uveran -> -217
+  1: [empty]
+  2: [empty]
+  3: Folvys Salaron -> 424
+  4: Dandera Indrano -> 774
+     └R: Foryn Selarys -> 993
+  5: [empty]
+  6: [empty]
+  7: Dedaenc Tunel -> -963
+  8: [empty]
+  9: Selmen Milar -> -860
+     └L: Alnas Herendas -> 795
+      └L: Ulveni Favel -> 622
+extract Alnas Herendas
+795
+insert Dedaenc Telvayn -433
+peek Aroa Daram
+Key does not exist!
+insert Dunel Dalis -444
+extract Dandera Indrano
+774
+insert Drarayne Teria -796
+peek Dedaenc Tunel
+-963
+bucket_count
+10
+size
+10
+peek Alvan Uveran
+-217
+print
+  0: Alvan Uveran -> -217
+     └L: Vadusa Nethan -> -102
+  1: Dedaenc Telvayn -> -433
+  2: [empty]
+  3: Folvys Salaron -> 424
+  4: Foryn Selarys -> 993
+  5: [empty]
+  6: [empty]
+  7: Dedaenc Tunel -> -963
+  8: [empty]
+  9: Drarayne Teria -> -796
+     └L: Dunel Dalis -> -444
+      └R: Selmen Milar -> -860
+       └L: Ulveni Favel -> 622
+insert Folvys Salaron -381
+Duplicate key!
+quit

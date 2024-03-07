@@ -1,0 +1,35 @@
+string string
+15
+insert xn3ZpHY krfKnkt
+peek xn3ZpHY
+size
+peek xn3ZpHY
+bucket_count
+insert XgO6U8g 63Fcpz
+insert 8m0e6 GNybbzT
+insert geuqYFr4 6SPpzr2P
+print
+insert gp9XU5b EGgwgbT1
+extract xn3ZpHY
+size
+resize 4
+extract XgO6U8g
+hash_code 8m0e6
+extract gp9XU5b
+print
+empty
+insert CYXtB9Jf qMmc
+insert LPPBeXu qq2k
+hash_code LPPBeXu
+print
+bucket_count
+peek CYXtB9Jf
+insert pf5gbJ LEPt8xr
+print
+extract pf5gbJ
+insert 0KqfQc1F AEmLgK
+insert ySc7j HAV3jNER
+peek 8m0e6
+insert 60S9rh kUct
+size
+quit

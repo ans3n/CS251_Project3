@@ -1,0 +1,289 @@
+peek Danaronea Varis
+Key does not exist!
+insert Athanden Ofemalen Elynea Sedrethi
+bucket_count
+4
+insert Golvyni Llando Elynea Athin
+extract Athanden Ofemalen
+Elynea Sedrethi
+extract Golvyni Llando
+Elynea Athin
+size
+0
+extract Dartis Aralas
+Key does not exist!
+extract Morusu Dreloth
+Key does not exist!
+peek Golena Romari
+Key does not exist!
+print
+  0: [empty]
+  1: [empty]
+  2: [empty]
+  3: [empty]
+empty
+true
+size
+0
+peek Urtisa Deltis
+Key does not exist!
+empty
+true
+insert Braynas Moran Viras Hlervi
+empty
+false
+extract Braynas Moran
+Viras Hlervi
+extract Folvys Gilvani
+Key does not exist!
+bucket_count
+4
+extract Amili Bero
+Key does not exist!
+insert Direr Rothandus Ernil Andus
+insert Bedal Fels Farvam Sarothran
+insert Tarvus Othreloth Meralyn Arano
+peek Bedal Fels
+Farvam Sarothran
+extract Tarvus Othreloth
+Meralyn Arano
+insert Thadar Nadus Dralas Neladren
+extract Direr Rothandus
+Ernil Andus
+print
+  0: Thadar Nadus -> Dralas Neladren
+  1: Bedal Fels -> Farvam Sarothran
+  2: [empty]
+  3: [empty]
+insert Bels Neladren Gols Venim
+peek Thadar Nadus
+Dralas Neladren
+extract Bedal Fels
+Farvam Sarothran
+extract Thadar Nadus
+Dralas Neladren
+peek Bels Neladren
+Gols Venim
+bucket_count
+4
+insert Telvon Llendo Relms Guls
+peek Bels Neladren
+Gols Venim
+insert Torasa Veralor Gathal Terano
+extract Torasa Veralor
+Gathal Terano
+print
+  0: Bels Neladren -> Gols Venim
+  1: [empty]
+  2: [empty]
+  3: Telvon Llendo -> Relms Guls
+insert Raril Farano Movisa Salandas
+bucket_count
+4
+extract Raril Farano
+Movisa Salandas
+print
+  0: Bels Neladren -> Gols Venim
+  1: [empty]
+  2: [empty]
+  3: Telvon Llendo -> Relms Guls
+hash_code Bels Neladren
+0
+insert Vevrana Brenos Idros Rilvayn
+extract Vevrana Brenos
+Idros Rilvayn
+insert Gaden Ramarys Felvos Maren
+bucket_count
+4
+insert Garer Aralas Salora Veri
+peek Gaden Ramarys
+Felvos Maren
+bucket_count
+4
+peek Dralsea Sarandus
+Key does not exist!
+peek Garer Aralas
+Salora Veri
+empty
+false
+extract Telvon Llendo
+Relms Guls
+insert Garer Aralas Olvyne Arinith
+Duplicate key!
+insert Trerayna Thalor Dralasa Lleryn
+extract Garer Aralas
+Salora Veri
+extract Gorenea Tyravel
+Key does not exist!
+size
+3
+extract Trerayna Thalor
+Dralasa Lleryn
+insert Gaden Ramarys Ivrosa Vedrano
+Duplicate key!
+extract Gaden Ramarys
+Felvos Maren
+extract Bels Neladren
+Gols Venim
+bucket_count
+4
+print
+  0: [empty]
+  1: [empty]
+  2: [empty]
+  3: [empty]
+insert Adil Hler Galis Heran
+insert Vaden Relarys Nalur Dilmyn
+extract Adil Hler
+Galis Heran
+bucket_count
+4
+insert Rerynea Thirothan Darvam Sarendas
+extract Vaden Relarys
+Nalur Dilmyn
+insert Olvyne Rothan Ulms Reloro
+insert Gadayn Thiralas Llarar Ildram
+peek Dralosa Reni
+Key does not exist!
+extract Rerynea Thirothan
+Darvam Sarendas
+print
+  0: Gadayn Thiralas -> Llarar Ildram
+  1: [empty]
+  2: Olvyne Rothan -> Ulms Reloro
+  3: [empty]
+size
+2
+empty
+false
+bucket_count
+4
+insert Naral Merys Dathus Gilvilo
+extract Olvyne Rothan
+Ulms Reloro
+insert Vonden Adryn Thovasi Doran
+extract Vonden Adryn
+Thovasi Doran
+print
+  0: Gadayn Thiralas -> Llarar Ildram
+  1: [empty]
+  2: [empty]
+  3: Naral Merys -> Dathus Gilvilo
+insert Dram Renim Mils Mencele
+extract Llunela Gimalvel
+Key does not exist!
+extract Naral Merys
+Dathus Gilvilo
+extract Dram Renim
+Mils Mencele
+print
+  0: Gadayn Thiralas -> Llarar Ildram
+  1: [empty]
+  2: [empty]
+  3: [empty]
+bucket_count
+4
+hash_code Fevus Belden
+2
+hash_code Tanur Sarobar
+2
+hash_code Gadayn Thiralas
+0
+insert Bredasu Arethi Thadar Salvel
+extract Favani Othran
+Key does not exist!
+insert Tuvene Ilnith Dirver Telvayn
+print
+  0: Gadayn Thiralas -> Llarar Ildram
+  1: Tuvene Ilnith -> Dirver Telvayn
+     └L: Bredasu Arethi -> Thadar Salvel
+  2: [empty]
+  3: [empty]
+insert Gadayn Thiralas Taros Andas
+Duplicate key!
+extract Gadayn Thiralas
+Llarar Ildram
+peek Tuvene Ilnith
+Dirver Telvayn
+insert Giras Farothran Faves Rothalnim
+extract Giras Farothran
+Faves Rothalnim
+print
+  0: [empty]
+  1: Tuvene Ilnith -> Dirver Telvayn
+     └L: Bredasu Arethi -> Thadar Salvel
+  2: [empty]
+  3: [empty]
+insert Fevyn Dres Nalvilie Andalor
+insert Tinaso Rilvayn Lliram Sandas
+print
+  0: [empty]
+  1: Tinaso Rilvayn -> Lliram Sandas
+     └L: Tuvene Ilnith -> Dirver Telvayn
+      └L: Fevyn Dres -> Nalvilie Andalor
+       └L: Bredasu Arethi -> Thadar Salvel
+  2: [empty]
+  3: [empty]
+size
+4
+insert Faras Fals Maren Mano
+peek Tinaso Rilvayn
+Lliram Sandas
+insert Marilia Valaai Alurue Tilvur
+insert Bilsa Helothan Bervyn Nelvani
+peek Faras Fals
+Maren Mano
+empty
+false
+extract Tuvene Ilnith
+Dirver Telvayn
+extract Marilia Valaai
+Alurue Tilvur
+insert Dreynis Mathendis Rernel Beloren
+insert Fevyn Dres Dals Berendas
+Duplicate key!
+extract Tinaso Rilvayn
+Lliram Sandas
+extract Fevyn Dres
+Nalvilie Andalor
+peek Faras Fals
+Maren Mano
+extract Bilsa Helothan
+Bervyn Nelvani
+insert Falam Othril Evo Andalen
+extract Dreynis Mathendis
+Rernel Beloren
+extract Bredasu Arethi
+Thadar Salvel
+insert Vonos Arethan Drandryn Dathren
+print
+  0: [empty]
+  1: Falam Othril -> Evo Andalen
+  2: Vonos Arethan -> Drandryn Dathren
+     └R: Faras Fals -> Maren Mano
+  3: [empty]
+extract Faras Fals
+Maren Mano
+extract Falam Othril
+Evo Andalen
+extract Vonos Arethan
+Drandryn Dathren
+print
+  0: [empty]
+  1: [empty]
+  2: [empty]
+  3: [empty]
+extract Miluru Tures
+Key does not exist!
+extract Dils Telandas
+Key does not exist!
+size
+0
+peek Lliram Drin
+Key does not exist!
+hash_code Sarayn Verelnim
+3
+insert Llandrale Uleni Ethys Nerus
+peek Llandrale Uleni
+Ethys Nerus
+quit

@@ -1,0 +1,48 @@
+name name
+14
+size
+bucket_count
+empty
+insert Rayna Nerano Ondres Droth
+size
+insert Idula Ulvel Devas Omani
+print
+peek Rayna Nerano
+bucket_count
+insert Dralasa Dralayn Niras Selvayn
+bucket_count
+insert Goras Terandas Llaalamu Othren
+peek Dralasa Dralayn
+insert Gindrala Tistar Galar Garil
+size
+insert Bedenea Sathren Guls Madryon
+print
+peek Dralasa Dralayn
+extract Rayna Nerano
+peek Bedenea Sathren
+empty
+insert Ilen Andothan Dram Alam
+insert Nervana Nelas Ralam Guls
+hash_code Dralasa Dralayn
+insert Melur Othreloth Gilas Gimayn
+insert Farena Omaren Maralie Llothas
+extract Dralasa Dralayn
+insert Garvs Orethi Sortis Sadus
+print
+size
+empty
+size
+print
+insert Tunila Llaram Alurue Ramarys
+peek Bedenea Sathren
+empty
+print
+bucket_count
+extract Ilen Andothan
+peek Bedenea Sathren
+bucket_count
+peek Bedenea Sathren
+print
+insert Selman Reloro Nerile Sarothren
+hash_code Farena Omaren
+quit

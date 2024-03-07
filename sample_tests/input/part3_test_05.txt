@@ -1,0 +1,98 @@
+int int
+14
+insert 68 -654
+extract 68
+size
+print
+insert -388 581
+size
+extract -388
+peek -516
+insert 327 209
+size
+print
+insert 327 -814
+insert -932 -86
+insert 230 428
+size
+print
+peek -932
+insert -809 -405
+peek -169
+extract -809
+insert -536 -396
+peek -697
+insert 627 -887
+insert -205 798
+empty
+insert -148 -917
+bucket_count
+print
+extract 627
+peek -536
+extract -148
+hash_code -932
+peek -205
+peek 230
+print
+extract -860
+extract -536
+bucket_count
+extract 230
+empty
+insert 108 -230
+print
+insert -468 -663
+extract 108
+empty
+print
+insert 987 846
+insert 556 -28
+empty
+extract -205
+print
+bucket_count
+extract 556
+insert -210 -200
+insert -50 -543
+extract -210
+peek -468
+extract -932
+insert 712 604
+insert 938 -937
+extract 987
+peek -50
+empty
+insert 272 -126
+insert 161 711
+insert -50 -628
+print
+bucket_count
+extract -50
+insert 327 -998
+print
+peek 327
+print
+empty
+size
+extract 327
+extract 712
+peek -468
+extract 824
+extract -468
+empty
+peek 272
+extract 161
+empty
+extract 938
+insert 687 -286
+extract 687
+bucket_count
+extract 272
+insert -75 355
+empty
+print
+insert -323 506
+insert -566 209
+extract -323
+quit

@@ -1,0 +1,91 @@
+int float
+16
+insert 562 606.217
+insert 562 -412.688
+empty
+extract 562
+insert 231 -613.485
+insert 415 30.2083
+bucket_count
+insert 788 -87.0279
+size
+extract 788
+size
+extract 415
+extract 231
+insert -837 625.743
+resize 29
+extract -837
+insert 717 -368.158
+insert 963 -57.1625
+insert -435 -222.543
+insert 39 878.528
+bucket_count
+size
+extract -435
+bucket_count
+insert 39 949.258
+peek 39
+bucket_count
+insert 605 615.335
+insert -809 -690.302
+hash_code 39
+size
+insert 283 -909.262
+insert 344 -89.0731
+extract -809
+peek 605
+bucket_count
+insert -34 571.058
+extract 39
+hash_code 344
+peek 283
+extract 605
+insert -838 -618.986
+empty
+insert -820 832.916
+peek 283
+resize 36
+peek 960
+peek -34
+print
+empty
+extract -820
+peek -838
+insert -347 -202.628
+insert -467 -819.723
+peek 717
+insert 746 229.653
+bucket_count
+peek 963
+resize 11
+extract 963
+peek 717
+resize 26
+extract -838
+resize 33
+insert 748 718.433
+peek 717
+print
+bucket_count
+peek -467
+insert -543 -516.943
+size
+extract -543
+insert -358 498.583
+print
+hash_code 717
+bucket_count
+resize 20
+print
+insert 892 -182.091
+insert -928 -692.623
+bucket_count
+size
+resize 35
+print
+insert 820 -367.862
+print
+size
+hash_code -358
+quit

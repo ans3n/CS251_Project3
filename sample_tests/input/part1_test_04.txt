@@ -1,0 +1,33 @@
+name name
+8
+size
+insert Braynas Mencele Gals Sarandas
+print
+extract Braynas Mencele
+size
+insert Sovor Drolan Iveri Reloth
+insert Llandris Andas Iner Aralen
+insert Dralosa Andrelo Balen Vedaren
+extract Dralosa Andrelo
+bucket_count
+size
+peek Sovor Drolan
+insert Drolora Uvaram Llondryn Deras
+insert Raldenu Verethi Alvur Rothalor
+size
+resize 6
+print
+hash_code Llandris Andas
+peek Drolora Uvaram
+insert Bralen Alas Bivale Indobar
+empty
+bucket_count
+insert Ethes Romari Aryon Berer
+size
+print
+hash_code Sovor Drolan
+size
+insert Ganalyn Othril Llarara Vinden
+bucket_count
+print
+quit

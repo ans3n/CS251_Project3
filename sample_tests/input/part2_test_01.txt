@@ -1,0 +1,51 @@
+string int
+insert cb4Njb 965
+insert pWNGB 447
+peek pWNGB
+insert RGJhjxh -58
+insert pXCT57O3 625
+minimum_key
+peek pWNGB
+insert zT6Tvfp -547
+peek pXCT57O3
+maximum_key
+size
+insert HV9HX 672
+print
+insert SoPop2 372
+peek zT6Tvfp
+insert TpJa 693
+insert bp9lMif -570
+print
+insert A0njDxM -939
+size
+print
+size
+insert xub7LZj -677
+maximum_key
+minimum_key
+peek A0njDxM
+insert JEYXmxhB -955
+peek cb4Njb
+insert aWSGWo -399
+insert kBvZ 243
+insert dUlSG 723
+minimum_key
+size
+maximum_key
+print
+minimum_key
+maximum_key
+insert dMch7 799
+size
+insert vETor1d -126
+insert 9PVnIdP -478
+insert 5a3iTlVn -992
+size
+minimum_key
+insert kbg3O -750
+insert 0vHNG 630
+insert bQO9 959
+print
+maximum_key
+quit

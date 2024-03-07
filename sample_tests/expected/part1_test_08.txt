@@ -1,0 +1,302 @@
+insert Dovor Merys -486
+print
+  0: (0) Dovor Merys -> -486
+  1: [empty]
+  2: [empty]
+  3: [empty]
+  4: [empty]
+  5: [empty]
+  6: [empty]
+  7: [empty]
+  8: [empty]
+  9: [empty]
+ 10: [empty]
+ 11: [empty]
+ 12: [empty]
+size
+1
+bucket_count
+13
+peek Dovor Merys
+-486
+peek Dovor Merys
+-486
+insert Tharer Alas -336
+hash_code Tharer Alas
+3
+print
+  0: (0) Dovor Merys -> -486
+  1: [empty]
+  2: [empty]
+  3: (3) Tharer Alas -> -336
+  4: [empty]
+  5: [empty]
+  6: [empty]
+  7: [empty]
+  8: [empty]
+  9: [empty]
+ 10: [empty]
+ 11: [empty]
+ 12: [empty]
+peek Tharer Alas
+-336
+empty
+false
+resize 13
+bucket_count
+13
+insert Avoni Gimayn -54
+insert Ovis Omaren 31
+size
+4
+print
+  0: (0) Dovor Merys -> -486
+  1: [empty]
+  2: [empty]
+  3: (3) Tharer Alas -> -336
+  4: (3) Avoni Gimayn -> -54
+  5: [empty]
+  6: [empty]
+  7: (7) Ovis Omaren -> 31
+  8: [empty]
+  9: [empty]
+ 10: [empty]
+ 11: [empty]
+ 12: [empty]
+extract Ovis Omaren
+31
+size
+3
+insert Ralmyn Sadalvel 722
+insert Marilia Theman 680
+hash_code Avoni Gimayn
+3
+bucket_count
+13
+insert Brothes Fareloth -445
+resize 8
+insert Bolayn Fathyron 510
+resize 10
+insert Danso Retheran -800
+peek Tharer Alas
+-336
+size
+8
+insert Daryn Llaram -575
+bucket_count
+10
+extract Danso Retheran
+-800
+insert Ivrosa Hlervu 112
+extract Ivrosa Hlervu
+112
+size
+8
+insert Ulmiso Romothran -336
+extract Hlaroi Onmar
+Key does not exist!
+extract Ulmiso Romothran
+-336
+print
+  0: (0) Bolayn Fathyron -> 510
+  1: (0) Tharer Alas -> -336
+  2: (1) Avoni Gimayn -> -54
+  3: (1) Brothes Fareloth -> -445
+  4: (1) Ralmyn Sadalvel -> 722
+  5: (5) Marilia Theman -> 680
+  6: (3) Daryn Llaram -> -575
+  7: [empty]
+  8: (8) Dovor Merys -> -486
+  9: [empty]
+size
+8
+insert Dreyns Dareleth 427
+hash_code Marilia Theman
+5
+extract Avoni Gimayn
+-54
+extract Bolayn Fathyron
+510
+insert Ralmyn Sadalvel 767
+Duplicate key!
+peek Dovor Merys
+-486
+print
+  0: [empty]
+  1: (0) Tharer Alas -> -336
+  2: [empty]
+  3: (1) Brothes Fareloth -> -445
+  4: (1) Ralmyn Sadalvel -> 722
+  5: (5) Marilia Theman -> 680
+  6: (3) Daryn Llaram -> -575
+  7: (3) Dreyns Dareleth -> 427
+  8: (8) Dovor Merys -> -486
+  9: [empty]
+extract Dovor Merys
+-486
+insert Farvyn Ledd -169
+insert Voneri Andarys 295
+insert Narile Onmar -825
+insert Tharer Alas 466
+Duplicate key!
+size
+9
+insert Dralora Andral 325
+insert Fedar Elval -820
+empty
+false
+insert Thurisea Carvaren -647
+hash_code Ralmyn Sadalvel
+11
+resize 33
+insert Iner Rothalen -338
+extract Marilia Theman
+680
+print
+  0: [empty]
+  1: [empty]
+  2: (2) Iner Rothalen -> -338
+  3: [empty]
+  4: [empty]
+  5: [empty]
+  6: [empty]
+  7: [empty]
+  8: [empty]
+  9: [empty]
+ 10: (10) Tharer Alas -> -336
+ 11: (10) Voneri Andarys -> 295
+ 12: (12) Narile Onmar -> -825
+ 13: (11) Brothes Fareloth -> -445
+ 14: [empty]
+ 15: [empty]
+ 16: [empty]
+ 17: (17) Daryn Llaram -> -575
+ 18: (17) Dralora Andral -> 325
+ 19: (19) Ralmyn Sadalvel -> 722
+ 20: [empty]
+ 21: (21) Farvyn Ledd -> -169
+ 22: [empty]
+ 23: [empty]
+ 24: (24) Fedar Elval -> -820
+ 25: [empty]
+ 26: [empty]
+ 27: (27) Thurisea Carvaren -> -647
+ 28: (28) Dreyns Dareleth -> 427
+ 29: [empty]
+ 30: [empty]
+ 31: [empty]
+ 32: [empty]
+resize 34
+insert Toris Giral -788
+hash_code Dreyns Dareleth
+21
+empty
+false
+print
+  0: [empty]
+  1: (1) Voneri Andarys -> 295
+  2: [empty]
+  3: [empty]
+  4: [empty]
+  5: [empty]
+  6: [empty]
+  7: [empty]
+  8: (8) Tharer Alas -> -336
+  9: (9) Daryn Llaram -> -575
+ 10: (8) Farvyn Ledd -> -169
+ 11: [empty]
+ 12: [empty]
+ 13: [empty]
+ 14: (14) Iner Rothalen -> -338
+ 15: [empty]
+ 16: [empty]
+ 17: [empty]
+ 18: (18) Dralora Andral -> 325
+ 19: (19) Brothes Fareloth -> -445
+ 20: (20) Toris Giral -> -788
+ 21: (21) Dreyns Dareleth -> 427
+ 22: (22) Thurisea Carvaren -> -647
+ 23: [empty]
+ 24: [empty]
+ 25: (25) Narile Onmar -> -825
+ 26: (25) Ralmyn Sadalvel -> 722
+ 27: [empty]
+ 28: [empty]
+ 29: (29) Fedar Elval -> -820
+ 30: [empty]
+ 31: [empty]
+ 32: [empty]
+ 33: [empty]
+bucket_count
+34
+insert Vadusa Sarothril 518
+insert Seler Raviro 801
+extract Ralmyn Sadalvel
+722
+insert Diradeni Madryon -398
+insert Milara Trandel 742
+size
+16
+extract Daryn Llaram
+-575
+size
+15
+insert Farvyn Raviro 886
+extract Vadusa Sarothril
+518
+extract Tharer Alas
+-336
+insert Falvel Urns 521
+extract Brothes Fareloth
+-445
+extract Ferone Onmar
+Key does not exist!
+peek Gilse Arvel
+Key does not exist!
+insert Balynu Braven 994
+insert Dalyne Lladri -675
+insert Manara Dulni -504
+resize 32
+print
+  0: (0) Seler Raviro -> 801
+  1: (30) Thurisea Carvaren -> -647
+  2: [empty]
+  3: [empty]
+  4: (4) Farvyn Ledd -> -169
+  5: [empty]
+  6: [empty]
+  7: (7) Diradeni Madryon -> -398
+  8: [empty]
+  9: (9) Dreyns Dareleth -> 427
+ 10: [empty]
+ 11: [empty]
+ 12: [empty]
+ 13: [empty]
+ 14: (14) Manara Dulni -> -504
+ 15: [empty]
+ 16: [empty]
+ 17: [empty]
+ 18: (18) Iner Rothalen -> -338
+ 19: (19) Falvel Urns -> 521
+ 20: [empty]
+ 21: (21) Fedar Elval -> -820
+ 22: (22) Dralora Andral -> 325
+ 23: [empty]
+ 24: [empty]
+ 25: (25) Dalyne Lladri -> -675
+ 26: (25) Balynu Braven -> 994
+ 27: (25) Narile Onmar -> -825
+ 28: (28) Farvyn Raviro -> 886
+ 29: (29) Milara Trandel -> 742
+ 30: (30) Toris Giral -> -788
+ 31: (31) Voneri Andarys -> 295
+extract Farvyn Ledd
+-169
+insert Drolora Avilo -388
+size
+17
+peek Voneri Andarys
+295
+insert Dreyns Dareleth 233
+Duplicate key!
+quit

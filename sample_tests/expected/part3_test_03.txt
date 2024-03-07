@@ -1,0 +1,1692 @@
+insert pUc97p 63
+peek pUc97p
+63
+peek pUc97p
+63
+insert QNyXZTPM 826
+insert 0dn41bkC 685
+bucket_count
+12
+insert VcF8S30 836
+insert zEqwkzl -363
+size
+5
+hash_code pUc97p
+0
+empty
+false
+bucket_count
+12
+print
+  0: pUc97p -> 63
+  1: [empty]
+  2: [empty]
+  3: [empty]
+  4: [empty]
+  5: 0dn41bkC -> 685
+  6: [empty]
+  7: [empty]
+  8: [empty]
+  9: VcF8S30 -> 836
+     └L: QNyXZTPM -> 826
+ 10: zEqwkzl -> -363
+ 11: [empty]
+size
+5
+print
+  0: pUc97p -> 63
+  1: [empty]
+  2: [empty]
+  3: [empty]
+  4: [empty]
+  5: 0dn41bkC -> 685
+  6: [empty]
+  7: [empty]
+  8: [empty]
+  9: VcF8S30 -> 836
+     └L: QNyXZTPM -> 826
+ 10: zEqwkzl -> -363
+ 11: [empty]
+insert M0ffadhj -811
+insert xizPsN3o -586
+bucket_count
+12
+hash_code 0dn41bkC
+5
+extract M0ffadhj
+-811
+insert clZv4 155
+peek zEqwkzl
+-363
+extract zEqwkzl
+-363
+empty
+false
+insert VrFp8 603
+extract VrFp8
+603
+insert nrVro -883
+hash_code QNyXZTPM
+9
+insert GSas5Ba -335
+insert xaJo 492
+size
+9
+empty
+false
+insert 1h7yab -460
+insert Ai3Ys4B 735
+insert eJi4wfe -959
+insert Pc2hXh 761
+extract pUc97p
+63
+empty
+false
+extract nrVro
+-883
+insert duqgFGXu 425
+insert fn63CT1Q -980
+extract xizPsN3o
+-586
+insert hMOaoE 450
+insert Evw0z4dR -268
+insert SNYH -182
+hash_code VcF8S30
+9
+size
+15
+empty
+false
+print
+  0: Pc2hXh -> 761
+  1: GSas5Ba -> -335
+  2: [empty]
+  3: Evw0z4dR -> -268
+  4: SNYH -> -182
+     └R: duqgFGXu -> 425
+  5: 0dn41bkC -> 685
+  6: [empty]
+  7: [empty]
+  8: Ai3Ys4B -> 735
+     └R: clZv4 -> 155
+      └R: xaJo -> 492
+  9: VcF8S30 -> 836
+     └L: QNyXZTPM -> 826
+ 10: hMOaoE -> 450
+ 11: fn63CT1Q -> -980
+     └L: eJi4wfe -> -959
+      └L: 1h7yab -> -460
+insert FFgH -595
+insert CsxmcNMa -398
+insert N6TE -90
+insert Khfsv17M 126
+insert 0WoLcSe 923
+extract duqgFGXu
+425
+insert J5k2BbL 832
+hash_code N6TE
+1
+peek Khfsv17M
+126
+extract hMOaoE
+450
+insert PHD9OScT 926
+insert itrA -579
+empty
+false
+print
+  0: J5k2BbL -> 832
+     └R: Pc2hXh -> 761
+  1: N6TE -> -90
+     └L: GSas5Ba -> -335
+  2: [empty]
+  3: Evw0z4dR -> -268
+  4: 0WoLcSe -> 923
+     └R: SNYH -> -182
+      └L: FFgH -> -595
+  5: Khfsv17M -> 126
+     └L: CsxmcNMa -> -398
+      └L: 0dn41bkC -> 685
+  6: itrA -> -579
+  7: [empty]
+  8: Ai3Ys4B -> 735
+     └R: clZv4 -> 155
+      └R: xaJo -> 492
+  9: PHD9OScT -> 926
+     └R: QNyXZTPM -> 826
+      └R: VcF8S30 -> 836
+ 10: [empty]
+ 11: fn63CT1Q -> -980
+     └L: eJi4wfe -> -959
+      └L: 1h7yab -> -460
+insert G0UDRYQ 315
+insert 4xET 391
+size
+23
+extract 0WoLcSe
+923
+size
+22
+peek eJi4wfe
+-959
+hash_code N6TE
+1
+empty
+false
+extract Evw0z4dR
+-268
+empty
+false
+insert rN4CIa -42
+extract GSas5Ba
+-335
+insert eFNA 141
+size
+22
+extract itrA
+-579
+empty
+false
+size
+21
+peek clZv4
+155
+extract SNYH
+-182
+insert lRnzdW -175
+insert CxMT -974
+insert 7QlGbfAy 124
+size
+23
+extract G0UDRYQ
+315
+bucket_count
+12
+insert DWbjZzO3 697
+peek CsxmcNMa
+-398
+empty
+false
+insert 35jTL 758
+insert LrcVYHOK -17
+print
+  0: DWbjZzO3 -> 697
+     └R: J5k2BbL -> 832
+      └R: Pc2hXh -> 761
+  1: lRnzdW -> -175
+     └L: N6TE -> -90
+  2: LrcVYHOK -> -17
+     └R: eFNA -> 141
+  3: 4xET -> 391
+  4: FFgH -> -595
+  5: CsxmcNMa -> -398
+     ├L: 0dn41bkC -> 685
+     └R: Khfsv17M -> 126
+  6: [empty]
+  7: [empty]
+  8: clZv4 -> 155
+     ├L: Ai3Ys4B -> 735
+     └R: xaJo -> 492
+  9: PHD9OScT -> 926
+     └R: QNyXZTPM -> 826
+      └R: VcF8S30 -> 836
+ 10: 35jTL -> 758
+     └R: 7QlGbfAy -> 124
+ 11: CxMT -> -974
+     ├L: 1h7yab -> -460
+     └R: fn63CT1Q -> -980
+      ├L: eJi4wfe -> -959
+      └R: rN4CIa -> -42
+insert JCGPF 26
+bucket_count
+12
+peek eJi4wfe
+-959
+print
+  0: JCGPF -> 26
+     ├L: DWbjZzO3 -> 697
+     │└R: J5k2BbL -> 832
+     └R: Pc2hXh -> 761
+  1: lRnzdW -> -175
+     └L: N6TE -> -90
+  2: LrcVYHOK -> -17
+     └R: eFNA -> 141
+  3: 4xET -> 391
+  4: FFgH -> -595
+  5: CsxmcNMa -> -398
+     ├L: 0dn41bkC -> 685
+     └R: Khfsv17M -> 126
+  6: [empty]
+  7: [empty]
+  8: clZv4 -> 155
+     ├L: Ai3Ys4B -> 735
+     └R: xaJo -> 492
+  9: PHD9OScT -> 926
+     └R: QNyXZTPM -> 826
+      └R: VcF8S30 -> 836
+ 10: 35jTL -> 758
+     └R: 7QlGbfAy -> 124
+ 11: eJi4wfe -> -959
+     ├L: CxMT -> -974
+     │└L: 1h7yab -> -460
+     └R: fn63CT1Q -> -980
+      └R: rN4CIa -> -42
+peek 7QlGbfAy
+124
+bucket_count
+12
+hash_code 35jTL
+10
+hash_code LrcVYHOK
+2
+size
+26
+extract PHD9OScT
+926
+extract 7QlGbfAy
+124
+extract clZv4
+155
+insert SjndPE -189
+print
+  0: JCGPF -> 26
+     ├L: DWbjZzO3 -> 697
+     │└R: J5k2BbL -> 832
+     └R: Pc2hXh -> 761
+  1: lRnzdW -> -175
+     └L: N6TE -> -90
+  2: LrcVYHOK -> -17
+     └R: eFNA -> 141
+  3: 4xET -> 391
+  4: FFgH -> -595
+  5: CsxmcNMa -> -398
+     ├L: 0dn41bkC -> 685
+     └R: Khfsv17M -> 126
+  6: [empty]
+  7: [empty]
+  8: xaJo -> 492
+     └L: Ai3Ys4B -> 735
+  9: QNyXZTPM -> 826
+     └R: VcF8S30 -> 836
+ 10: SjndPE -> -189
+     └L: 35jTL -> 758
+ 11: eJi4wfe -> -959
+     ├L: CxMT -> -974
+     │└L: 1h7yab -> -460
+     └R: fn63CT1Q -> -980
+      └R: rN4CIa -> -42
+extract Pc2hXh
+761
+extract J5k2BbL
+832
+insert NHIul 919
+insert dp9KZDy -99
+insert Brig5pt5 778
+peek Khfsv17M
+126
+empty
+false
+insert FYhfQN -772
+insert XJm4 -592
+extract xaJo
+492
+hash_code CsxmcNMa
+5
+bucket_count
+12
+insert NcxEGjs 307
+peek FYhfQN
+-772
+print
+  0: NHIul -> 919
+     └L: JCGPF -> 26
+      └L: DWbjZzO3 -> 697
+  1: lRnzdW -> -175
+     └L: N6TE -> -90
+  2: LrcVYHOK -> -17
+     └R: eFNA -> 141
+  3: dp9KZDy -> -99
+     └L: 4xET -> 391
+  4: FFgH -> -595
+  5: FYhfQN -> -772
+     ├L: CsxmcNMa -> -398
+     │└L: 0dn41bkC -> 685
+     └R: Khfsv17M -> 126
+  6: [empty]
+  7: Brig5pt5 -> 778
+  8: NcxEGjs -> 307
+     └L: Ai3Ys4B -> 735
+  9: QNyXZTPM -> 826
+     └R: VcF8S30 -> 836
+ 10: SjndPE -> -189
+     └L: 35jTL -> 758
+ 11: XJm4 -> -592
+     ├L: CxMT -> -974
+     │└L: 1h7yab -> -460
+     └R: eJi4wfe -> -959
+      └R: fn63CT1Q -> -980
+       └R: rN4CIa -> -42
+insert DzgZ2Bh -494
+print
+  0: NHIul -> 919
+     └L: JCGPF -> 26
+      └L: DWbjZzO3 -> 697
+  1: lRnzdW -> -175
+     └L: N6TE -> -90
+  2: LrcVYHOK -> -17
+     └R: eFNA -> 141
+  3: dp9KZDy -> -99
+     └L: 4xET -> 391
+  4: FFgH -> -595
+  5: FYhfQN -> -772
+     ├L: CsxmcNMa -> -398
+     │└L: 0dn41bkC -> 685
+     └R: Khfsv17M -> 126
+  6: [empty]
+  7: Brig5pt5 -> 778
+  8: NcxEGjs -> 307
+     └L: Ai3Ys4B -> 735
+  9: QNyXZTPM -> 826
+     └R: VcF8S30 -> 836
+ 10: SjndPE -> -189
+     └L: 35jTL -> 758
+ 11: DzgZ2Bh -> -494
+     ├L: CxMT -> -974
+     │└L: 1h7yab -> -460
+     └R: XJm4 -> -592
+      └R: eJi4wfe -> -959
+       └R: fn63CT1Q -> -980
+        └R: rN4CIa -> -42
+insert zm59wMxS -361
+hash_code FFgH
+4
+insert qwdmtUp 975
+empty
+false
+size
+30
+insert 7fqzct 902
+bucket_count
+12
+insert yKcoM 29
+empty
+false
+hash_code FFgH
+4
+insert GtUC 806
+peek rN4CIa
+-42
+extract JCGPF
+26
+size
+32
+peek SjndPE
+-189
+peek Khfsv17M
+126
+insert GFLR5l2 -840
+insert ARiJo2 -598
+insert rZfoPa -221
+print
+  0: NHIul -> 919
+     ├L: DWbjZzO3 -> 697
+     └R: yKcoM -> 29
+  1: lRnzdW -> -175
+     └L: N6TE -> -90
+  2: qwdmtUp -> 975
+     └L: eFNA -> 141
+      └L: LrcVYHOK -> -17
+  3: dp9KZDy -> -99
+     └L: 4xET -> 391
+  4: ARiJo2 -> -598
+     └R: FFgH -> -595
+  5: Khfsv17M -> 126
+     └L: FYhfQN -> -772
+      └L: CsxmcNMa -> -398
+       └L: 0dn41bkC -> 685
+  6: [empty]
+  7: Brig5pt5 -> 778
+  8: zm59wMxS -> -361
+     └L: NcxEGjs -> 307
+      └L: Ai3Ys4B -> 735
+  9: QNyXZTPM -> 826
+     └R: VcF8S30 -> 836
+ 10: rZfoPa -> -221
+     └L: SjndPE -> -189
+      └L: GFLR5l2 -> -840
+       └L: 7fqzct -> 902
+        └L: 35jTL -> 758
+ 11: rN4CIa -> -42
+     └L: XJm4 -> -592
+      ├L: GtUC -> 806
+      │└L: DzgZ2Bh -> -494
+      │ └L: CxMT -> -974
+      │  └L: 1h7yab -> -460
+      └R: fn63CT1Q -> -980
+       └L: eJi4wfe -> -959
+insert 86n065e -467
+print
+  0: NHIul -> 919
+     ├L: DWbjZzO3 -> 697
+     └R: yKcoM -> 29
+  1: lRnzdW -> -175
+     └L: N6TE -> -90
+  2: qwdmtUp -> 975
+     └L: eFNA -> 141
+      └L: LrcVYHOK -> -17
+  3: dp9KZDy -> -99
+     └L: 4xET -> 391
+  4: ARiJo2 -> -598
+     └R: FFgH -> -595
+  5: Khfsv17M -> 126
+     └L: FYhfQN -> -772
+      └L: CsxmcNMa -> -398
+       └L: 0dn41bkC -> 685
+  6: [empty]
+  7: Brig5pt5 -> 778
+  8: 86n065e -> -467
+     └R: zm59wMxS -> -361
+      └L: Ai3Ys4B -> 735
+       └R: NcxEGjs -> 307
+  9: QNyXZTPM -> 826
+     └R: VcF8S30 -> 836
+ 10: rZfoPa -> -221
+     └L: SjndPE -> -189
+      └L: GFLR5l2 -> -840
+       └L: 7fqzct -> 902
+        └L: 35jTL -> 758
+ 11: rN4CIa -> -42
+     └L: XJm4 -> -592
+      ├L: GtUC -> 806
+      │└L: DzgZ2Bh -> -494
+      │ └L: CxMT -> -974
+      │  └L: 1h7yab -> -460
+      └R: fn63CT1Q -> -980
+       └L: eJi4wfe -> -959
+hash_code 4xET
+3
+extract LrcVYHOK
+-17
+peek CsxmcNMa
+-398
+insert lYXhvWZ -212
+insert eVtZ -542
+extract lYXhvWZ
+-212
+extract ARiJo2
+-598
+peek NHIul
+919
+insert 6V6KW4id -452
+size
+36
+insert zlRqg 291
+bucket_count
+12
+hash_code FFgH
+4
+peek 0dn41bkC
+685
+peek eFNA
+141
+peek 4xET
+391
+size
+37
+insert NfLm -773
+peek DzgZ2Bh
+-494
+insert 4e1hn7wh -230
+bucket_count
+12
+peek 7fqzct
+902
+insert K1a972XJ -759
+insert tLKsV -931
+insert PZmOC3L -183
+insert TUi8l 707
+insert ANiMQ -784
+insert pFwZ 989
+extract 1h7yab
+-460
+empty
+false
+insert 704O -346
+extract FFgH
+-595
+insert CA7r5MX0 -231
+hash_code Khfsv17M
+5
+size
+45
+extract eJi4wfe
+-959
+peek K1a972XJ
+-759
+hash_code CxMT
+11
+empty
+false
+extract NHIul
+919
+insert dAuFUWRg 809
+hash_code rN4CIa
+11
+insert YDpT2 -442
+peek yKcoM
+29
+insert A8dT 505
+peek Brig5pt5
+778
+insert k9jOD -102
+empty
+false
+extract Ai3Ys4B
+735
+size
+46
+hash_code yKcoM
+0
+peek tLKsV
+-931
+print
+  0: yKcoM -> 29
+     └L: eVtZ -> -542
+      └L: NfLm -> -773
+       └L: DWbjZzO3 -> 697
+  1: A8dT -> 505
+     └R: N6TE -> -90
+      └R: lRnzdW -> -175
+  2: dAuFUWRg -> 809
+     ├L: K1a972XJ -> -759
+     │└L: ANiMQ -> -784
+     └R: eFNA -> 141
+      └R: qwdmtUp -> 975
+  3: 4xET -> 391
+     └R: dp9KZDy -> -99
+  4: PZmOC3L -> -183
+     └R: pFwZ -> 989
+  5: 0dn41bkC -> 685
+     └R: CsxmcNMa -> -398
+      └R: FYhfQN -> -772
+       └R: Khfsv17M -> 126
+  6: tLKsV -> -931
+     ├L: k9jOD -> -102
+     │└L: 4e1hn7wh -> -230
+     └R: zlRqg -> 291
+  7: Brig5pt5 -> 778
+  8: NcxEGjs -> 307
+     ├L: 86n065e -> -467
+     └R: zm59wMxS -> -361
+  9: YDpT2 -> -442
+     └L: 704O -> -346
+      ├L: 6V6KW4id -> -452
+      └R: VcF8S30 -> 836
+       └L: TUi8l -> 707
+        └L: QNyXZTPM -> 826
+ 10: CA7r5MX0 -> -231
+     ├L: 7fqzct -> 902
+     │└L: 35jTL -> 758
+     └R: GFLR5l2 -> -840
+      └R: rZfoPa -> -221
+       └L: SjndPE -> -189
+ 11: fn63CT1Q -> -980
+     ├L: DzgZ2Bh -> -494
+     │├L: CxMT -> -974
+     │└R: GtUC -> 806
+     │ └R: XJm4 -> -592
+     └R: rN4CIa -> -42
+bucket_count
+12
+insert yPYi -340
+extract rZfoPa
+-221
+bucket_count
+12
+insert Z6pQRAz 990
+print
+  0: yKcoM -> 29
+     └L: eVtZ -> -542
+      └L: NfLm -> -773
+       └L: DWbjZzO3 -> 697
+  1: A8dT -> 505
+     └R: N6TE -> -90
+      └R: lRnzdW -> -175
+  2: dAuFUWRg -> 809
+     ├L: K1a972XJ -> -759
+     │└L: ANiMQ -> -784
+     └R: eFNA -> 141
+      └R: qwdmtUp -> 975
+  3: 4xET -> 391
+     └R: dp9KZDy -> -99
+  4: PZmOC3L -> -183
+     └R: pFwZ -> 989
+  5: 0dn41bkC -> 685
+     └R: CsxmcNMa -> -398
+      └R: FYhfQN -> -772
+       └R: Khfsv17M -> 126
+  6: tLKsV -> -931
+     ├L: k9jOD -> -102
+     │└L: 4e1hn7wh -> -230
+     └R: zlRqg -> 291
+  7: yPYi -> -340
+     └L: Brig5pt5 -> 778
+  8: Z6pQRAz -> 990
+     ├L: NcxEGjs -> 307
+     │└L: 86n065e -> -467
+     └R: zm59wMxS -> -361
+  9: YDpT2 -> -442
+     └L: 704O -> -346
+      ├L: 6V6KW4id -> -452
+      └R: VcF8S30 -> 836
+       └L: TUi8l -> 707
+        └L: QNyXZTPM -> 826
+ 10: GFLR5l2 -> -840
+     ├L: CA7r5MX0 -> -231
+     │└L: 7fqzct -> 902
+     │ └L: 35jTL -> 758
+     └R: SjndPE -> -189
+ 11: fn63CT1Q -> -980
+     ├L: DzgZ2Bh -> -494
+     │├L: CxMT -> -974
+     │└R: GtUC -> 806
+     │ └R: XJm4 -> -592
+     └R: rN4CIa -> -42
+insert ljD7MmFm -805
+extract QNyXZTPM
+826
+peek Z6pQRAz
+990
+insert QoAK 142
+extract GFLR5l2
+-840
+insert DMkS -131
+print
+  0: yKcoM -> 29
+     └L: eVtZ -> -542
+      └L: NfLm -> -773
+       └L: DWbjZzO3 -> 697
+  1: QoAK -> 142
+     ├L: A8dT -> 505
+     │└R: N6TE -> -90
+     └R: lRnzdW -> -175
+  2: dAuFUWRg -> 809
+     ├L: K1a972XJ -> -759
+     │└L: ANiMQ -> -784
+     └R: eFNA -> 141
+      └R: qwdmtUp -> 975
+  3: 4xET -> 391
+     └R: dp9KZDy -> -99
+  4: PZmOC3L -> -183
+     └R: pFwZ -> 989
+  5: 0dn41bkC -> 685
+     └R: CsxmcNMa -> -398
+      └R: FYhfQN -> -772
+       └R: Khfsv17M -> 126
+  6: tLKsV -> -931
+     ├L: k9jOD -> -102
+     │└L: 4e1hn7wh -> -230
+     └R: zlRqg -> 291
+  7: yPYi -> -340
+     └L: Brig5pt5 -> 778
+  8: Z6pQRAz -> 990
+     ├L: NcxEGjs -> 307
+     │└L: 86n065e -> -467
+     └R: zm59wMxS -> -361
+  9: TUi8l -> 707
+     ├L: 704O -> -346
+     │└L: 6V6KW4id -> -452
+     └R: YDpT2 -> -442
+      └L: VcF8S30 -> 836
+ 10: SjndPE -> -189
+     └L: CA7r5MX0 -> -231
+      └L: 7fqzct -> 902
+       └L: 35jTL -> 758
+ 11: DMkS -> -131
+     ├L: CxMT -> -974
+     └R: fn63CT1Q -> -980
+      ├L: DzgZ2Bh -> -494
+      │└R: GtUC -> 806
+      │ └R: XJm4 -> -592
+      └R: ljD7MmFm -> -805
+       └R: rN4CIa -> -42
+extract k9jOD
+-102
+bucket_count
+12
+size
+47
+peek tLKsV
+-931
+bucket_count
+12
+size
+47
+insert cJ4uM7aK -809
+insert LDVn -811
+insert ZoS2hB -348
+hash_code DMkS
+11
+peek NfLm
+-773
+peek cJ4uM7aK
+-809
+insert l5Ln305 -787
+insert 9Kk9 719
+print
+  0: cJ4uM7aK -> -809
+     ├L: NfLm -> -773
+     │└L: DWbjZzO3 -> 697
+     └R: yKcoM -> 29
+      └L: eVtZ -> -542
+  1: 9Kk9 -> 719
+     └R: l5Ln305 -> -787
+      ├L: A8dT -> 505
+      │└R: QoAK -> 142
+      │ └L: N6TE -> -90
+      └R: lRnzdW -> -175
+  2: LDVn -> -811
+     ├L: K1a972XJ -> -759
+     │└L: ANiMQ -> -784
+     └R: dAuFUWRg -> 809
+      └R: eFNA -> 141
+       └R: qwdmtUp -> 975
+  3: 4xET -> 391
+     └R: dp9KZDy -> -99
+  4: PZmOC3L -> -183
+     └R: pFwZ -> 989
+  5: 0dn41bkC -> 685
+     └R: CsxmcNMa -> -398
+      └R: FYhfQN -> -772
+       └R: Khfsv17M -> 126
+  6: tLKsV -> -931
+     ├L: 4e1hn7wh -> -230
+     └R: zlRqg -> 291
+  7: ZoS2hB -> -348
+     ├L: Brig5pt5 -> 778
+     └R: yPYi -> -340
+  8: Z6pQRAz -> 990
+     ├L: NcxEGjs -> 307
+     │└L: 86n065e -> -467
+     └R: zm59wMxS -> -361
+  9: TUi8l -> 707
+     ├L: 704O -> -346
+     │└L: 6V6KW4id -> -452
+     └R: YDpT2 -> -442
+      └L: VcF8S30 -> 836
+ 10: SjndPE -> -189
+     └L: CA7r5MX0 -> -231
+      └L: 7fqzct -> 902
+       └L: 35jTL -> 758
+ 11: DMkS -> -131
+     ├L: CxMT -> -974
+     └R: fn63CT1Q -> -980
+      ├L: DzgZ2Bh -> -494
+      │└R: GtUC -> 806
+      │ └R: XJm4 -> -592
+      └R: ljD7MmFm -> -805
+       └R: rN4CIa -> -42
+empty
+false
+bucket_count
+12
+insert YdJT -472
+insert 2WOn82 524
+peek LDVn
+-811
+insert nne5P -758
+size
+55
+print
+  0: YdJT -> -472
+     ├L: NfLm -> -773
+     │└L: DWbjZzO3 -> 697
+     └R: cJ4uM7aK -> -809
+      └R: yKcoM -> 29
+       └L: eVtZ -> -542
+  1: 9Kk9 -> 719
+     └R: l5Ln305 -> -787
+      ├L: A8dT -> 505
+      │└R: QoAK -> 142
+      │ └L: N6TE -> -90
+      └R: lRnzdW -> -175
+  2: LDVn -> -811
+     ├L: K1a972XJ -> -759
+     │└L: ANiMQ -> -784
+     └R: dAuFUWRg -> 809
+      └R: eFNA -> 141
+       └R: qwdmtUp -> 975
+  3: 4xET -> 391
+     └R: dp9KZDy -> -99
+  4: PZmOC3L -> -183
+     └R: pFwZ -> 989
+  5: 0dn41bkC -> 685
+     └R: CsxmcNMa -> -398
+      └R: FYhfQN -> -772
+       └R: Khfsv17M -> 126
+  6: nne5P -> -758
+     ├L: 2WOn82 -> 524
+     │└R: 4e1hn7wh -> -230
+     └R: tLKsV -> -931
+      └R: zlRqg -> 291
+  7: ZoS2hB -> -348
+     ├L: Brig5pt5 -> 778
+     └R: yPYi -> -340
+  8: Z6pQRAz -> 990
+     ├L: NcxEGjs -> 307
+     │└L: 86n065e -> -467
+     └R: zm59wMxS -> -361
+  9: TUi8l -> 707
+     ├L: 704O -> -346
+     │└L: 6V6KW4id -> -452
+     └R: YDpT2 -> -442
+      └L: VcF8S30 -> 836
+ 10: SjndPE -> -189
+     └L: CA7r5MX0 -> -231
+      └L: 7fqzct -> 902
+       └L: 35jTL -> 758
+ 11: DMkS -> -131
+     ├L: CxMT -> -974
+     └R: fn63CT1Q -> -980
+      ├L: DzgZ2Bh -> -494
+      │└R: GtUC -> 806
+      │ └R: XJm4 -> -592
+      └R: ljD7MmFm -> -805
+       └R: rN4CIa -> -42
+extract Z6pQRAz
+990
+hash_code Brig5pt5
+7
+print
+  0: YdJT -> -472
+     ├L: NfLm -> -773
+     │└L: DWbjZzO3 -> 697
+     └R: cJ4uM7aK -> -809
+      └R: yKcoM -> 29
+       └L: eVtZ -> -542
+  1: 9Kk9 -> 719
+     └R: l5Ln305 -> -787
+      ├L: A8dT -> 505
+      │└R: QoAK -> 142
+      │ └L: N6TE -> -90
+      └R: lRnzdW -> -175
+  2: LDVn -> -811
+     ├L: K1a972XJ -> -759
+     │└L: ANiMQ -> -784
+     └R: dAuFUWRg -> 809
+      └R: eFNA -> 141
+       └R: qwdmtUp -> 975
+  3: 4xET -> 391
+     └R: dp9KZDy -> -99
+  4: PZmOC3L -> -183
+     └R: pFwZ -> 989
+  5: 0dn41bkC -> 685
+     └R: CsxmcNMa -> -398
+      └R: FYhfQN -> -772
+       └R: Khfsv17M -> 126
+  6: nne5P -> -758
+     ├L: 2WOn82 -> 524
+     │└R: 4e1hn7wh -> -230
+     └R: tLKsV -> -931
+      └R: zlRqg -> 291
+  7: ZoS2hB -> -348
+     ├L: Brig5pt5 -> 778
+     └R: yPYi -> -340
+  8: zm59wMxS -> -361
+     └L: NcxEGjs -> 307
+      └L: 86n065e -> -467
+  9: TUi8l -> 707
+     ├L: 704O -> -346
+     │└L: 6V6KW4id -> -452
+     └R: YDpT2 -> -442
+      └L: VcF8S30 -> 836
+ 10: SjndPE -> -189
+     └L: CA7r5MX0 -> -231
+      └L: 7fqzct -> 902
+       └L: 35jTL -> 758
+ 11: DMkS -> -131
+     ├L: CxMT -> -974
+     └R: fn63CT1Q -> -980
+      ├L: DzgZ2Bh -> -494
+      │└R: GtUC -> 806
+      │ └R: XJm4 -> -592
+      └R: ljD7MmFm -> -805
+       └R: rN4CIa -> -42
+insert nbbeRf -801
+insert f1Af -136
+size
+56
+print
+  0: YdJT -> -472
+     ├L: NfLm -> -773
+     │└L: DWbjZzO3 -> 697
+     └R: cJ4uM7aK -> -809
+      └R: yKcoM -> 29
+       └L: eVtZ -> -542
+  1: 9Kk9 -> 719
+     └R: l5Ln305 -> -787
+      ├L: A8dT -> 505
+      │└R: QoAK -> 142
+      │ └L: N6TE -> -90
+      └R: lRnzdW -> -175
+  2: LDVn -> -811
+     ├L: K1a972XJ -> -759
+     │└L: ANiMQ -> -784
+     └R: dAuFUWRg -> 809
+      └R: eFNA -> 141
+       └R: qwdmtUp -> 975
+  3: 4xET -> 391
+     └R: dp9KZDy -> -99
+  4: PZmOC3L -> -183
+     └R: pFwZ -> 989
+  5: 0dn41bkC -> 685
+     └R: CsxmcNMa -> -398
+      └R: FYhfQN -> -772
+       └R: Khfsv17M -> 126
+  6: f1Af -> -136
+     ├L: 4e1hn7wh -> -230
+     │└L: 2WOn82 -> 524
+     └R: nne5P -> -758
+      └R: tLKsV -> -931
+       └R: zlRqg -> 291
+  7: ZoS2hB -> -348
+     ├L: Brig5pt5 -> 778
+     └R: yPYi -> -340
+  8: zm59wMxS -> -361
+     └L: NcxEGjs -> 307
+      └L: 86n065e -> -467
+  9: TUi8l -> 707
+     ├L: 704O -> -346
+     │└L: 6V6KW4id -> -452
+     └R: YDpT2 -> -442
+      └L: VcF8S30 -> 836
+ 10: nbbeRf -> -801
+     └L: SjndPE -> -189
+      └L: CA7r5MX0 -> -231
+       └L: 7fqzct -> 902
+        └L: 35jTL -> 758
+ 11: DMkS -> -131
+     ├L: CxMT -> -974
+     └R: fn63CT1Q -> -980
+      ├L: DzgZ2Bh -> -494
+      │└R: GtUC -> 806
+      │ └R: XJm4 -> -592
+      └R: ljD7MmFm -> -805
+       └R: rN4CIa -> -42
+peek 4e1hn7wh
+-230
+peek 86n065e
+-467
+peek dp9KZDy
+-99
+print
+  0: YdJT -> -472
+     ├L: NfLm -> -773
+     │└L: DWbjZzO3 -> 697
+     └R: cJ4uM7aK -> -809
+      └R: yKcoM -> 29
+       └L: eVtZ -> -542
+  1: 9Kk9 -> 719
+     └R: l5Ln305 -> -787
+      ├L: A8dT -> 505
+      │└R: QoAK -> 142
+      │ └L: N6TE -> -90
+      └R: lRnzdW -> -175
+  2: LDVn -> -811
+     ├L: K1a972XJ -> -759
+     │└L: ANiMQ -> -784
+     └R: dAuFUWRg -> 809
+      └R: eFNA -> 141
+       └R: qwdmtUp -> 975
+  3: dp9KZDy -> -99
+     └L: 4xET -> 391
+  4: PZmOC3L -> -183
+     └R: pFwZ -> 989
+  5: 0dn41bkC -> 685
+     └R: CsxmcNMa -> -398
+      └R: FYhfQN -> -772
+       └R: Khfsv17M -> 126
+  6: 4e1hn7wh -> -230
+     ├L: 2WOn82 -> 524
+     └R: f1Af -> -136
+      └R: nne5P -> -758
+       └R: tLKsV -> -931
+        └R: zlRqg -> 291
+  7: ZoS2hB -> -348
+     ├L: Brig5pt5 -> 778
+     └R: yPYi -> -340
+  8: 86n065e -> -467
+     └R: NcxEGjs -> 307
+      └R: zm59wMxS -> -361
+  9: TUi8l -> 707
+     ├L: 704O -> -346
+     │└L: 6V6KW4id -> -452
+     └R: YDpT2 -> -442
+      └L: VcF8S30 -> 836
+ 10: nbbeRf -> -801
+     └L: SjndPE -> -189
+      └L: CA7r5MX0 -> -231
+       └L: 7fqzct -> 902
+        └L: 35jTL -> 758
+ 11: DMkS -> -131
+     ├L: CxMT -> -974
+     └R: fn63CT1Q -> -980
+      ├L: DzgZ2Bh -> -494
+      │└R: GtUC -> 806
+      │ └R: XJm4 -> -592
+      └R: ljD7MmFm -> -805
+       └R: rN4CIa -> -42
+insert 6lEZR73 981
+insert KNw6Bo 643
+insert gZOFMI -595
+bucket_count
+12
+peek ANiMQ
+-784
+insert yxuC1AP -867
+peek NcxEGjs
+307
+size
+60
+hash_code KNw6Bo
+10
+extract Khfsv17M
+126
+peek NcxEGjs
+307
+extract DWbjZzO3
+697
+print
+  0: NfLm -> -773
+     └R: YdJT -> -472
+      └R: cJ4uM7aK -> -809
+       └R: yKcoM -> 29
+        └L: eVtZ -> -542
+  1: 9Kk9 -> 719
+     └R: l5Ln305 -> -787
+      ├L: A8dT -> 505
+      │└R: QoAK -> 142
+      │ └L: N6TE -> -90
+      └R: lRnzdW -> -175
+  2: ANiMQ -> -784
+     └R: K1a972XJ -> -759
+      └R: LDVn -> -811
+       └R: dAuFUWRg -> 809
+        └R: eFNA -> 141
+         └R: qwdmtUp -> 975
+  3: dp9KZDy -> -99
+     └L: 4xET -> 391
+  4: PZmOC3L -> -183
+     └R: pFwZ -> 989
+  5: gZOFMI -> -595
+     └L: CsxmcNMa -> -398
+      ├L: 0dn41bkC -> 685
+      └R: FYhfQN -> -772
+  6: 4e1hn7wh -> -230
+     ├L: 2WOn82 -> 524
+     └R: f1Af -> -136
+      └R: nne5P -> -758
+       └R: tLKsV -> -931
+        └R: zlRqg -> 291
+  7: ZoS2hB -> -348
+     ├L: Brig5pt5 -> 778
+     └R: yPYi -> -340
+  8: NcxEGjs -> 307
+     ├L: 86n065e -> -467
+     └R: zm59wMxS -> -361
+  9: TUi8l -> 707
+     ├L: 704O -> -346
+     │└L: 6V6KW4id -> -452
+     └R: YDpT2 -> -442
+      └L: VcF8S30 -> 836
+ 10: yxuC1AP -> -867
+     └L: nbbeRf -> -801
+      └L: KNw6Bo -> 643
+       ├L: CA7r5MX0 -> -231
+       │└L: 7fqzct -> 902
+       │ └L: 35jTL -> 758
+       └R: SjndPE -> -189
+ 11: 6lEZR73 -> 981
+     └R: CxMT -> -974
+      └R: DMkS -> -131
+       └R: fn63CT1Q -> -980
+        ├L: DzgZ2Bh -> -494
+        │└R: GtUC -> 806
+        │ └R: XJm4 -> -592
+        └R: ljD7MmFm -> -805
+         └R: rN4CIa -> -42
+insert rzzxlq 711
+extract yxuC1AP
+-867
+hash_code eFNA
+2
+print
+  0: rzzxlq -> 711
+     ├L: NfLm -> -773
+     │└R: cJ4uM7aK -> -809
+     │ ├L: YdJT -> -472
+     │ └R: eVtZ -> -542
+     └R: yKcoM -> 29
+  1: 9Kk9 -> 719
+     └R: l5Ln305 -> -787
+      ├L: A8dT -> 505
+      │└R: QoAK -> 142
+      │ └L: N6TE -> -90
+      └R: lRnzdW -> -175
+  2: ANiMQ -> -784
+     └R: K1a972XJ -> -759
+      └R: LDVn -> -811
+       └R: dAuFUWRg -> 809
+        └R: eFNA -> 141
+         └R: qwdmtUp -> 975
+  3: dp9KZDy -> -99
+     └L: 4xET -> 391
+  4: PZmOC3L -> -183
+     └R: pFwZ -> 989
+  5: gZOFMI -> -595
+     └L: CsxmcNMa -> -398
+      ├L: 0dn41bkC -> 685
+      └R: FYhfQN -> -772
+  6: 4e1hn7wh -> -230
+     ├L: 2WOn82 -> 524
+     └R: f1Af -> -136
+      └R: nne5P -> -758
+       └R: tLKsV -> -931
+        └R: zlRqg -> 291
+  7: ZoS2hB -> -348
+     ├L: Brig5pt5 -> 778
+     └R: yPYi -> -340
+  8: NcxEGjs -> 307
+     ├L: 86n065e -> -467
+     └R: zm59wMxS -> -361
+  9: TUi8l -> 707
+     ├L: 704O -> -346
+     │└L: 6V6KW4id -> -452
+     └R: YDpT2 -> -442
+      └L: VcF8S30 -> 836
+ 10: nbbeRf -> -801
+     └L: KNw6Bo -> 643
+      ├L: CA7r5MX0 -> -231
+      │└L: 7fqzct -> 902
+      │ └L: 35jTL -> 758
+      └R: SjndPE -> -189
+ 11: 6lEZR73 -> 981
+     └R: CxMT -> -974
+      └R: DMkS -> -131
+       └R: fn63CT1Q -> -980
+        ├L: DzgZ2Bh -> -494
+        │└R: GtUC -> 806
+        │ └R: XJm4 -> -592
+        └R: ljD7MmFm -> -805
+         └R: rN4CIa -> -42
+size
+58
+peek TUi8l
+707
+hash_code KNw6Bo
+10
+insert UERayJ 139
+hash_code cJ4uM7aK
+0
+size
+59
+insert Bo0P 931
+hash_code zm59wMxS
+8
+insert YRUwSgso -701
+insert KgUDckG -627
+insert NyJo -761
+size
+63
+insert C2Am 315
+insert 2eiR9BMR -894
+insert lRso4 297
+peek 9Kk9
+719
+insert alzy -720
+insert rZVaV6CM 500
+insert Odjl8y -821
+hash_code C2Am
+11
+insert jgrpA 71
+empty
+false
+print
+  0: Odjl8y -> -821
+     ├L: NfLm -> -773
+     └R: rZVaV6CM -> 500
+      ├L: eVtZ -> -542
+      │└L: YdJT -> -472
+      │ └R: cJ4uM7aK -> -809
+      └R: rzzxlq -> 711
+       └R: yKcoM -> 29
+  1: 9Kk9 -> 719
+     └R: NyJo -> -761
+      ├L: A8dT -> 505
+      │└R: N6TE -> -90
+      └R: l5Ln305 -> -787
+       ├L: QoAK -> 142
+       └R: lRnzdW -> -175
+  2: lRso4 -> 297
+     ├L: K1a972XJ -> -759
+     │├L: ANiMQ -> -784
+     │└R: dAuFUWRg -> 809
+     │ ├L: LDVn -> -811
+     │ └R: eFNA -> 141
+     └R: qwdmtUp -> 975
+  3: dp9KZDy -> -99
+     └L: 4xET -> 391
+  4: PZmOC3L -> -183
+     └R: pFwZ -> 989
+  5: gZOFMI -> -595
+     └L: CsxmcNMa -> -398
+      ├L: 0dn41bkC -> 685
+      └R: FYhfQN -> -772
+  6: Bo0P -> 931
+     ├L: 4e1hn7wh -> -230
+     │└L: 2WOn82 -> 524
+     └R: f1Af -> -136
+      └R: nne5P -> -758
+       └R: tLKsV -> -931
+        └R: zlRqg -> 291
+  7: YRUwSgso -> -701
+     ├L: Brig5pt5 -> 778
+     └R: ZoS2hB -> -348
+      └R: yPYi -> -340
+  8: NcxEGjs -> 307
+     ├L: 86n065e -> -467
+     └R: zm59wMxS -> -361
+  9: 2eiR9BMR -> -894
+     └R: TUi8l -> 707
+      ├L: 6V6KW4id -> -452
+      │└R: 704O -> -346
+      └R: YDpT2 -> -442
+       └L: VcF8S30 -> 836
+ 10: alzy -> -720
+     ├L: SjndPE -> -189
+     │└L: KNw6Bo -> 643
+     │ └L: CA7r5MX0 -> -231
+     │  └L: 7fqzct -> 902
+     │   └L: 35jTL -> 758
+     └R: nbbeRf -> -801
+ 11: jgrpA -> 71
+     ├L: DMkS -> -131
+     │├L: C2Am -> 315
+     ││├L: 6lEZR73 -> 981
+     ││└R: CxMT -> -974
+     │└R: UERayJ -> 139
+     │ ├L: KgUDckG -> -627
+     │ │└L: GtUC -> 806
+     │ │ └L: DzgZ2Bh -> -494
+     │ └R: fn63CT1Q -> -980
+     │  └L: XJm4 -> -592
+     └R: ljD7MmFm -> -805
+      └R: rN4CIa -> -42
+insert tFhIvlb -522
+extract dp9KZDy
+-99
+peek YRUwSgso
+-701
+peek nbbeRf
+-801
+bucket_count
+12
+insert btxUBNv 288
+peek N6TE
+-90
+insert idBy -291
+print
+  0: Odjl8y -> -821
+     ├L: NfLm -> -773
+     └R: rZVaV6CM -> 500
+      ├L: eVtZ -> -542
+      │└L: YdJT -> -472
+      │ └R: cJ4uM7aK -> -809
+      └R: rzzxlq -> 711
+       └R: yKcoM -> 29
+  1: N6TE -> -90
+     ├L: 9Kk9 -> 719
+     │└R: A8dT -> 505
+     └R: NyJo -> -761
+      └R: l5Ln305 -> -787
+       ├L: QoAK -> 142
+       └R: lRnzdW -> -175
+  2: lRso4 -> 297
+     ├L: K1a972XJ -> -759
+     │├L: ANiMQ -> -784
+     │└R: dAuFUWRg -> 809
+     │ ├L: LDVn -> -811
+     │ └R: eFNA -> 141
+     └R: qwdmtUp -> 975
+  3: 4xET -> 391
+  4: btxUBNv -> 288
+     ├L: PZmOC3L -> -183
+     └R: pFwZ -> 989
+  5: gZOFMI -> -595
+     └L: CsxmcNMa -> -398
+      ├L: 0dn41bkC -> 685
+      └R: FYhfQN -> -772
+  6: tFhIvlb -> -522
+     ├L: f1Af -> -136
+     │├L: Bo0P -> 931
+     ││└L: 4e1hn7wh -> -230
+     ││ └L: 2WOn82 -> 524
+     │└R: nne5P -> -758
+     └R: tLKsV -> -931
+      └R: zlRqg -> 291
+  7: YRUwSgso -> -701
+     ├L: Brig5pt5 -> 778
+     └R: ZoS2hB -> -348
+      └R: yPYi -> -340
+  8: NcxEGjs -> 307
+     ├L: 86n065e -> -467
+     └R: zm59wMxS -> -361
+  9: idBy -> -291
+     └L: 2eiR9BMR -> -894
+      └R: YDpT2 -> -442
+       └L: TUi8l -> 707
+        ├L: 6V6KW4id -> -452
+        │└R: 704O -> -346
+        └R: VcF8S30 -> 836
+ 10: nbbeRf -> -801
+     └L: alzy -> -720
+      └L: SjndPE -> -189
+       └L: KNw6Bo -> 643
+        └L: CA7r5MX0 -> -231
+         └L: 7fqzct -> 902
+          └L: 35jTL -> 758
+ 11: jgrpA -> 71
+     ├L: DMkS -> -131
+     │├L: C2Am -> 315
+     ││├L: 6lEZR73 -> 981
+     ││└R: CxMT -> -974
+     │└R: UERayJ -> 139
+     │ ├L: KgUDckG -> -627
+     │ │└L: GtUC -> 806
+     │ │ └L: DzgZ2Bh -> -494
+     │ └R: fn63CT1Q -> -980
+     │  └L: XJm4 -> -592
+     └R: ljD7MmFm -> -805
+      └R: rN4CIa -> -42
+insert BNRm9a 747
+peek rZVaV6CM
+500
+insert kbSnlpNW -912
+bucket_count
+12
+peek GtUC
+806
+hash_code yPYi
+7
+insert ylCRH4N -374
+insert oZbO 685
+peek ylCRH4N
+-374
+print
+  0: rZVaV6CM -> 500
+     ├L: Odjl8y -> -821
+     │├L: NfLm -> -773
+     │└R: eVtZ -> -542
+     │ └L: YdJT -> -472
+     │  └R: cJ4uM7aK -> -809
+     └R: rzzxlq -> 711
+      └R: yKcoM -> 29
+  1: N6TE -> -90
+     ├L: 9Kk9 -> 719
+     │└R: A8dT -> 505
+     └R: NyJo -> -761
+      └R: l5Ln305 -> -787
+       ├L: QoAK -> 142
+       └R: lRnzdW -> -175
+  2: kbSnlpNW -> -912
+     ├L: K1a972XJ -> -759
+     │├L: ANiMQ -> -784
+     │└R: eFNA -> 141
+     │ └L: dAuFUWRg -> 809
+     │  └L: LDVn -> -811
+     └R: lRso4 -> 297
+      └R: qwdmtUp -> 975
+  3: 4xET -> 391
+  4: oZbO -> 685
+     ├L: btxUBNv -> 288
+     │└L: PZmOC3L -> -183
+     └R: pFwZ -> 989
+  5: gZOFMI -> -595
+     └L: CsxmcNMa -> -398
+      ├L: 0dn41bkC -> 685
+      └R: FYhfQN -> -772
+  6: ylCRH4N -> -374
+     ├L: tFhIvlb -> -522
+     │├L: f1Af -> -136
+     ││├L: Bo0P -> 931
+     │││└L: 4e1hn7wh -> -230
+     │││ └L: 2WOn82 -> 524
+     ││└R: nne5P -> -758
+     │└R: tLKsV -> -931
+     └R: zlRqg -> 291
+  7: YRUwSgso -> -701
+     ├L: Brig5pt5 -> 778
+     └R: ZoS2hB -> -348
+      └R: yPYi -> -340
+  8: NcxEGjs -> 307
+     ├L: 86n065e -> -467
+     └R: zm59wMxS -> -361
+  9: idBy -> -291
+     └L: 2eiR9BMR -> -894
+      └R: YDpT2 -> -442
+       └L: TUi8l -> 707
+        ├L: 6V6KW4id -> -452
+        │└R: 704O -> -346
+        └R: VcF8S30 -> 836
+ 10: nbbeRf -> -801
+     └L: alzy -> -720
+      └L: SjndPE -> -189
+       └L: KNw6Bo -> 643
+        └L: CA7r5MX0 -> -231
+         └L: 7fqzct -> 902
+          └L: 35jTL -> 758
+ 11: GtUC -> 806
+     ├L: BNRm9a -> 747
+     │├L: 6lEZR73 -> 981
+     │└R: DMkS -> -131
+     │ ├L: C2Am -> 315
+     │ │└R: CxMT -> -974
+     │ └R: DzgZ2Bh -> -494
+     └R: jgrpA -> 71
+      ├L: KgUDckG -> -627
+      │└R: UERayJ -> 139
+      │ └R: fn63CT1Q -> -980
+      │  └L: XJm4 -> -592
+      └R: ljD7MmFm -> -805
+       └R: rN4CIa -> -42
+extract yPYi
+-340
+extract CxMT
+-974
+hash_code eFNA
+2
+insert q1s4 -88
+insert XCcJ -582
+insert Ag6t47p -202
+insert 10qPw9 195
+insert RgFFp -881
+insert l8Inapy -726
+extract cJ4uM7aK
+-809
+extract DzgZ2Bh
+-494
+print
+  0: eVtZ -> -542
+     ├L: RgFFp -> -881
+     │├L: Odjl8y -> -821
+     ││└L: NfLm -> -773
+     │└R: YdJT -> -472
+     └R: rZVaV6CM -> 500
+      └R: rzzxlq -> 711
+       └R: yKcoM -> 29
+  1: l8Inapy -> -726
+     ├L: NyJo -> -761
+     │├L: N6TE -> -90
+     ││└L: 9Kk9 -> 719
+     ││ └R: A8dT -> 505
+     │└R: l5Ln305 -> -787
+     │ └L: QoAK -> 142
+     └R: lRnzdW -> -175
+  2: kbSnlpNW -> -912
+     ├L: K1a972XJ -> -759
+     │├L: ANiMQ -> -784
+     │└R: eFNA -> 141
+     │ └L: dAuFUWRg -> 809
+     │  └L: LDVn -> -811
+     └R: lRso4 -> 297
+      └R: qwdmtUp -> 975
+  3: Ag6t47p -> -202
+     └L: 4xET -> 391
+  4: oZbO -> 685
+     ├L: btxUBNv -> 288
+     │└L: PZmOC3L -> -183
+     └R: pFwZ -> 989
+  5: gZOFMI -> -595
+     └L: CsxmcNMa -> -398
+      ├L: 0dn41bkC -> 685
+      └R: FYhfQN -> -772
+  6: q1s4 -> -88
+     ├L: nne5P -> -758
+     │└L: f1Af -> -136
+     │ └L: Bo0P -> 931
+     │  └L: 4e1hn7wh -> -230
+     │   └L: 2WOn82 -> 524
+     └R: tFhIvlb -> -522
+      └R: ylCRH4N -> -374
+       ├L: tLKsV -> -931
+       └R: zlRqg -> 291
+  7: XCcJ -> -582
+     ├L: Brig5pt5 -> 778
+     └R: ZoS2hB -> -348
+      └L: YRUwSgso -> -701
+  8: NcxEGjs -> 307
+     ├L: 86n065e -> -467
+     └R: zm59wMxS -> -361
+  9: idBy -> -291
+     └L: 2eiR9BMR -> -894
+      └R: YDpT2 -> -442
+       └L: TUi8l -> 707
+        ├L: 6V6KW4id -> -452
+        │└R: 704O -> -346
+        └R: VcF8S30 -> 836
+ 10: 10qPw9 -> 195
+     └R: nbbeRf -> -801
+      └L: SjndPE -> -189
+       ├L: CA7r5MX0 -> -231
+       │├L: 35jTL -> 758
+       ││└R: 7fqzct -> 902
+       │└R: KNw6Bo -> 643
+       └R: alzy -> -720
+ 11: GtUC -> 806
+     ├L: DMkS -> -131
+     │└L: BNRm9a -> 747
+     │ ├L: 6lEZR73 -> 981
+     │ └R: C2Am -> 315
+     └R: jgrpA -> 71
+      ├L: KgUDckG -> -627
+      │└R: UERayJ -> 139
+      │ └R: fn63CT1Q -> -980
+      │  └L: XJm4 -> -592
+      └R: ljD7MmFm -> -805
+       └R: rN4CIa -> -42
+size
+78
+bucket_count
+12
+insert vS8Hit 741
+bucket_count
+12
+extract rN4CIa
+-42
+insert 7owdW9Ic -305
+insert 5CMlluK -793
+extract q1s4
+-88
+print
+  0: eVtZ -> -542
+     ├L: RgFFp -> -881
+     │├L: Odjl8y -> -821
+     ││└L: NfLm -> -773
+     │└R: YdJT -> -472
+     └R: rZVaV6CM -> 500
+      └R: rzzxlq -> 711
+       └R: yKcoM -> 29
+  1: l8Inapy -> -726
+     ├L: NyJo -> -761
+     │├L: N6TE -> -90
+     ││└L: 9Kk9 -> 719
+     ││ └R: A8dT -> 505
+     │└R: l5Ln305 -> -787
+     │ └L: QoAK -> 142
+     └R: lRnzdW -> -175
+  2: kbSnlpNW -> -912
+     ├L: K1a972XJ -> -759
+     │├L: ANiMQ -> -784
+     │└R: eFNA -> 141
+     │ └L: dAuFUWRg -> 809
+     │  └L: LDVn -> -811
+     └R: lRso4 -> 297
+      └R: qwdmtUp -> 975
+  3: vS8Hit -> 741
+     └L: Ag6t47p -> -202
+      └L: 4xET -> 391
+  4: 5CMlluK -> -793
+     └R: oZbO -> 685
+      ├L: PZmOC3L -> -183
+      │└R: btxUBNv -> 288
+      └R: pFwZ -> 989
+  5: gZOFMI -> -595
+     └L: CsxmcNMa -> -398
+      ├L: 0dn41bkC -> 685
+      └R: FYhfQN -> -772
+  6: tFhIvlb -> -522
+     ├L: 7owdW9Ic -> -305
+     │├L: 4e1hn7wh -> -230
+     ││└L: 2WOn82 -> 524
+     │└R: f1Af -> -136
+     │ ├L: Bo0P -> 931
+     │ └R: nne5P -> -758
+     └R: ylCRH4N -> -374
+      ├L: tLKsV -> -931
+      └R: zlRqg -> 291
+  7: XCcJ -> -582
+     ├L: Brig5pt5 -> 778
+     └R: ZoS2hB -> -348
+      └L: YRUwSgso -> -701
+  8: NcxEGjs -> 307
+     ├L: 86n065e -> -467
+     └R: zm59wMxS -> -361
+  9: idBy -> -291
+     └L: 2eiR9BMR -> -894
+      └R: YDpT2 -> -442
+       └L: TUi8l -> 707
+        ├L: 6V6KW4id -> -452
+        │└R: 704O -> -346
+        └R: VcF8S30 -> 836
+ 10: 10qPw9 -> 195
+     └R: nbbeRf -> -801
+      └L: SjndPE -> -189
+       ├L: CA7r5MX0 -> -231
+       │├L: 35jTL -> 758
+       ││└R: 7fqzct -> 902
+       │└R: KNw6Bo -> 643
+       └R: alzy -> -720
+ 11: GtUC -> 806
+     ├L: DMkS -> -131
+     │└L: BNRm9a -> 747
+     │ ├L: 6lEZR73 -> 981
+     │ └R: C2Am -> 315
+     └R: ljD7MmFm -> -805
+      └L: jgrpA -> 71
+       └L: KgUDckG -> -627
+        └R: UERayJ -> 139
+         └R: fn63CT1Q -> -980
+          └L: XJm4 -> -592
+extract CA7r5MX0
+-231
+quit

@@ -1,0 +1,32 @@
+int name
+7
+bucket_count
+empty
+insert 236 Guril Othreloth
+print
+size
+bucket_count
+empty
+insert 680 Adren Marvani
+peek 680
+insert -464 Llathyno Davus
+insert -890 Arvamea Carvaren
+peek -464
+insert 188 Bronosa Dralor
+peek 680
+empty
+insert -502 Llandris Reloro
+size
+insert 171 Gilvas Thando
+size
+empty
+hash_code 680
+peek -502
+peek 680
+insert -633 Oisig Daynes
+print
+peek 236
+bucket_count
+size
+insert 612 Relam Llendo
+quit

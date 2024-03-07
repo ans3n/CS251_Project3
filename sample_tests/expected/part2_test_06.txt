@@ -1,0 +1,173 @@
+extract uIA1wE
+Key does not exist!
+insert yJpQ Iner Dralen
+size
+1
+maximum_key
+yJpQ
+extract yJpQ
+Iner Dralen
+insert 4ZXYHG Drathas Balen
+extract 9Sux4vX
+Key does not exist!
+maximum_key
+4ZXYHG
+peek 4ZXYHG
+Drathas Balen
+size
+1
+print
+4ZXYHG -> Drathas Balen
+extract t9N8yR2
+Key does not exist!
+maximum_key
+4ZXYHG
+peek 4ZXYHG
+Drathas Balen
+size
+1
+insert EPoGW Galas Varam
+minimum_key
+4ZXYHG
+print
+4ZXYHG -> Drathas Balen
+└R: EPoGW -> Galas Varam
+insert ly5S Trels Rothren
+peek EPoGW
+Galas Varam
+insert 4ZXYHG Mandyn Adryn
+Duplicate key!
+insert xAKds Gomeso Norvayn
+peek EPoGW
+Galas Varam
+extract 4ZXYHG
+Drathas Balen
+insert nvpL7q4 Talsi Tobor
+size
+4
+insert hhZo2upX Dalnorea Raviro
+minimum_key
+EPoGW
+insert 7EhSGua Gulmon Daren
+peek EPoGW
+Galas Varam
+extract nvpL7q4
+Talsi Tobor
+extract xAKds
+Gomeso Norvayn
+size
+4
+maximum_key
+ly5S
+minimum_key
+7EhSGua
+print
+7EhSGua -> Gulmon Daren
+└R: ly5S -> Trels Rothren
+ └L: EPoGW -> Galas Varam
+  └R: hhZo2upX -> Dalnorea Raviro
+insert Oq4fDk5X Nuleno Vendu
+extract ly5S
+Trels Rothren
+insert xoaJJBq Balynu Davor
+insert 9netmIp Arara Sari
+extract 9netmIp
+Arara Sari
+extract EPoGW
+Galas Varam
+peek Oq4fDk5X
+Nuleno Vendu
+print
+Oq4fDk5X -> Nuleno Vendu
+├L: 7EhSGua -> Gulmon Daren
+└R: xoaJJBq -> Balynu Davor
+ └L: hhZo2upX -> Dalnorea Raviro
+minimum_key
+7EhSGua
+print
+7EhSGua -> Gulmon Daren
+└R: Oq4fDk5X -> Nuleno Vendu
+ └R: xoaJJBq -> Balynu Davor
+  └L: hhZo2upX -> Dalnorea Raviro
+insert gpNMxY Serer Farethan
+extract hhZo2upX
+Dalnorea Raviro
+extract 7EhSGua
+Gulmon Daren
+print
+xoaJJBq -> Balynu Davor
+└L: Oq4fDk5X -> Nuleno Vendu
+ └R: gpNMxY -> Serer Farethan
+insert urcvj Anel Varis
+insert jxR8N Tarvus Androthi
+peek jxR8N
+Tarvus Androthi
+print
+jxR8N -> Tarvus Androthi
+├L: gpNMxY -> Serer Farethan
+│└L: Oq4fDk5X -> Nuleno Vendu
+└R: urcvj -> Anel Varis
+ └R: xoaJJBq -> Balynu Davor
+extract Oq4fDk5X
+Nuleno Vendu
+peek xoaJJBq
+Balynu Davor
+insert Cqcurhk Barenziah Ramarys
+print
+Cqcurhk -> Barenziah Ramarys
+└R: gpNMxY -> Serer Farethan
+ └R: xoaJJBq -> Balynu Davor
+  └L: urcvj -> Anel Varis
+   └L: jxR8N -> Tarvus Androthi
+insert FXug Rarusu Giralvel
+insert gpNMxY Bralsea Thirano
+Duplicate key!
+insert Ln3j Uleni Andoril
+extract jxR8N
+Tarvus Androthi
+maximum_key
+xoaJJBq
+print
+xoaJJBq -> Balynu Davor
+└L: urcvj -> Anel Varis
+ └L: gpNMxY -> Serer Farethan
+  └L: Ln3j -> Uleni Andoril
+   └L: FXug -> Rarusu Giralvel
+    └L: Cqcurhk -> Barenziah Ramarys
+insert Ln3j Minasi Vian
+Duplicate key!
+insert YpzRvxXr Thanelen Dreth
+extract Ln3j
+Uleni Andoril
+insert HbUSg5iZ Salver Mels
+extract gpNMxY
+Serer Farethan
+maximum_key
+xoaJJBq
+size
+6
+extract urcvj
+Anel Varis
+minimum_key
+Cqcurhk
+insert HTbt Nevon Senoril
+extract SUh9Oz
+Key does not exist!
+minimum_key
+Cqcurhk
+insert k7iFM Fonari Sandas
+size
+7
+extract HbUSg5iZ
+Salver Mels
+insert znV9aiG Drelayn Bels
+insert RLR8BR Dalos Dalobar
+extract YpzRvxXr
+Thanelen Dreth
+minimum_key
+Cqcurhk
+maximum_key
+znV9aiG
+extract k7iFM
+Fonari Sandas
+quit

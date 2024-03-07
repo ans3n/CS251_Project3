@@ -1,0 +1,505 @@
+print
+[empty]
+empty
+true
+insert 718 340
+minimum_key
+718
+print
+718 -> 340
+insert 553 844
+maximum_key
+718
+minimum_key
+553
+insert -479 496
+peek -479
+496
+extract -479
+496
+insert -755 -329
+print
+-755 -> -329
+└R: 553 -> 844
+ └R: 718 -> 340
+extract 718
+340
+peek 553
+844
+peek -755
+-329
+insert 499 -183
+size
+3
+maximum_key
+553
+print
+553 -> 844
+└L: 499 -> -183
+ └L: -755 -> -329
+minimum_key
+-755
+peek 499
+-183
+extract -755
+-329
+insert -836 489
+empty
+false
+extract 499
+-183
+extract -836
+489
+insert 562 517
+minimum_key
+553
+extract 553
+844
+insert 719 -182
+peek 562
+517
+peek 562
+517
+extract 719
+-182
+maximum_key
+562
+insert -620 339
+insert -143 824
+extract -620
+339
+insert 303 127
+extract 512
+Key does not exist!
+insert 126 -288
+peek 126
+-288
+minimum_key
+-143
+empty
+false
+insert -169 -658
+insert 340 196
+insert 817 421
+insert 819 -986
+extract 562
+517
+peek 340
+196
+peek 817
+421
+extract 819
+-986
+peek -169
+-658
+empty
+false
+maximum_key
+817
+insert 856 24
+print
+856 -> 24
+└L: 817 -> 421
+ └L: 340 -> 196
+  └L: -169 -> -658
+   └R: 126 -> -288
+    ├L: -143 -> 824
+    └R: 303 -> 127
+insert -406 990
+extract 340
+196
+extract -406
+990
+print
+817 -> 421
+├L: -169 -> -658
+│└R: 126 -> -288
+│ ├L: -143 -> 824
+│ └R: 303 -> 127
+└R: 856 -> 24
+maximum_key
+856
+insert 369 873
+print
+369 -> 873
+├L: -169 -> -658
+│└R: 303 -> 127
+│ └L: 126 -> -288
+│  └L: -143 -> 824
+└R: 856 -> 24
+ └L: 817 -> 421
+empty
+false
+extract -169
+-658
+print
+369 -> 873
+├L: 303 -> 127
+│└L: 126 -> -288
+│ └L: -143 -> 824
+└R: 856 -> 24
+ └L: 817 -> 421
+empty
+false
+minimum_key
+-143
+extract -143
+824
+insert 40 -686
+empty
+false
+extract 369
+873
+minimum_key
+40
+peek 303
+127
+insert -320 -306
+minimum_key
+-320
+insert -222 786
+size
+7
+peek 856
+24
+peek -222
+786
+insert 737 -654
+print
+737 -> -654
+├L: -222 -> 786
+│├L: -320 -> -306
+│└R: 40 -> -686
+│ └R: 303 -> 127
+│  └L: 126 -> -288
+└R: 856 -> 24
+ └L: 817 -> 421
+extract 737
+-654
+insert 969 498
+insert 456 -641
+peek -222
+786
+insert 397 474
+insert -388 -594
+maximum_key
+969
+peek -222
+786
+maximum_key
+969
+extract 456
+-641
+print
+817 -> 421
+├L: 397 -> 474
+│└L: -222 -> 786
+│ ├L: -320 -> -306
+│ │└L: -388 -> -594
+│ └R: 303 -> 127
+│  └L: 40 -> -686
+│   └R: 126 -> -288
+└R: 969 -> 498
+ └L: 856 -> 24
+minimum_key
+-388
+print
+-388 -> -594
+└R: 397 -> 474
+ ├L: -320 -> -306
+ │└R: -222 -> 786
+ │ └R: 303 -> 127
+ │  └L: 40 -> -686
+ │   └R: 126 -> -288
+ └R: 817 -> 421
+  └R: 969 -> 498
+   └L: 856 -> 24
+peek -222
+786
+extract 126
+-288
+insert -749 -896
+print
+-749 -> -896
+└R: 303 -> 127
+ ├L: -388 -> -594
+ │└R: -222 -> 786
+ │ ├L: -320 -> -306
+ │ └R: 40 -> -686
+ └R: 397 -> 474
+  └R: 817 -> 421
+   └R: 969 -> 498
+    └L: 856 -> 24
+peek 817
+421
+minimum_key
+-749
+extract 397
+474
+peek -749
+-896
+extract 40
+-686
+size
+8
+insert -673 624
+insert 244 123
+extract -222
+786
+extract 856
+24
+insert 394 553
+extract 394
+553
+print
+817 -> 421
+├L: 303 -> 127
+│└L: 244 -> 123
+│ └L: -673 -> 624
+│  ├L: -749 -> -896
+│  └R: -388 -> -594
+│   └R: -320 -> -306
+└R: 969 -> 498
+extract 244
+123
+minimum_key
+-749
+extract -110
+Key does not exist!
+insert 821 -895
+maximum_key
+969
+size
+8
+extract -388
+-594
+extract 367
+Key does not exist!
+insert -964 164
+maximum_key
+969
+size
+8
+insert 573 812
+minimum_key
+-964
+extract -673
+624
+peek -320
+-306
+maximum_key
+969
+insert 820 -464
+peek 817
+421
+print
+817 -> 421
+├L: 573 -> 812
+│└L: -320 -> -306
+│ ├L: -964 -> 164
+│ │└R: -749 -> -896
+│ └R: 303 -> 127
+└R: 820 -> -464
+ └R: 969 -> 498
+  └L: 821 -> -895
+extract -964
+164
+insert 856 0
+insert -465 -960
+maximum_key
+969
+print
+969 -> 498
+└L: 856 -> 0
+ └L: -465 -> -960
+  ├L: -749 -> -896
+  └R: 817 -> 421
+   ├L: -320 -> -306
+   │└R: 573 -> 812
+   │ └L: 303 -> 127
+   └R: 820 -> -464
+    └R: 821 -> -895
+peek 573
+812
+peek 303
+127
+peek -465
+-960
+insert -184 -172
+maximum_key
+969
+minimum_key
+-749
+insert -336 175
+extract 817
+421
+extract -320
+-306
+extract 969
+498
+insert -351 396
+empty
+false
+minimum_key
+-749
+maximum_key
+856
+insert -71 638
+peek 856
+0
+print
+856 -> 0
+└L: -71 -> 638
+ ├L: -465 -> -960
+ │├L: -749 -> -896
+ │└R: -351 -> 396
+ │ └R: -184 -> -172
+ │  └L: -336 -> 175
+ └R: 820 -> -464
+  ├L: 303 -> 127
+  │└R: 573 -> 812
+  └R: 821 -> -895
+minimum_key
+-749
+peek -184
+-172
+insert -584 -550
+extract -749
+-896
+extract -584
+-550
+insert 27 -592
+extract 27
+-592
+empty
+false
+insert 602 -847
+insert 820 143
+Duplicate key!
+extract 856
+0
+extract 602
+-847
+extract -71
+638
+insert 23 801
+empty
+false
+print
+23 -> 801
+├L: -184 -> -172
+│└L: -465 -> -960
+│ └R: -351 -> 396
+│  └R: -336 -> 175
+└R: 303 -> 127
+ └R: 820 -> -464
+  ├L: 573 -> 812
+  └R: 821 -> -895
+size
+9
+extract -164
+Key does not exist!
+extract 23
+801
+insert -849 156
+peek -184
+-172
+insert 88 -958
+extract 303
+127
+insert -96 303
+extract 88
+-958
+print
+573 -> 812
+├L: -96 -> 303
+│└L: -184 -> -172
+│ └L: -849 -> 156
+│  └R: -465 -> -960
+│   └R: -351 -> 396
+│    └R: -336 -> 175
+└R: 820 -> -464
+ └R: 821 -> -895
+minimum_key
+-849
+maximum_key
+821
+insert 433 -509
+print
+433 -> -509
+├L: -849 -> 156
+│└R: -96 -> 303
+│ └L: -184 -> -172
+│  └L: -465 -> -960
+│   └R: -351 -> 396
+│    └R: -336 -> 175
+└R: 821 -> -895
+ └L: 573 -> 812
+  └R: 820 -> -464
+maximum_key
+821
+extract -336
+175
+minimum_key
+-849
+extract -849
+156
+extract 573
+812
+extract -96
+303
+empty
+false
+minimum_key
+-465
+insert -184 260
+Duplicate key!
+peek -465
+-960
+peek 821
+-895
+insert -681 655
+insert 821 -789
+Duplicate key!
+minimum_key
+-681
+peek -681
+655
+minimum_key
+-681
+extract -351
+396
+insert -867 -512
+minimum_key
+-867
+maximum_key
+821
+insert -92 733
+peek -867
+-512
+insert 835 766
+insert 373 646
+insert 752 337
+print
+752 -> 337
+├L: 373 -> 646
+│├L: -867 -> -512
+││└R: -92 -> 733
+││ └L: -184 -> -172
+││  └L: -681 -> 655
+││   └R: -465 -> -960
+│└R: 433 -> -509
+└R: 821 -> -895
+ ├L: 820 -> -464
+ └R: 835 -> 766
+extract 373
+646
+maximum_key
+835
+extract -184
+-172
+extract 821
+-895
+peek 752
+337
+quit

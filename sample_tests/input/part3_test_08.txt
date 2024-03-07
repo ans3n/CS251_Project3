@@ -1,0 +1,142 @@
+name name
+4
+peek Danaronea Varis
+insert Athanden Ofemalen Elynea Sedrethi
+bucket_count
+insert Golvyni Llando Elynea Athin
+extract Athanden Ofemalen
+extract Golvyni Llando
+size
+extract Dartis Aralas
+extract Morusu Dreloth
+peek Golena Romari
+print
+empty
+size
+peek Urtisa Deltis
+empty
+insert Braynas Moran Viras Hlervi
+empty
+extract Braynas Moran
+extract Folvys Gilvani
+bucket_count
+extract Amili Bero
+insert Direr Rothandus Ernil Andus
+insert Bedal Fels Farvam Sarothran
+insert Tarvus Othreloth Meralyn Arano
+peek Bedal Fels
+extract Tarvus Othreloth
+insert Thadar Nadus Dralas Neladren
+extract Direr Rothandus
+print
+insert Bels Neladren Gols Venim
+peek Thadar Nadus
+extract Bedal Fels
+extract Thadar Nadus
+peek Bels Neladren
+bucket_count
+insert Telvon Llendo Relms Guls
+peek Bels Neladren
+insert Torasa Veralor Gathal Terano
+extract Torasa Veralor
+print
+insert Raril Farano Movisa Salandas
+bucket_count
+extract Raril Farano
+print
+hash_code Bels Neladren
+insert Vevrana Brenos Idros Rilvayn
+extract Vevrana Brenos
+insert Gaden Ramarys Felvos Maren
+bucket_count
+insert Garer Aralas Salora Veri
+peek Gaden Ramarys
+bucket_count
+peek Dralsea Sarandus
+peek Garer Aralas
+empty
+extract Telvon Llendo
+insert Garer Aralas Olvyne Arinith
+insert Trerayna Thalor Dralasa Lleryn
+extract Garer Aralas
+extract Gorenea Tyravel
+size
+extract Trerayna Thalor
+insert Gaden Ramarys Ivrosa Vedrano
+extract Gaden Ramarys
+extract Bels Neladren
+bucket_count
+print
+insert Adil Hler Galis Heran
+insert Vaden Relarys Nalur Dilmyn
+extract Adil Hler
+bucket_count
+insert Rerynea Thirothan Darvam Sarendas
+extract Vaden Relarys
+insert Olvyne Rothan Ulms Reloro
+insert Gadayn Thiralas Llarar Ildram
+peek Dralosa Reni
+extract Rerynea Thirothan
+print
+size
+empty
+bucket_count
+insert Naral Merys Dathus Gilvilo
+extract Olvyne Rothan
+insert Vonden Adryn Thovasi Doran
+extract Vonden Adryn
+print
+insert Dram Renim Mils Mencele
+extract Llunela Gimalvel
+extract Naral Merys
+extract Dram Renim
+print
+bucket_count
+hash_code Fevus Belden
+hash_code Tanur Sarobar
+hash_code Gadayn Thiralas
+insert Bredasu Arethi Thadar Salvel
+extract Favani Othran
+insert Tuvene Ilnith Dirver Telvayn
+print
+insert Gadayn Thiralas Taros Andas
+extract Gadayn Thiralas
+peek Tuvene Ilnith
+insert Giras Farothran Faves Rothalnim
+extract Giras Farothran
+print
+insert Fevyn Dres Nalvilie Andalor
+insert Tinaso Rilvayn Lliram Sandas
+print
+size
+insert Faras Fals Maren Mano
+peek Tinaso Rilvayn
+insert Marilia Valaai Alurue Tilvur
+insert Bilsa Helothan Bervyn Nelvani
+peek Faras Fals
+empty
+extract Tuvene Ilnith
+extract Marilia Valaai
+insert Dreynis Mathendis Rernel Beloren
+insert Fevyn Dres Dals Berendas
+extract Tinaso Rilvayn
+extract Fevyn Dres
+peek Faras Fals
+extract Bilsa Helothan
+insert Falam Othril Evo Andalen
+extract Dreynis Mathendis
+extract Bredasu Arethi
+insert Vonos Arethan Drandryn Dathren
+print
+extract Faras Fals
+extract Falam Othril
+extract Vonos Arethan
+print
+extract Miluru Tures
+extract Dils Telandas
+size
+peek Lliram Drin
+hash_code Sarayn Verelnim
+insert Llandrale Uleni Ethys Nerus
+peek Llandrale Uleni
+quit

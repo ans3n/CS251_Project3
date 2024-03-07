@@ -1,0 +1,134 @@
+insert cb4Njb 965
+insert pWNGB 447
+peek pWNGB
+447
+insert RGJhjxh -58
+insert pXCT57O3 625
+minimum_key
+RGJhjxh
+peek pWNGB
+447
+insert zT6Tvfp -547
+peek pXCT57O3
+625
+maximum_key
+zT6Tvfp
+size
+5
+insert HV9HX 672
+print
+HV9HX -> 672
+└R: pXCT57O3 -> 625
+ ├L: RGJhjxh -> -58
+ │└R: pWNGB -> 447
+ │ └L: cb4Njb -> 965
+ └R: zT6Tvfp -> -547
+insert SoPop2 372
+peek zT6Tvfp
+-547
+insert TpJa 693
+insert bp9lMif -570
+print
+bp9lMif -> -570
+├L: TpJa -> 693
+│└L: SoPop2 -> 372
+│ └L: HV9HX -> 672
+│  └R: RGJhjxh -> -58
+└R: cb4Njb -> 965
+ └R: pXCT57O3 -> 625
+  ├L: pWNGB -> 447
+  └R: zT6Tvfp -> -547
+insert A0njDxM -939
+size
+10
+print
+A0njDxM -> -939
+└R: TpJa -> 693
+ ├L: HV9HX -> 672
+ │└R: SoPop2 -> 372
+ │ └L: RGJhjxh -> -58
+ └R: bp9lMif -> -570
+  └R: cb4Njb -> 965
+   └R: pXCT57O3 -> 625
+    ├L: pWNGB -> 447
+    └R: zT6Tvfp -> -547
+size
+10
+insert xub7LZj -677
+maximum_key
+zT6Tvfp
+minimum_key
+A0njDxM
+peek A0njDxM
+-939
+insert JEYXmxhB -955
+peek cb4Njb
+965
+insert aWSGWo -399
+insert kBvZ 243
+insert dUlSG 723
+minimum_key
+A0njDxM
+size
+15
+maximum_key
+zT6Tvfp
+print
+zT6Tvfp -> -547
+└L: A0njDxM -> -939
+ └R: dUlSG -> 723
+  ├L: cb4Njb -> 965
+  │└L: JEYXmxhB -> -955
+  │ ├L: HV9HX -> 672
+  │ └R: aWSGWo -> -399
+  │  ├L: TpJa -> 693
+  │  │└L: RGJhjxh -> -58
+  │  │ └R: SoPop2 -> 372
+  │  └R: bp9lMif -> -570
+  └R: xub7LZj -> -677
+   └L: kBvZ -> 243
+    └R: pWNGB -> 447
+     └R: pXCT57O3 -> 625
+minimum_key
+A0njDxM
+maximum_key
+zT6Tvfp
+insert dMch7 799
+size
+16
+insert vETor1d -126
+insert 9PVnIdP -478
+insert 5a3iTlVn -992
+size
+19
+minimum_key
+5a3iTlVn
+insert kbg3O -750
+insert 0vHNG 630
+insert bQO9 959
+print
+bQO9 -> 959
+├L: 5a3iTlVn -> -992
+│├L: 0vHNG -> 630
+│└R: 9PVnIdP -> -478
+│ └R: A0njDxM -> -939
+│  └R: JEYXmxhB -> -955
+│   ├L: HV9HX -> 672
+│   └R: aWSGWo -> -399
+│    └L: TpJa -> 693
+│     └L: RGJhjxh -> -58
+│      └R: SoPop2 -> 372
+└R: kbg3O -> -750
+ ├L: dMch7 -> 799
+ │├L: cb4Njb -> 965
+ ││└L: bp9lMif -> -570
+ │└R: kBvZ -> 243
+ │ └L: dUlSG -> 723
+ └R: vETor1d -> -126
+  ├L: pWNGB -> 447
+  │└R: pXCT57O3 -> 625
+  └R: zT6Tvfp -> -547
+   └L: xub7LZj -> -677
+maximum_key
+zT6Tvfp
+quit

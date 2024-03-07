@@ -1,0 +1,246 @@
+print
+  0: [empty]
+  1: [empty]
+  2: [empty]
+  3: [empty]
+  4: [empty]
+  5: [empty]
+hash_code -724
+0
+insert -393 -927
+extract 499
+Key does not exist!
+hash_code 272
+2
+insert -323 237
+print
+  0: [empty]
+  1: -393 -> -927
+  2: [empty]
+  3: [empty]
+  4: [empty]
+  5: -323 -> 237
+insert -756 188
+insert -76 -877
+extract -76
+-877
+print
+  0: [empty]
+  1: -393 -> -927
+  2: [empty]
+  3: [empty]
+  4: -756 -> 188
+  5: -323 -> 237
+peek -393
+-927
+peek -323
+237
+insert 783 835
+peek -756
+188
+extract 783
+835
+insert 149 -377
+insert 783 -791
+insert 59 865
+insert -136 0
+insert 481 -545
+insert -393 871
+Duplicate key!
+peek -393
+-927
+extract 149
+-377
+insert 59 231
+Duplicate key!
+extract -773
+Key does not exist!
+extract -756
+188
+extract 729
+Key does not exist!
+print
+  0: -136 -> 0
+  1: -393 -> -927
+     └R: 481 -> -545
+  2: [empty]
+  3: 783 -> -791
+  4: [empty]
+  5: 59 -> 865
+     └L: -323 -> 237
+insert 723 531
+peek 59
+865
+peek -136
+0
+bucket_count
+6
+insert -393 536
+Duplicate key!
+size
+7
+extract 481
+-545
+peek 817
+Key does not exist!
+extract 783
+-791
+empty
+false
+size
+5
+extract 723
+531
+hash_code -393
+1
+extract -136
+0
+insert 52 13
+insert -393 -172
+Duplicate key!
+peek 59
+865
+print
+  0: [empty]
+  1: -393 -> -927
+  2: [empty]
+  3: [empty]
+  4: 52 -> 13
+  5: 59 -> 865
+     └L: -323 -> 237
+extract 59
+865
+print
+  0: [empty]
+  1: -393 -> -927
+  2: [empty]
+  3: [empty]
+  4: 52 -> 13
+  5: -323 -> 237
+peek -393
+-927
+insert -173 -615
+print
+  0: [empty]
+  1: -393 -> -927
+  2: [empty]
+  3: [empty]
+  4: 52 -> 13
+  5: -173 -> -615
+     └L: -323 -> 237
+extract -173
+-615
+size
+3
+peek -323
+237
+hash_code -323
+5
+peek -323
+237
+insert 52 480
+Duplicate key!
+insert 373 994
+extract -823
+Key does not exist!
+insert -393 -160
+Duplicate key!
+peek -393
+-927
+extract 373
+994
+insert 266 611
+insert 243 -110
+size
+5
+extract -323
+237
+peek -393
+-927
+insert -48 -633
+extract -393
+-927
+peek 243
+-110
+insert 266 -379
+Duplicate key!
+peek 266
+611
+extract 266
+611
+size
+3
+insert 919 742
+bucket_count
+6
+extract -48
+-633
+peek 52
+13
+print
+  0: [empty]
+  1: 919 -> 742
+  2: [empty]
+  3: 243 -> -110
+  4: 52 -> 13
+  5: [empty]
+bucket_count
+6
+extract 243
+-110
+hash_code 919
+1
+insert -979 472
+empty
+false
+extract 919
+742
+insert -729 -851
+bucket_count
+6
+hash_code -979
+3
+insert -47 -222
+extract -979
+472
+peek -47
+-222
+insert -401 991
+extract -47
+-222
+extract 52
+13
+insert -401 511
+Duplicate key!
+print
+  0: [empty]
+  1: -729 -> -851
+  2: [empty]
+  3: [empty]
+  4: [empty]
+  5: -401 -> 991
+insert 987 137
+empty
+false
+insert -311 -28
+size
+4
+print
+  0: [empty]
+  1: -729 -> -851
+  2: [empty]
+  3: 987 -> 137
+  4: [empty]
+  5: -311 -> -28
+     └L: -401 -> 991
+extract -360
+Key does not exist!
+print
+  0: [empty]
+  1: -729 -> -851
+  2: [empty]
+  3: 987 -> 137
+  4: [empty]
+  5: -311 -> -28
+     └L: -401 -> 991
+quit

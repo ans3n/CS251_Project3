@@ -1,0 +1,88 @@
+string name
+11
+insert 2kT0D Guldrise Thiralas
+print
+peek 2kT0D
+print
+size
+insert 5km1wQd Helseth Marvos
+empty
+insert 08NhG3y1 Talsi Ralvayn
+size
+empty
+size
+insert S9c0ISN Rathal Benethran
+size
+bucket_count
+hash_code S9c0ISN
+insert RhjfNWmS Raynilie Nithryon
+insert ykUF6od Mandran Giral
+peek 08NhG3y1
+bucket_count
+empty
+insert u1IZ5S Raynilie Marys
+size
+hash_code 5km1wQd
+insert lrPeew Endar Dralayn
+bucket_count
+insert NYPtm Nilera Terandas
+insert RZhaiz Baladas Hledri
+bucket_count
+peek u1IZ5S
+peek RZhaiz
+empty
+hash_code u1IZ5S
+bucket_count
+insert AhNnOYaI Satyana Savani
+print
+insert s7ygSSJ Fevris Sadoro
+peek u1IZ5S
+peek RZhaiz
+hash_code RhjfNWmS
+insert Jjpux3KT Enar Relvani
+insert 7QBzyC7H Drorayni Vendu
+insert 7AOx Milyn Vari
+print
+empty
+peek RZhaiz
+insert uNZAES Falena Felas
+insert alBK5xg Llathyno Othran
+size
+peek Jjpux3KT
+print
+insert WFJO7 Urandile Andrilo
+print
+peek lrPeew
+peek Jjpux3KT
+insert pnleVCY Alms Velas
+insert 9947X Manara Hardil
+print
+bucket_count
+insert eBIT Minasi Redas
+insert Sew4 Guls Tobor
+insert lDyAYuPO Talamu Ofemalen
+peek lrPeew
+insert 13o5f Narile Salandas
+print
+hash_code 5km1wQd
+print
+hash_code NYPtm
+print
+hash_code 13o5f
+bucket_count
+insert 4f2Q Lliros Molor
+bucket_count
+print
+peek pnleVCY
+insert 7Qnrvi Elmussa Samandas
+bucket_count
+insert fjgCe Faralenu Hlarar
+insert cu56 Ferynu Relavel
+peek uNZAES
+print
+peek 2kT0D
+insert l0zt Alms Llarys
+print
+peek 7QBzyC7H
+insert zlmDq Fanuse Salavel
+quit

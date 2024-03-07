@@ -1,0 +1,181 @@
+int name
+12
+extract -992
+size
+extract 624
+insert 723 Goras Hloran
+print
+extract 723
+extract 477
+peek 520
+size
+peek 502
+extract 341
+size
+insert -425 Deval Menas
+bucket_count
+hash_code -425
+insert -894 Drelis Uleni
+insert -700 Tarvus Uvaram
+insert -971 Milar Ravel
+insert -820 Favani Seri
+insert -536 Domesea Elvul
+size
+insert -177 Ilen Faram
+peek -536
+extract -425
+insert 359 Nevon Mencele
+extract -894
+peek -971
+print
+insert 229 Foves Raviro
+bucket_count
+print
+empty
+print
+insert 735 Banden Deras
+extract -971
+empty
+bucket_count
+insert 173 Ralen Hledas
+print
+hash_code -820
+empty
+extract 229
+print
+hash_code 735
+print
+peek 735
+print
+peek -820
+print
+extract -536
+extract -820
+peek 359
+print
+peek -177
+insert 740 Dilvene Drinith
+size
+hash_code -177
+bucket_count
+insert -823 Ethes Drals
+extract -177
+insert -265 Nilvyn Drilvi
+extract 740
+insert 536 Sadal Elarven
+insert 653 Vadeni Hloran
+insert -790 Talsi Hlaren
+insert 439 Balsa Arobar
+insert -284 Melvure Verethi
+insert 954 Dralcea Drathen
+hash_code -24
+insert -276 Terer Llandu
+extract 448
+size
+insert 128 Tarar Bedas
+hash_code 173
+insert -169 Golar Savil
+insert 488 Melsu Llothas
+insert 536 Thauraver Adas
+insert 602 Brerayne Tobor
+size
+extract -265
+extract 359
+insert -602 Urvel Salothran
+extract -918
+insert 211 Guls Samarys
+insert 439 Llarusea Reloth
+extract -169
+insert 980 Drerel Belaal
+hash_code 439
+size
+extract 735
+size
+extract 488
+insert -415 Vatollia Othreleth
+print
+extract 602
+extract -284
+insert -372 Fevris Ertis
+size
+print
+extract 536
+hash_code 653
+size
+insert 659 Hort Favani
+size
+print
+peek 659
+print
+hash_code 128
+extract -823
+extract -700
+size
+insert -400 Meryn Girethi
+insert -676 Dinor Arns
+insert 570 Dils Farothran
+bucket_count
+print
+extract 570
+insert 298 Meder Varam
+extract 128
+peek 298
+insert -829 Girvani Sari
+peek -676
+bucket_count
+insert -204 Sarayn Drobar
+extract -353
+hash_code -562
+extract -204
+empty
+bucket_count
+peek 921
+insert -692 Alvos Nalyn
+extract 653
+insert -490 Tivam Hlervi
+size
+hash_code -676
+insert -504 Thoryn Fendyn
+size
+peek 211
+peek -372
+extract -400
+insert 896 Tiras Saren
+insert -523 Falanu Rothren
+hash_code -186
+peek 211
+extract 173
+extract 896
+print
+insert -778 Raynila Nelas
+peek 439
+empty
+insert -372 Felara Neleth
+empty
+bucket_count
+peek -415
+insert 10 Endroni Tharys
+peek -778
+print
+insert -502 Endar Raram
+insert -63 Melvuli Thirano
+extract -63
+extract -602
+hash_code 298
+insert -483 Marena Indules
+empty
+bucket_count
+insert -137 Novor Telvayn
+extract -44
+extract 924
+insert 503 Badama Mavandes
+empty
+insert -98 Ulyne Faveran
+print
+extract -535
+print
+peek 980
+bucket_count
+peek -98
+peek 980
+quit

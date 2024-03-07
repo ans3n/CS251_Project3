@@ -1,0 +1,31 @@
+string int
+insert Enz2V8 786
+size
+empty
+insert 077IP -98
+peek 077IP
+print
+insert lwHROdo 48
+print
+extract lwHROdo
+peek 077IP
+maximum_key
+print
+insert xStZAym 501
+minimum_key
+insert in3IvHP -106
+insert vbRRlY63 -756
+insert Q93vEiG 829
+insert FgJlUIe -199
+size
+peek vbRRlY63
+maximum_key
+extract FgJlUIe
+peek xStZAym
+extract xStZAym
+minimum_key
+insert uCLq 110
+extract uCLq
+peek in3IvHP
+extract Q93vEiG
+quit

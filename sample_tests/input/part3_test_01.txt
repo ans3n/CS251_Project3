@@ -1,0 +1,251 @@
+name float
+8
+insert Idros Arothan -358.698
+peek Idros Arothan
+insert Tiras Seloth -179.367
+bucket_count
+print
+insert Sondryn Famori -396.255
+insert Marena Salas 326.175
+insert Brelar Beneran -440.737
+print
+insert Vonos Braven -714.033
+print
+insert Arvs Arns 520.243
+print
+bucket_count
+size
+insert Rindral Gavos -143.528
+peek Sondryn Famori
+hash_code Tiras Seloth
+size
+hash_code Idros Arothan
+insert Serila Reladren 220.685
+peek Vonos Braven
+insert Giren Llandu -435.85
+insert Tarvus Mavandes -812.117
+insert Bralsea Marys 562.445
+insert Deldasa Davus 88.2185
+insert Gilur Serethi -409.482
+peek Brelar Beneran
+print
+insert Angahran Vedralu -316.873
+empty
+insert Bivale Valen -528.688
+size
+insert Llovyn Selaren -591.848
+insert Folvys Balvel -301.164
+insert Brerama Herandus -941.526
+insert Drurile Adram -910.267
+bucket_count
+insert Guril Sadralo 295.224
+bucket_count
+size
+hash_code Bralsea Marys
+bucket_count
+print
+insert Ienase Llervu 569.795
+insert Tunila Benelas 712.963
+bucket_count
+insert Llondryn Salavel 877.747
+hash_code Llondryn Salavel
+peek Llondryn Salavel
+print
+bucket_count
+insert Fendel Gilvayn -303.229
+insert Marayn Dredayn -230.595
+print
+hash_code Drurile Adram
+empty
+peek Deldasa Davus
+insert Tralayn Helothren 834.861
+peek Tralayn Helothren
+hash_code Sondryn Famori
+empty
+peek Vonos Braven
+bucket_count
+size
+print
+insert Meril Veran -253.805
+empty
+insert Gomeso Surishpi 987.173
+insert Daynas Raram 732.705
+bucket_count
+peek Marayn Dredayn
+empty
+bucket_count
+empty
+insert Ralyn Rothrano 507.032
+peek Brerama Herandus
+print
+insert Seryn Uvelas 156.776
+insert Ilet Rivul -659.317
+size
+peek Llondryn Salavel
+hash_code Gilur Serethi
+bucket_count
+size
+peek Guril Sadralo
+bucket_count
+insert Fadren Sarothren -318.158
+hash_code Arvs Arns
+peek Giren Llandu
+empty
+print
+insert Eldrasea Folvyn -788.349
+insert Sevisa Thelas -272.305
+insert Hlenil Drethan 262.338
+insert Falam Gals 27.3854
+size
+hash_code Deldasa Davus
+print
+insert Dils Gols -717.496
+insert Brelyna Athren -661.862
+peek Gomeso Surishpi
+hash_code Tiras Seloth
+bucket_count
+insert Maralie Selvayn 439.383
+insert Gilyn Milo -80.0283
+hash_code Folvys Balvel
+insert Elvasea Nadram 447.74
+empty
+insert Ienas Vibato -309.014
+bucket_count
+insert Gulena Vedran 203.347
+size
+insert Varasa Berer -813.072
+insert Rovone Sarano -860.496
+hash_code Fadren Sarothren
+peek Giren Llandu
+print
+insert Andilu Virith -686.04
+peek Seryn Uvelas
+insert Llirala Romothran -450.481
+insert Aras Drelas 105.164
+insert Ridena Tedas 632.611
+insert Braynas Relnim -65.3951
+insert Elms Gidran -858.978
+size
+insert Diren Omani 332.918
+insert Gulmon Golathyn -210.406
+bucket_count
+hash_code Bivale Valen
+empty
+peek Drurile Adram
+empty
+insert Vindamea Helan 391.722
+hash_code Ilet Rivul
+insert Milvonu Fareloth -643.799
+bucket_count
+size
+empty
+insert Varon Arethi 615.339
+insert Ather Andrani 241.514
+empty
+insert Ginadura Saryoni -416.597
+empty
+size
+insert Naral Teri 622.175
+insert Neloth Llendu -476.176
+bucket_count
+print
+peek Sevisa Thelas
+print
+empty
+insert Llarara Avani 1.4585
+insert Methulu Belas -658.715
+size
+print
+insert Direr Sadrys -943.382
+print
+hash_code Ienas Vibato
+insert Dather Nedalor 687.807
+print
+bucket_count
+peek Elvasea Nadram
+peek Llondryn Salavel
+peek Arvs Arns
+insert Favise Romothran -608.769
+peek Gulena Vedran
+insert Evesa Andalas 871.967
+insert Ienasa Drora 32.8929
+peek Folvys Balvel
+hash_code Varasa Berer
+insert Golveso Malvayn -992.125
+bucket_count
+insert Uryn Onmar -661.678
+empty
+insert Salyn Terilu -900.512
+insert Sanaso Serano -219.014
+bucket_count
+empty
+print
+bucket_count
+peek Tralayn Helothren
+insert Brelyn Thilarvel 247.059
+insert Gulvilie Lloran 241.206
+hash_code Sevisa Thelas
+peek Sanaso Serano
+peek Giren Llandu
+insert Ulenea Androm 580.563
+size
+hash_code Salyn Terilu
+hash_code Sondryn Famori
+size
+bucket_count
+print
+peek Naral Teri
+print
+insert Relvese Relnim -25.084
+bucket_count
+peek Angahran Vedralu
+insert Forven Adram 638.219
+insert Suldreni Othrenim -70.8032
+insert Athesie Othreloth 909.594
+size
+bucket_count
+size
+insert Vavran Faram 754.464
+print
+insert Daynas Reloro 473.773
+insert Milar Dulni -246.049
+hash_code Relvese Relnim
+insert Erene Gimalvel -704.053
+bucket_count
+print
+empty
+bucket_count
+insert Llerusa Falavel 19.9966
+empty
+hash_code Methulu Belas
+insert Ienas Bedas 712.299
+insert Brara Uvalor -815.94
+size
+insert Hleras Helan 306.546
+empty
+hash_code Fendel Gilvayn
+bucket_count
+insert Forvse Mavandes -447.447
+bucket_count
+print
+empty
+size
+insert Bralis Nilem -736.693
+peek Braynas Relnim
+insert Drelayn Relnim 392.059
+insert Brathus Thenim -392.509
+size
+insert Radene Salas -21.2819
+peek Tiras Seloth
+size
+print
+empty
+insert Miron Indrano 319.795
+insert Briras Adryn -756.302
+hash_code Sondryn Famori
+peek Uryn Onmar
+insert Rayna Hlarys -998.222
+size
+peek Falam Gals
+print
+quit

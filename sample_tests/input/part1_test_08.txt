@@ -1,0 +1,97 @@
+name int
+13
+insert Dovor Merys -486
+print
+size
+bucket_count
+peek Dovor Merys
+peek Dovor Merys
+insert Tharer Alas -336
+hash_code Tharer Alas
+print
+peek Tharer Alas
+empty
+resize 13
+bucket_count
+insert Avoni Gimayn -54
+insert Ovis Omaren 31
+size
+print
+extract Ovis Omaren
+size
+insert Ralmyn Sadalvel 722
+insert Marilia Theman 680
+hash_code Avoni Gimayn
+bucket_count
+insert Brothes Fareloth -445
+resize 8
+insert Bolayn Fathyron 510
+resize 10
+insert Danso Retheran -800
+peek Tharer Alas
+size
+insert Daryn Llaram -575
+bucket_count
+extract Danso Retheran
+insert Ivrosa Hlervu 112
+extract Ivrosa Hlervu
+size
+insert Ulmiso Romothran -336
+extract Hlaroi Onmar
+extract Ulmiso Romothran
+print
+size
+insert Dreyns Dareleth 427
+hash_code Marilia Theman
+extract Avoni Gimayn
+extract Bolayn Fathyron
+insert Ralmyn Sadalvel 767
+peek Dovor Merys
+print
+extract Dovor Merys
+insert Farvyn Ledd -169
+insert Voneri Andarys 295
+insert Narile Onmar -825
+insert Tharer Alas 466
+size
+insert Dralora Andral 325
+insert Fedar Elval -820
+empty
+insert Thurisea Carvaren -647
+hash_code Ralmyn Sadalvel
+resize 33
+insert Iner Rothalen -338
+extract Marilia Theman
+print
+resize 34
+insert Toris Giral -788
+hash_code Dreyns Dareleth
+empty
+print
+bucket_count
+insert Vadusa Sarothril 518
+insert Seler Raviro 801
+extract Ralmyn Sadalvel
+insert Diradeni Madryon -398
+insert Milara Trandel 742
+size
+extract Daryn Llaram
+size
+insert Farvyn Raviro 886
+extract Vadusa Sarothril
+extract Tharer Alas
+insert Falvel Urns 521
+extract Brothes Fareloth
+extract Ferone Onmar
+peek Gilse Arvel
+insert Balynu Braven 994
+insert Dalyne Lladri -675
+insert Manara Dulni -504
+resize 32
+print
+extract Farvyn Ledd
+insert Drolora Avilo -388
+size
+peek Voneri Andarys
+insert Dreyns Dareleth 233
+quit

@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.17"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CS251Projects",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "adaptive_hash_map_app::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-adaptive_hash_map_app-Debug-37549077f97b035c784d.json",
+					"name" : "adaptive_hash_map_app",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "hash_map_app::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hash_map_app-Debug-34826e50beb2629c0372.json",
+					"name" : "hash_map_app",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project3-Debug-2980866c0e688b3193b1.json",
+					"name" : "project3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "splay_tree_app::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-splay_tree_app-Debug-42569d38da2bfc1cb82c.json",
+					"name" : "splay_tree_app",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/ansen/Documents/Programming Projects/CS 251/Project 3/cmake-build-debug",
+		"source" : "/Users/ansen/Documents/Programming Projects/CS 251/Project 3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

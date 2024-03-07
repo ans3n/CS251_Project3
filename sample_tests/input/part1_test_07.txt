@@ -1,0 +1,177 @@
+int name
+3
+bucket_count
+insert 736 Miner Teri
+print
+extract 736
+extract 511
+peek 4
+bucket_count
+insert -482 Meder Alvor
+size
+insert -105 Feruren Othralen
+insert 728 Norus Apo
+insert -733 Folyni Barelo
+empty
+size
+extract -482
+print
+bucket_count
+hash_code 728
+extract -105
+empty
+insert 940 Ulvil Othralen
+print
+insert 160 Tavilu Salandas
+peek 940
+insert 160 Hleras Releth
+print
+insert 728 Drarayne Baren
+insert -232 Idronea Ramarys
+extract 160
+insert -396 Talis Marys
+print
+insert 601 Tredyn Brenur
+insert 906 Daynas Herendas
+resize 12
+extract 237
+extract -226
+empty
+hash_code -232
+peek 728
+print
+size
+insert 77 Drathas Teran
+insert 962 Evesa Giral
+extract 962
+size
+insert 487 Ulms Dareleth
+peek -232
+insert 741 Sevame Andaren
+extract 236
+insert -685 Gilmyn Favani
+bucket_count
+hash_code -733
+hash_code 741
+bucket_count
+size
+insert -887 Nalami Davor
+extract 940
+extract 77
+insert 446 Boderi Athram
+print
+insert 659 Trerayna Relenim
+extract -685
+resize 47
+size
+extract -232
+resize 30
+insert -39 Bodsa Sarathram
+print
+insert 421 Milara Drothan
+size
+empty
+bucket_count
+extract 487
+extract 741
+extract -423
+print
+insert -325 Nalmen Saryon
+peek -733
+resize 14
+print
+insert -522 Divayth Sadri
+peek 659
+peek 906
+empty
+extract 421
+bucket_count
+peek -396
+extract 728
+peek -733
+peek -887
+hash_code -522
+peek -325
+insert 446 Tonas Rinith
+insert -561 Golar Omaren
+extract -522
+peek -325
+extract 789
+empty
+insert -989 Gilyn Nethan
+insert -765 Thurisea Andrano
+size
+insert -528 Galyn Gidran
+extract 446
+extract -396
+extract 906
+print
+hash_code 659
+print
+peek -325
+peek -39
+print
+hash_code -39
+extract -39
+peek 601
+extract -528
+extract -989
+hash_code -887
+extract -400
+peek 659
+peek -325
+extract -733
+extract 659
+empty
+insert -307 Danel Farandas
+insert -561 Anas Indobar
+resize 14
+size
+insert -105 Irver Beloren
+extract -105
+peek -887
+insert 562 Beyte Sarinith
+bucket_count
+insert 784 Rindral Uvaren
+size
+insert -856 Eldil Hloran
+print
+bucket_count
+extract 22
+extract -561
+size
+bucket_count
+insert -875 Galen Ilnith
+size
+extract -765
+print
+peek 898
+peek -875
+peek 562
+peek 784
+extract -875
+extract -307
+insert 938 Beraren Sathryon
+resize 42
+extract -887
+insert 562 Dravil Delvi
+resize 10
+print
+insert -264 Edd Salandas
+peek -325
+empty
+size
+peek 601
+extract 562
+peek -639
+resize 11
+extract 601
+insert -392 Thauraver Menas
+insert 960 Miara Nilem
+print
+extract 960
+resize 33
+peek -392
+size
+resize 7
+quit

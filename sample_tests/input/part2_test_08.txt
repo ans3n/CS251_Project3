@@ -1,0 +1,67 @@
+string int
+extract G1kR13dn
+extract hsy3u
+peek WJIA0
+maximum_key
+minimum_key
+extract uABsK5
+extract Lrd9ZMke
+insert tX6Y6Zj 549
+extract tX6Y6Zj
+peek K7BMpBop
+empty
+peek VD7kkG
+empty
+insert NDtIw -584
+peek NDtIw
+insert owghKo18 -277
+extract NDtIw
+print
+extract owghKo18
+extract U9i8jKR
+peek CL9q7r
+print
+extract 8KKh
+insert uq081f7 295
+extract uq081f7
+insert WdHGb 352
+peek WdHGb
+minimum_key
+empty
+extract WdHGb
+maximum_key
+extract kdIKZ
+peek DINgQY5
+extract YdDDkq
+insert JT62Dx 459
+peek JT62Dx
+size
+empty
+insert K6FTVe -614
+print
+maximum_key
+extract JT62Dx
+insert jwG6S6 -614
+peek K6FTVe
+insert daxWFj 591
+extract daxWFj
+extract jwG6S6
+extract K6FTVe
+insert TuZF -185
+minimum_key
+insert szgFQ 166
+extract szgFQ
+maximum_key
+peek TuZF
+print
+peek YShVo0uB
+size
+extract TuZF
+print
+size
+insert azqSUlgG 608
+insert 7dvl 270
+minimum_key
+peek azqSUlgG
+print
+quit

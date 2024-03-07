@@ -1,0 +1,166 @@
+size
+0
+bucket_count
+14
+empty
+true
+insert Rayna Nerano Ondres Droth
+size
+1
+insert Idula Ulvel Devas Omani
+print
+  0: [empty]
+  1: [empty]
+  2: [empty]
+  3: Idula Ulvel -> Devas Omani
+  4: [empty]
+  5: [empty]
+  6: Rayna Nerano -> Ondres Droth
+  7: [empty]
+  8: [empty]
+  9: [empty]
+ 10: [empty]
+ 11: [empty]
+ 12: [empty]
+ 13: [empty]
+peek Rayna Nerano
+Ondres Droth
+bucket_count
+14
+insert Dralasa Dralayn Niras Selvayn
+bucket_count
+14
+insert Goras Terandas Llaalamu Othren
+peek Dralasa Dralayn
+Niras Selvayn
+insert Gindrala Tistar Galar Garil
+size
+5
+insert Bedenea Sathren Guls Madryon
+print
+  0: [empty]
+  1: [empty]
+  2: [empty]
+  3: Bedenea Sathren -> Guls Madryon
+     └R: Goras Terandas -> Llaalamu Othren
+      └R: Idula Ulvel -> Devas Omani
+  4: [empty]
+  5: [empty]
+  6: Rayna Nerano -> Ondres Droth
+  7: [empty]
+  8: [empty]
+  9: Gindrala Tistar -> Galar Garil
+ 10: [empty]
+ 11: Dralasa Dralayn -> Niras Selvayn
+ 12: [empty]
+ 13: [empty]
+peek Dralasa Dralayn
+Niras Selvayn
+extract Rayna Nerano
+Ondres Droth
+peek Bedenea Sathren
+Guls Madryon
+empty
+false
+insert Ilen Andothan Dram Alam
+insert Nervana Nelas Ralam Guls
+hash_code Dralasa Dralayn
+11
+insert Melur Othreloth Gilas Gimayn
+insert Farena Omaren Maralie Llothas
+extract Dralasa Dralayn
+Niras Selvayn
+insert Garvs Orethi Sortis Sadus
+print
+  0: [empty]
+  1: Ilen Andothan -> Dram Alam
+  2: [empty]
+  3: Bedenea Sathren -> Guls Madryon
+     └R: Goras Terandas -> Llaalamu Othren
+      └R: Idula Ulvel -> Devas Omani
+  4: Farena Omaren -> Maralie Llothas
+  5: [empty]
+  6: [empty]
+  7: [empty]
+  8: [empty]
+  9: Gindrala Tistar -> Galar Garil
+ 10: Nervana Nelas -> Ralam Guls
+ 11: Melur Othreloth -> Gilas Gimayn
+ 12: [empty]
+ 13: Garvs Orethi -> Sortis Sadus
+size
+9
+empty
+false
+size
+9
+print
+  0: [empty]
+  1: Ilen Andothan -> Dram Alam
+  2: [empty]
+  3: Bedenea Sathren -> Guls Madryon
+     └R: Goras Terandas -> Llaalamu Othren
+      └R: Idula Ulvel -> Devas Omani
+  4: Farena Omaren -> Maralie Llothas
+  5: [empty]
+  6: [empty]
+  7: [empty]
+  8: [empty]
+  9: Gindrala Tistar -> Galar Garil
+ 10: Nervana Nelas -> Ralam Guls
+ 11: Melur Othreloth -> Gilas Gimayn
+ 12: [empty]
+ 13: Garvs Orethi -> Sortis Sadus
+insert Tunila Llaram Alurue Ramarys
+peek Bedenea Sathren
+Guls Madryon
+empty
+false
+print
+  0: Tunila Llaram -> Alurue Ramarys
+  1: Ilen Andothan -> Dram Alam
+  2: [empty]
+  3: Bedenea Sathren -> Guls Madryon
+     └R: Goras Terandas -> Llaalamu Othren
+      └R: Idula Ulvel -> Devas Omani
+  4: Farena Omaren -> Maralie Llothas
+  5: [empty]
+  6: [empty]
+  7: [empty]
+  8: [empty]
+  9: Gindrala Tistar -> Galar Garil
+ 10: Nervana Nelas -> Ralam Guls
+ 11: Melur Othreloth -> Gilas Gimayn
+ 12: [empty]
+ 13: Garvs Orethi -> Sortis Sadus
+bucket_count
+14
+extract Ilen Andothan
+Dram Alam
+peek Bedenea Sathren
+Guls Madryon
+bucket_count
+14
+peek Bedenea Sathren
+Guls Madryon
+print
+  0: Tunila Llaram -> Alurue Ramarys
+  1: [empty]
+  2: [empty]
+  3: Bedenea Sathren -> Guls Madryon
+     └R: Goras Terandas -> Llaalamu Othren
+      └R: Idula Ulvel -> Devas Omani
+  4: Farena Omaren -> Maralie Llothas
+  5: [empty]
+  6: [empty]
+  7: [empty]
+  8: [empty]
+  9: Gindrala Tistar -> Galar Garil
+ 10: Nervana Nelas -> Ralam Guls
+ 11: Melur Othreloth -> Gilas Gimayn
+ 12: [empty]
+ 13: Garvs Orethi -> Sortis Sadus
+insert Selman Reloro Nerile Sarothren
+hash_code Farena Omaren
+4
+quit

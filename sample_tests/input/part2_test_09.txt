@@ -1,0 +1,217 @@
+int int
+print
+empty
+insert 718 340
+minimum_key
+print
+insert 553 844
+maximum_key
+minimum_key
+insert -479 496
+peek -479
+extract -479
+insert -755 -329
+print
+extract 718
+peek 553
+peek -755
+insert 499 -183
+size
+maximum_key
+print
+minimum_key
+peek 499
+extract -755
+insert -836 489
+empty
+extract 499
+extract -836
+insert 562 517
+minimum_key
+extract 553
+insert 719 -182
+peek 562
+peek 562
+extract 719
+maximum_key
+insert -620 339
+insert -143 824
+extract -620
+insert 303 127
+extract 512
+insert 126 -288
+peek 126
+minimum_key
+empty
+insert -169 -658
+insert 340 196
+insert 817 421
+insert 819 -986
+extract 562
+peek 340
+peek 817
+extract 819
+peek -169
+empty
+maximum_key
+insert 856 24
+print
+insert -406 990
+extract 340
+extract -406
+print
+maximum_key
+insert 369 873
+print
+empty
+extract -169
+print
+empty
+minimum_key
+extract -143
+insert 40 -686
+empty
+extract 369
+minimum_key
+peek 303
+insert -320 -306
+minimum_key
+insert -222 786
+size
+peek 856
+peek -222
+insert 737 -654
+print
+extract 737
+insert 969 498
+insert 456 -641
+peek -222
+insert 397 474
+insert -388 -594
+maximum_key
+peek -222
+maximum_key
+extract 456
+print
+minimum_key
+print
+peek -222
+extract 126
+insert -749 -896
+print
+peek 817
+minimum_key
+extract 397
+peek -749
+extract 40
+size
+insert -673 624
+insert 244 123
+extract -222
+extract 856
+insert 394 553
+extract 394
+print
+extract 244
+minimum_key
+extract -110
+insert 821 -895
+maximum_key
+size
+extract -388
+extract 367
+insert -964 164
+maximum_key
+size
+insert 573 812
+minimum_key
+extract -673
+peek -320
+maximum_key
+insert 820 -464
+peek 817
+print
+extract -964
+insert 856 0
+insert -465 -960
+maximum_key
+print
+peek 573
+peek 303
+peek -465
+insert -184 -172
+maximum_key
+minimum_key
+insert -336 175
+extract 817
+extract -320
+extract 969
+insert -351 396
+empty
+minimum_key
+maximum_key
+insert -71 638
+peek 856
+print
+minimum_key
+peek -184
+insert -584 -550
+extract -749
+extract -584
+insert 27 -592
+extract 27
+empty
+insert 602 -847
+insert 820 143
+extract 856
+extract 602
+extract -71
+insert 23 801
+empty
+print
+size
+extract -164
+extract 23
+insert -849 156
+peek -184
+insert 88 -958
+extract 303
+insert -96 303
+extract 88
+print
+minimum_key
+maximum_key
+insert 433 -509
+print
+maximum_key
+extract -336
+minimum_key
+extract -849
+extract 573
+extract -96
+empty
+minimum_key
+insert -184 260
+peek -465
+peek 821
+insert -681 655
+insert 821 -789
+minimum_key
+peek -681
+minimum_key
+extract -351
+insert -867 -512
+minimum_key
+maximum_key
+insert -92 733
+peek -867
+insert 835 766
+insert 373 646
+insert 752 337
+print
+extract 373
+maximum_key
+extract -184
+extract 821
+peek 752
+quit

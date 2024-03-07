@@ -1,0 +1,482 @@
+print
+  0: [empty]
+  1: [empty]
+  2: [empty]
+  3: [empty]
+  4: [empty]
+  5: [empty]
+insert Berel Uveleth Vindyne Farethi
+size
+1
+bucket_count
+6
+insert Drelyne Talds Aron Faveran
+size
+2
+insert Nireli Tharys Menus Terilu
+extract Berel Uveleth
+Vindyne Farethi
+extract Ulms Sadalas
+Key does not exist!
+bucket_count
+6
+extract Nireli Tharys
+Menus Terilu
+resize 1
+insert Golmerea Fadathram Miner Belden
+extract Golmerea Fadathram
+Miner Belden
+resize 2
+resize 31
+extract Drelyne Talds
+Aron Faveran
+insert Dartis Belvani Temis Andus
+empty
+false
+peek Dartis Belvani
+Temis Andus
+bucket_count
+31
+print
+  0: [empty]
+  1: [empty]
+  2: [empty]
+  3: [empty]
+  4: [empty]
+  5: [empty]
+  6: [empty]
+  7: [empty]
+  8: [empty]
+  9: [empty]
+ 10: [empty]
+ 11: [empty]
+ 12: [empty]
+ 13: [empty]
+ 14: [empty]
+ 15: [empty]
+ 16: [empty]
+ 17: [empty]
+ 18: [empty]
+ 19: [empty]
+ 20: [empty]
+ 21: [empty]
+ 22: [empty]
+ 23: [empty]
+ 24: [empty]
+ 25: [empty]
+ 26: [empty]
+ 27: [empty]
+ 28: [empty]
+ 29: (29) Dartis Belvani -> Temis Andus
+ 30: [empty]
+extract Dartis Belvani
+Temis Andus
+extract Llero Ryon
+Key does not exist!
+extract Vonos Fendyn
+Key does not exist!
+insert Berel Redoran Gothren Androthi
+peek Berel Redoran
+Gothren Androthi
+extract Berel Redoran
+Gothren Androthi
+print
+  0: [empty]
+  1: [empty]
+  2: [empty]
+  3: [empty]
+  4: [empty]
+  5: [empty]
+  6: [empty]
+  7: [empty]
+  8: [empty]
+  9: [empty]
+ 10: [empty]
+ 11: [empty]
+ 12: [empty]
+ 13: [empty]
+ 14: [empty]
+ 15: [empty]
+ 16: [empty]
+ 17: [empty]
+ 18: [empty]
+ 19: [empty]
+ 20: [empty]
+ 21: [empty]
+ 22: [empty]
+ 23: [empty]
+ 24: [empty]
+ 25: [empty]
+ 26: [empty]
+ 27: [empty]
+ 28: [empty]
+ 29: [empty]
+ 30: [empty]
+extract Rirns Llendu
+Key does not exist!
+size
+0
+bucket_count
+31
+extract Llaros Mano
+Key does not exist!
+extract Nileno Radobar
+Key does not exist!
+peek Drendrisa Beren
+Key does not exist!
+insert Irarak Dralayn Feralea Tunel
+resize 3
+insert Midar Alas Bolnor Damori
+size
+2
+empty
+false
+extract Irarak Dralayn
+Feralea Tunel
+insert Deldasa Sadri Ruthrisu Androm
+resize 16
+print
+  0: (0) Deldasa Sadri -> Ruthrisu Androm
+  1: [empty]
+  2: [empty]
+  3: [empty]
+  4: [empty]
+  5: [empty]
+  6: [empty]
+  7: [empty]
+  8: (8) Midar Alas -> Bolnor Damori
+  9: [empty]
+ 10: [empty]
+ 11: [empty]
+ 12: [empty]
+ 13: [empty]
+ 14: [empty]
+ 15: [empty]
+insert Fanasa Sathren Favani Nadram
+bucket_count
+16
+print
+  0: (0) Deldasa Sadri -> Ruthrisu Androm
+  1: [empty]
+  2: [empty]
+  3: [empty]
+  4: [empty]
+  5: [empty]
+  6: [empty]
+  7: [empty]
+  8: (8) Midar Alas -> Bolnor Damori
+  9: [empty]
+ 10: [empty]
+ 11: [empty]
+ 12: (12) Fanasa Sathren -> Favani Nadram
+ 13: [empty]
+ 14: [empty]
+ 15: [empty]
+extract Midar Alas
+Bolnor Damori
+empty
+false
+print
+  0: (0) Deldasa Sadri -> Ruthrisu Androm
+  1: [empty]
+  2: [empty]
+  3: [empty]
+  4: [empty]
+  5: [empty]
+  6: [empty]
+  7: [empty]
+  8: [empty]
+  9: [empty]
+ 10: [empty]
+ 11: [empty]
+ 12: (12) Fanasa Sathren -> Favani Nadram
+ 13: [empty]
+ 14: [empty]
+ 15: [empty]
+extract Deldasa Sadri
+Ruthrisu Androm
+extract Bolnor Sarobar
+Key does not exist!
+resize 31
+insert Telura Nadram Lauravenya Girith
+insert Dedaenc Virith Nalvilie Urvyn
+insert Draron Githendas Tredyn Arval
+insert Bolyn Favani Bedal Savani
+print
+  0: [empty]
+  1: (1) Fanasa Sathren -> Favani Nadram
+  2: [empty]
+  3: [empty]
+  4: [empty]
+  5: [empty]
+  6: (6) Telura Nadram -> Lauravenya Girith
+  7: [empty]
+  8: [empty]
+  9: [empty]
+ 10: [empty]
+ 11: [empty]
+ 12: [empty]
+ 13: [empty]
+ 14: [empty]
+ 15: [empty]
+ 16: [empty]
+ 17: (17) Bolyn Favani -> Bedal Savani
+ 18: [empty]
+ 19: [empty]
+ 20: [empty]
+ 21: [empty]
+ 22: [empty]
+ 23: [empty]
+ 24: [empty]
+ 25: (25) Dedaenc Virith -> Nalvilie Urvyn
+ 26: (25) Draron Githendas -> Tredyn Arval
+ 27: [empty]
+ 28: [empty]
+ 29: [empty]
+ 30: [empty]
+hash_code Draron Githendas
+25
+bucket_count
+31
+extract Fanasa Sathren
+Favani Nadram
+bucket_count
+31
+extract Bolyn Favani
+Bedal Savani
+extract Telura Nadram
+Lauravenya Girith
+peek Dedaenc Virith
+Nalvilie Urvyn
+insert Viras Telvayn Trels Nervion
+extract Dedaenc Virith
+Nalvilie Urvyn
+empty
+false
+insert Galdal Relvani Nuleno Farethi
+bucket_count
+31
+insert Vedam Dredayn Dathus Dredayn
+resize 9
+insert Ralam Beran Nina Sarendas
+resize 9
+insert Tremona Damori Nathala Alvor
+resize 16
+extract Viras Telvayn
+Trels Nervion
+bucket_count
+16
+extract Galdal Relvani
+Nuleno Farethi
+peek Draron Githendas
+Tredyn Arval
+peek Draron Githendas
+Tredyn Arval
+size
+4
+print
+  0: [empty]
+  1: [empty]
+  2: [empty]
+  3: [empty]
+  4: [empty]
+  5: [empty]
+  6: (6) Vedam Dredayn -> Dathus Dredayn
+  7: [empty]
+  8: [empty]
+  9: [empty]
+ 10: (10) Draron Githendas -> Tredyn Arval
+ 11: [empty]
+ 12: [empty]
+ 13: (13) Tremona Damori -> Nathala Alvor
+ 14: (14) Ralam Beran -> Nina Sarendas
+ 15: [empty]
+extract Ralam Beran
+Nina Sarendas
+extract Tremona Damori
+Nathala Alvor
+extract Vedam Dredayn
+Dathus Dredayn
+hash_code Draron Githendas
+10
+insert Beldrose Arelas Ralmyn Sarethi
+bucket_count
+16
+extract Draron Githendas
+Tredyn Arval
+insert Briras Drath Ethal Gimalvel
+print
+  0: (0) Beldrose Arelas -> Ralmyn Sarethi
+  1: [empty]
+  2: [empty]
+  3: [empty]
+  4: [empty]
+  5: (5) Briras Drath -> Ethal Gimalvel
+  6: [empty]
+  7: [empty]
+  8: [empty]
+  9: [empty]
+ 10: [empty]
+ 11: [empty]
+ 12: [empty]
+ 13: [empty]
+ 14: [empty]
+ 15: [empty]
+insert Irna Doves Deval Arvel
+extract Briras Drath
+Ethal Gimalvel
+insert Tumsa Fedos Saras Salam
+insert Femer Hlas Dreynis Areloth
+extract Falvel Therayn
+Key does not exist!
+resize 4
+print
+  0: (0) Beldrose Arelas -> Ralmyn Sarethi
+  1: (2) Femer Hlas -> Dreynis Areloth
+  2: (2) Tumsa Fedos -> Saras Salam
+  3: (2) Irna Doves -> Deval Arvel
+bucket_count
+4
+peek Berela Davus
+Key does not exist!
+extract Beldrose Arelas
+Ralmyn Sarethi
+bucket_count
+4
+insert Bervyn Gilvilo Fathusa Sedas
+bucket_count
+4
+print
+  0: (2) Bervyn Gilvilo -> Fathusa Sedas
+  1: (2) Femer Hlas -> Dreynis Areloth
+  2: (2) Tumsa Fedos -> Saras Salam
+  3: (2) Irna Doves -> Deval Arvel
+extract Bervyn Gilvilo
+Fathusa Sedas
+insert Tirer Garvon Thurisea Hlando
+size
+4
+resize 6
+insert Tarani Arano Felsa Areloth
+insert Dralsea Veralor Daynali Llaram
+insert Athesie Hlaano Ienas Benelas
+extract Tumsa Fedos
+Saras Salam
+resize 32
+extract Tirer Garvon
+Thurisea Hlando
+print
+  0: [empty]
+  1: [empty]
+  2: [empty]
+  3: [empty]
+  4: [empty]
+  5: [empty]
+  6: [empty]
+  7: [empty]
+  8: [empty]
+  9: [empty]
+ 10: [empty]
+ 11: (11) Athesie Hlaano -> Ienas Benelas
+ 12: [empty]
+ 13: [empty]
+ 14: [empty]
+ 15: (15) Tarani Arano -> Felsa Areloth
+ 16: [empty]
+ 17: [empty]
+ 18: [empty]
+ 19: [empty]
+ 20: [empty]
+ 21: [empty]
+ 22: (22) Femer Hlas -> Dreynis Areloth
+ 23: (22) Irna Doves -> Deval Arvel
+ 24: [empty]
+ 25: [empty]
+ 26: [empty]
+ 27: [empty]
+ 28: [empty]
+ 29: [empty]
+ 30: [empty]
+ 31: (31) Dralsea Veralor -> Daynali Llaram
+bucket_count
+32
+print
+  0: [empty]
+  1: [empty]
+  2: [empty]
+  3: [empty]
+  4: [empty]
+  5: [empty]
+  6: [empty]
+  7: [empty]
+  8: [empty]
+  9: [empty]
+ 10: [empty]
+ 11: (11) Athesie Hlaano -> Ienas Benelas
+ 12: [empty]
+ 13: [empty]
+ 14: [empty]
+ 15: (15) Tarani Arano -> Felsa Areloth
+ 16: [empty]
+ 17: [empty]
+ 18: [empty]
+ 19: [empty]
+ 20: [empty]
+ 21: [empty]
+ 22: (22) Femer Hlas -> Dreynis Areloth
+ 23: (22) Irna Doves -> Deval Arvel
+ 24: [empty]
+ 25: [empty]
+ 26: [empty]
+ 27: [empty]
+ 28: [empty]
+ 29: [empty]
+ 30: [empty]
+ 31: (31) Dralsea Veralor -> Daynali Llaram
+resize 5
+peek Dralsea Veralor
+Daynali Llaram
+extract Tarani Arano
+Felsa Areloth
+peek Femer Hlas
+Dreynis Areloth
+print
+  0: [empty]
+  1: (1) Athesie Hlaano -> Ienas Benelas
+  2: (4) Irna Doves -> Deval Arvel
+  3: (3) Dralsea Veralor -> Daynali Llaram
+  4: (4) Femer Hlas -> Dreynis Areloth
+empty
+false
+peek Adil Selas
+Key does not exist!
+print
+  0: [empty]
+  1: (1) Athesie Hlaano -> Ienas Benelas
+  2: (4) Irna Doves -> Deval Arvel
+  3: (3) Dralsea Veralor -> Daynali Llaram
+  4: (4) Femer Hlas -> Dreynis Areloth
+bucket_count
+5
+peek Irna Doves
+Deval Arvel
+insert Tilena Ralaal Tinos Sethri
+insert Alynu Goran Gureryne Serano
+bucket_count
+10
+peek Tilena Ralaal
+Tinos Sethri
+resize 8
+empty
+false
+extract Alynu Goran
+Gureryne Serano
+extract Irna Doves
+Deval Arvel
+bucket_count
+8
+empty
+false
+extract Athesie Hlaano
+Ienas Benelas
+quit

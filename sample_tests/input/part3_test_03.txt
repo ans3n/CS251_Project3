@@ -1,0 +1,331 @@
+string int
+12
+insert pUc97p 63
+peek pUc97p
+peek pUc97p
+insert QNyXZTPM 826
+insert 0dn41bkC 685
+bucket_count
+insert VcF8S30 836
+insert zEqwkzl -363
+size
+hash_code pUc97p
+empty
+bucket_count
+print
+size
+print
+insert M0ffadhj -811
+insert xizPsN3o -586
+bucket_count
+hash_code 0dn41bkC
+extract M0ffadhj
+insert clZv4 155
+peek zEqwkzl
+extract zEqwkzl
+empty
+insert VrFp8 603
+extract VrFp8
+insert nrVro -883
+hash_code QNyXZTPM
+insert GSas5Ba -335
+insert xaJo 492
+size
+empty
+insert 1h7yab -460
+insert Ai3Ys4B 735
+insert eJi4wfe -959
+insert Pc2hXh 761
+extract pUc97p
+empty
+extract nrVro
+insert duqgFGXu 425
+insert fn63CT1Q -980
+extract xizPsN3o
+insert hMOaoE 450
+insert Evw0z4dR -268
+insert SNYH -182
+hash_code VcF8S30
+size
+empty
+print
+insert FFgH -595
+insert CsxmcNMa -398
+insert N6TE -90
+insert Khfsv17M 126
+insert 0WoLcSe 923
+extract duqgFGXu
+insert J5k2BbL 832
+hash_code N6TE
+peek Khfsv17M
+extract hMOaoE
+insert PHD9OScT 926
+insert itrA -579
+empty
+print
+insert G0UDRYQ 315
+insert 4xET 391
+size
+extract 0WoLcSe
+size
+peek eJi4wfe
+hash_code N6TE
+empty
+extract Evw0z4dR
+empty
+insert rN4CIa -42
+extract GSas5Ba
+insert eFNA 141
+size
+extract itrA
+empty
+size
+peek clZv4
+extract SNYH
+insert lRnzdW -175
+insert CxMT -974
+insert 7QlGbfAy 124
+size
+extract G0UDRYQ
+bucket_count
+insert DWbjZzO3 697
+peek CsxmcNMa
+empty
+insert 35jTL 758
+insert LrcVYHOK -17
+print
+insert JCGPF 26
+bucket_count
+peek eJi4wfe
+print
+peek 7QlGbfAy
+bucket_count
+hash_code 35jTL
+hash_code LrcVYHOK
+size
+extract PHD9OScT
+extract 7QlGbfAy
+extract clZv4
+insert SjndPE -189
+print
+extract Pc2hXh
+extract J5k2BbL
+insert NHIul 919
+insert dp9KZDy -99
+insert Brig5pt5 778
+peek Khfsv17M
+empty
+insert FYhfQN -772
+insert XJm4 -592
+extract xaJo
+hash_code CsxmcNMa
+bucket_count
+insert NcxEGjs 307
+peek FYhfQN
+print
+insert DzgZ2Bh -494
+print
+insert zm59wMxS -361
+hash_code FFgH
+insert qwdmtUp 975
+empty
+size
+insert 7fqzct 902
+bucket_count
+insert yKcoM 29
+empty
+hash_code FFgH
+insert GtUC 806
+peek rN4CIa
+extract JCGPF
+size
+peek SjndPE
+peek Khfsv17M
+insert GFLR5l2 -840
+insert ARiJo2 -598
+insert rZfoPa -221
+print
+insert 86n065e -467
+print
+hash_code 4xET
+extract LrcVYHOK
+peek CsxmcNMa
+insert lYXhvWZ -212
+insert eVtZ -542
+extract lYXhvWZ
+extract ARiJo2
+peek NHIul
+insert 6V6KW4id -452
+size
+insert zlRqg 291
+bucket_count
+hash_code FFgH
+peek 0dn41bkC
+peek eFNA
+peek 4xET
+size
+insert NfLm -773
+peek DzgZ2Bh
+insert 4e1hn7wh -230
+bucket_count
+peek 7fqzct
+insert K1a972XJ -759
+insert tLKsV -931
+insert PZmOC3L -183
+insert TUi8l 707
+insert ANiMQ -784
+insert pFwZ 989
+extract 1h7yab
+empty
+insert 704O -346
+extract FFgH
+insert CA7r5MX0 -231
+hash_code Khfsv17M
+size
+extract eJi4wfe
+peek K1a972XJ
+hash_code CxMT
+empty
+extract NHIul
+insert dAuFUWRg 809
+hash_code rN4CIa
+insert YDpT2 -442
+peek yKcoM
+insert A8dT 505
+peek Brig5pt5
+insert k9jOD -102
+empty
+extract Ai3Ys4B
+size
+hash_code yKcoM
+peek tLKsV
+print
+bucket_count
+insert yPYi -340
+extract rZfoPa
+bucket_count
+insert Z6pQRAz 990
+print
+insert ljD7MmFm -805
+extract QNyXZTPM
+peek Z6pQRAz
+insert QoAK 142
+extract GFLR5l2
+insert DMkS -131
+print
+extract k9jOD
+bucket_count
+size
+peek tLKsV
+bucket_count
+size
+insert cJ4uM7aK -809
+insert LDVn -811
+insert ZoS2hB -348
+hash_code DMkS
+peek NfLm
+peek cJ4uM7aK
+insert l5Ln305 -787
+insert 9Kk9 719
+print
+empty
+bucket_count
+insert YdJT -472
+insert 2WOn82 524
+peek LDVn
+insert nne5P -758
+size
+print
+extract Z6pQRAz
+hash_code Brig5pt5
+print
+insert nbbeRf -801
+insert f1Af -136
+size
+print
+peek 4e1hn7wh
+peek 86n065e
+peek dp9KZDy
+print
+insert 6lEZR73 981
+insert KNw6Bo 643
+insert gZOFMI -595
+bucket_count
+peek ANiMQ
+insert yxuC1AP -867
+peek NcxEGjs
+size
+hash_code KNw6Bo
+extract Khfsv17M
+peek NcxEGjs
+extract DWbjZzO3
+print
+insert rzzxlq 711
+extract yxuC1AP
+hash_code eFNA
+print
+size
+peek TUi8l
+hash_code KNw6Bo
+insert UERayJ 139
+hash_code cJ4uM7aK
+size
+insert Bo0P 931
+hash_code zm59wMxS
+insert YRUwSgso -701
+insert KgUDckG -627
+insert NyJo -761
+size
+insert C2Am 315
+insert 2eiR9BMR -894
+insert lRso4 297
+peek 9Kk9
+insert alzy -720
+insert rZVaV6CM 500
+insert Odjl8y -821
+hash_code C2Am
+insert jgrpA 71
+empty
+print
+insert tFhIvlb -522
+extract dp9KZDy
+peek YRUwSgso
+peek nbbeRf
+bucket_count
+insert btxUBNv 288
+peek N6TE
+insert idBy -291
+print
+insert BNRm9a 747
+peek rZVaV6CM
+insert kbSnlpNW -912
+bucket_count
+peek GtUC
+hash_code yPYi
+insert ylCRH4N -374
+insert oZbO 685
+peek ylCRH4N
+print
+extract yPYi
+extract CxMT
+hash_code eFNA
+insert q1s4 -88
+insert XCcJ -582
+insert Ag6t47p -202
+insert 10qPw9 195
+insert RgFFp -881
+insert l8Inapy -726
+extract cJ4uM7aK
+extract DzgZ2Bh
+print
+size
+bucket_count
+insert vS8Hit 741
+bucket_count
+extract rN4CIa
+insert 7owdW9Ic -305
+insert 5CMlluK -793
+extract q1s4
+print
+extract CA7r5MX0
+quit

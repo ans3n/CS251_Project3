@@ -1,0 +1,65 @@
+int float
+insert -909 378.732
+insert -204 -9.91974
+peek -909
+insert 695 258.504
+maximum_key
+print
+size
+print
+insert 297 268.386
+empty
+insert -481 -729.899
+peek 297
+insert 817 405.289
+maximum_key
+empty
+insert 759 220.44
+peek -481
+size
+peek -909
+size
+minimum_key
+insert 849 -213.484
+print
+insert -833 519.52
+print
+insert 876 875.023
+maximum_key
+print
+peek 297
+insert -651 -184.926
+insert -13 266.374
+insert -746 -187.403
+maximum_key
+insert 513 -281.676
+peek -833
+size
+maximum_key
+print
+insert -279 -10.7584
+print
+insert 951 543.817
+insert 221 890.25
+insert 895 -103.269
+insert 404 623.077
+insert 438 -257.489
+insert -724 -290.655
+maximum_key
+print
+empty
+minimum_key
+insert -172 -928.77
+size
+insert 360 -81.4216
+size
+insert 105 -644.852
+maximum_key
+size
+insert -342 -926.787
+print
+insert -437 27.752
+size
+maximum_key
+insert -455 -53.1746
+quit

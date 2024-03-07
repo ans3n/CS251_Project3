@@ -1,0 +1,120 @@
+extract G1kR13dn
+Key does not exist!
+extract hsy3u
+Key does not exist!
+peek WJIA0
+Key does not exist!
+maximum_key
+Tree is empty!
+minimum_key
+Tree is empty!
+extract uABsK5
+Key does not exist!
+extract Lrd9ZMke
+Key does not exist!
+insert tX6Y6Zj 549
+extract tX6Y6Zj
+549
+peek K7BMpBop
+Key does not exist!
+empty
+true
+peek VD7kkG
+Key does not exist!
+empty
+true
+insert NDtIw -584
+peek NDtIw
+-584
+insert owghKo18 -277
+extract NDtIw
+-584
+print
+owghKo18 -> -277
+extract owghKo18
+-277
+extract U9i8jKR
+Key does not exist!
+peek CL9q7r
+Key does not exist!
+print
+[empty]
+extract 8KKh
+Key does not exist!
+insert uq081f7 295
+extract uq081f7
+295
+insert WdHGb 352
+peek WdHGb
+352
+minimum_key
+WdHGb
+empty
+false
+extract WdHGb
+352
+maximum_key
+Tree is empty!
+extract kdIKZ
+Key does not exist!
+peek DINgQY5
+Key does not exist!
+extract YdDDkq
+Key does not exist!
+insert JT62Dx 459
+peek JT62Dx
+459
+size
+1
+empty
+false
+insert K6FTVe -614
+print
+K6FTVe -> -614
+└L: JT62Dx -> 459
+maximum_key
+K6FTVe
+extract JT62Dx
+459
+insert jwG6S6 -614
+peek K6FTVe
+-614
+insert daxWFj 591
+extract daxWFj
+591
+extract jwG6S6
+-614
+extract K6FTVe
+-614
+insert TuZF -185
+minimum_key
+TuZF
+insert szgFQ 166
+extract szgFQ
+166
+maximum_key
+TuZF
+peek TuZF
+-185
+print
+TuZF -> -185
+peek YShVo0uB
+Key does not exist!
+size
+1
+extract TuZF
+-185
+print
+[empty]
+size
+0
+insert azqSUlgG 608
+insert 7dvl 270
+minimum_key
+7dvl
+peek azqSUlgG
+608
+print
+azqSUlgG -> 608
+└L: 7dvl -> 270
+quit

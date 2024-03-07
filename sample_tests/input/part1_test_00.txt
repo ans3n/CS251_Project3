@@ -1,0 +1,24 @@
+string float
+9
+bucket_count
+size
+empty
+insert V6woTC -520.19
+peek V6woTC
+size
+hash_code V6woTC
+insert ZhpLUu -184.155
+insert NE3X3fb -47.0941
+bucket_count
+print
+peek V6woTC
+peek NE3X3fb
+peek ZhpLUu
+size
+print
+insert SpMNL9w 357.968
+insert nQpUXt 192.883
+print
+insert VD0xu1a 628.569
+insert iw5Ad -503.044
+quit

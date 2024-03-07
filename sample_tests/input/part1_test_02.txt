@@ -1,0 +1,43 @@
+name string
+1
+resize 5
+bucket_count
+insert Avoni Garil bvPYvQG
+insert Bervyn Nerothren 6uTbVYh
+insert Urandile Sarano 0JVZ
+empty
+insert Haleneri Apo MFKRCO
+insert Bels Brilyn octHuW7V
+insert Gragus Marvel PNS4ef
+insert Galsu Senoril NiZf
+peek Bels Brilyn
+insert Tilena Moran xpldtB
+bucket_count
+insert Bronosa Drin pWDj
+print
+hash_code Galsu Senoril
+print
+resize 30
+print
+insert Uvele Lladri K8nups
+print
+extract Gragus Marvel
+insert Dolmyn Sarinith 0mduL5YW
+extract Uvele Lladri
+peek Haleneri Apo
+insert Iner Gindu i8fG8LF
+empty
+peek Dolmyn Sarinith
+peek Avoni Garil
+peek Avoni Garil
+peek Bels Brilyn
+print
+extract Bervyn Nerothren
+insert Daynes Thireloth CgdFTn
+insert Ivramie Hlarys OkCjJQ2
+size
+print
+empty
+insert Salver Deltis Hpt57AT
+insert Duldresi Inlador T0xDb1fo
+quit

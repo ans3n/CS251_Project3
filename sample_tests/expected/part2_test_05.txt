@@ -1,0 +1,280 @@
+extract Drireri Drivam
+Key does not exist!
+print
+[empty]
+maximum_key
+Tree is empty!
+minimum_key
+Tree is empty!
+print
+[empty]
+extract Galsa Sedas
+Key does not exist!
+extract Vobend Sendas
+Key does not exist!
+print
+[empty]
+minimum_key
+Tree is empty!
+extract Ienas Alen
+Key does not exist!
+insert Galdres Salor -969.588
+print
+Galdres Salor -> -969.588
+insert Galdres Salor 795.008
+Duplicate key!
+insert Rilas Berethi 57.2579
+insert Bethes Ravel 71.4479
+extract Bethes Ravel
+71.4479
+print
+Galdres Salor -> -969.588
+└L: Rilas Berethi -> 57.2579
+peek Galdres Salor
+-969.588
+insert Rilas Berethi -714.853
+Duplicate key!
+insert Gilas Ores 183.974
+peek Rilas Berethi
+57.2579
+extract Rilas Berethi
+57.2579
+insert Gindas Rothren 434.791
+maximum_key
+Galdres Salor
+extract Galdres Salor
+-969.588
+peek Gindas Rothren
+434.791
+insert Alvur Teneran -515.23
+peek Gilas Ores
+183.974
+extract Alvur Teneran
+-515.23
+maximum_key
+Gindas Rothren
+extract Gilas Ores
+183.974
+extract Gindas Rothren
+434.791
+peek Brelar Raloran
+Key does not exist!
+insert Ranis Malas 678.132
+extract Ranis Malas
+678.132
+extract Dredyni Hlan
+Key does not exist!
+extract Seler Oreyn
+Key does not exist!
+peek Sovisa Rindu
+Key does not exist!
+extract Gadasu Fathyron
+Key does not exist!
+insert Drandryn Thirandus -929.108
+peek Drandryn Thirandus
+-929.108
+insert Thadar Dral 199.493
+peek Thadar Dral
+199.493
+extract Thadar Dral
+199.493
+minimum_key
+Drandryn Thirandus
+extract Drandryn Thirandus
+-929.108
+empty
+true
+size
+0
+minimum_key
+Tree is empty!
+size
+0
+minimum_key
+Tree is empty!
+extract Llaro Rendas
+Key does not exist!
+peek Salama Vandus
+Key does not exist!
+print
+[empty]
+extract Llavelea Rothari
+Key does not exist!
+insert Dravynea Omalor -181.456
+minimum_key
+Dravynea Omalor
+print
+Dravynea Omalor -> -181.456
+extract Dravynea Omalor
+-181.456
+insert Dondos Athram -982.376
+print
+Dondos Athram -> -982.376
+peek Dondos Athram
+-982.376
+extract Dondos Athram
+-982.376
+size
+0
+extract Fadren Velothren
+Key does not exist!
+insert Galdal Saryon 452.27
+size
+1
+maximum_key
+Galdal Saryon
+extract Galdal Saryon
+452.27
+extract Melur Uvayn
+Key does not exist!
+size
+0
+peek Almsi Ulven
+Key does not exist!
+insert Davas Baren -40.2051
+peek Davas Baren
+-40.2051
+insert Aleri Heleran 560.69
+insert Llandras Andalas 533.815
+empty
+false
+print
+Llandras Andalas -> 533.815
+└R: Davas Baren -> -40.2051
+ └R: Aleri Heleran -> 560.69
+maximum_key
+Aleri Heleran
+size
+3
+extract Lliros Sarathram
+Key does not exist!
+print
+Aleri Heleran -> 560.69
+└L: Davas Baren -> -40.2051
+ └L: Llandras Andalas -> 533.815
+extract Llandras Andalas
+533.815
+peek Davas Baren
+-40.2051
+empty
+false
+insert Delyna Sarethi 639.104
+peek Davas Baren
+-40.2051
+size
+3
+insert Melvure Thirvayn 926.903
+insert Gilyne Serven 280.584
+extract Melvure Thirvayn
+926.903
+extract Delyna Sarethi
+639.104
+insert Danaronea Ravel 33.572
+print
+Danaronea Ravel -> 33.572
+├L: Aleri Heleran -> 560.69
+│└L: Davas Baren -> -40.2051
+└R: Gilyne Serven -> 280.584
+peek Gadayn Marvani
+Key does not exist!
+minimum_key
+Davas Baren
+insert Valveli Garer 718.678
+maximum_key
+Gilyne Serven
+empty
+false
+insert Felara Girendas 809.312
+minimum_key
+Davas Baren
+insert Farena Areth -364.424
+insert Nathala Dalas 658.046
+insert Llaynasa Veloren 488.029
+size
+9
+insert Drandryn Verethi -834.831
+extract Llaynasa Veloren
+488.029
+print
+Drandryn Verethi -> -834.831
+└L: Valveli Garer -> 718.678
+ ├L: Nathala Dalas -> 658.046
+ │└L: Farena Areth -> -364.424
+ │ └R: Davas Baren -> -40.2051
+ └R: Gilyne Serven -> 280.584
+  └L: Felara Girendas -> 809.312
+   └R: Aleri Heleran -> 560.69
+    └R: Danaronea Ravel -> 33.572
+extract Davas Baren
+-40.2051
+minimum_key
+Farena Areth
+print
+Farena Areth -> -364.424
+└R: Nathala Dalas -> 658.046
+ └R: Valveli Garer -> 718.678
+  └R: Drandryn Verethi -> -834.831
+   └L: Gilyne Serven -> 280.584
+    └L: Felara Girendas -> 809.312
+     └R: Aleri Heleran -> 560.69
+      └R: Danaronea Ravel -> 33.572
+extract Drandryn Verethi
+-834.831
+insert Llaros Sarendas 352.036
+extract Gilyne Serven
+280.584
+minimum_key
+Farena Areth
+extract Falura Thilarvel
+Key does not exist!
+extract Felara Girendas
+809.312
+size
+6
+peek Valveli Garer
+718.678
+extract Farena Areth
+-364.424
+insert Thilse Hledri 138.18
+insert Adondasi Belan -55.6403
+insert Boderi Uvulas 885.809
+size
+8
+extract Danaronea Ravel
+33.572
+insert Sendel Davor -176.862
+extract Nathala Dalas
+658.046
+print
+Sendel Davor -> -176.862
+├L: Adondasi Belan -> -55.6403
+└R: Llaros Sarendas -> 352.036
+ ├L: Aleri Heleran -> 560.69
+ │├L: Valveli Garer -> 718.678
+ │└R: Thilse Hledri -> 138.18
+ └R: Boderi Uvulas -> 885.809
+insert Ulenea Nelaram -874.878
+peek Aleri Heleran
+560.69
+empty
+false
+insert Milvela Renim -996.846
+peek Thilse Hledri
+138.18
+maximum_key
+Boderi Uvulas
+extract Sendel Davor
+-176.862
+extract Valveli Garer
+718.678
+size
+7
+print
+Aleri Heleran -> 560.69
+├L: Adondasi Belan -> -55.6403
+└R: Boderi Uvulas -> 885.809
+ └L: Thilse Hledri -> 138.18
+  └R: Llaros Sarendas -> 352.036
+   └L: Milvela Renim -> -996.846
+    └L: Ulenea Nelaram -> -874.878
+quit

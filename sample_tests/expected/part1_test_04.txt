@@ -1,0 +1,79 @@
+size
+0
+insert Braynas Mencele Gals Sarandas
+print
+  0: (0) Braynas Mencele -> Gals Sarandas
+  1: [empty]
+  2: [empty]
+  3: [empty]
+  4: [empty]
+  5: [empty]
+  6: [empty]
+  7: [empty]
+extract Braynas Mencele
+Gals Sarandas
+size
+0
+insert Sovor Drolan Iveri Reloth
+insert Llandris Andas Iner Aralen
+insert Dralosa Andrelo Balen Vedaren
+extract Dralosa Andrelo
+Balen Vedaren
+bucket_count
+8
+size
+2
+peek Sovor Drolan
+Iveri Reloth
+insert Drolora Uvaram Llondryn Deras
+insert Raldenu Verethi Alvur Rothalor
+size
+4
+resize 6
+print
+  0: (0) Drolora Uvaram -> Llondryn Deras
+  1: (1) Llandris Andas -> Iner Aralen
+  2: (0) Raldenu Verethi -> Alvur Rothalor
+  3: (3) Sovor Drolan -> Iveri Reloth
+  4: [empty]
+  5: [empty]
+hash_code Llandris Andas
+1
+peek Drolora Uvaram
+Llondryn Deras
+insert Bralen Alas Bivale Indobar
+empty
+false
+bucket_count
+6
+insert Ethes Romari Aryon Berer
+size
+6
+print
+  0: (0) Drolora Uvaram -> Llondryn Deras
+  1: (1) Llandris Andas -> Iner Aralen
+  2: (0) Raldenu Verethi -> Alvur Rothalor
+  3: (3) Sovor Drolan -> Iveri Reloth
+  4: (0) Ethes Romari -> Aryon Berer
+  5: (5) Bralen Alas -> Bivale Indobar
+hash_code Sovor Drolan
+3
+size
+6
+insert Ganalyn Othril Llarara Vinden
+bucket_count
+12
+print
+  0: (0) Drolora Uvaram -> Llondryn Deras
+  1: (1) Llandris Andas -> Iner Aralen
+  2: (0) Raldenu Verethi -> Alvur Rothalor
+  3: (3) Sovor Drolan -> Iveri Reloth
+  4: (0) Ethes Romari -> Aryon Berer
+  5: (5) Bralen Alas -> Bivale Indobar
+  6: [empty]
+  7: [empty]
+  8: [empty]
+  9: (9) Ganalyn Othril -> Llarara Vinden
+ 10: [empty]
+ 11: [empty]
+quit

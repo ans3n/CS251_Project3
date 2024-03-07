@@ -1,0 +1,143 @@
+name name
+6
+print
+insert Berel Uveleth Vindyne Farethi
+size
+bucket_count
+insert Drelyne Talds Aron Faveran
+size
+insert Nireli Tharys Menus Terilu
+extract Berel Uveleth
+extract Ulms Sadalas
+bucket_count
+extract Nireli Tharys
+resize 1
+insert Golmerea Fadathram Miner Belden
+extract Golmerea Fadathram
+resize 2
+resize 31
+extract Drelyne Talds
+insert Dartis Belvani Temis Andus
+empty
+peek Dartis Belvani
+bucket_count
+print
+extract Dartis Belvani
+extract Llero Ryon
+extract Vonos Fendyn
+insert Berel Redoran Gothren Androthi
+peek Berel Redoran
+extract Berel Redoran
+print
+extract Rirns Llendu
+size
+bucket_count
+extract Llaros Mano
+extract Nileno Radobar
+peek Drendrisa Beren
+insert Irarak Dralayn Feralea Tunel
+resize 3
+insert Midar Alas Bolnor Damori
+size
+empty
+extract Irarak Dralayn
+insert Deldasa Sadri Ruthrisu Androm
+resize 16
+print
+insert Fanasa Sathren Favani Nadram
+bucket_count
+print
+extract Midar Alas
+empty
+print
+extract Deldasa Sadri
+extract Bolnor Sarobar
+resize 31
+insert Telura Nadram Lauravenya Girith
+insert Dedaenc Virith Nalvilie Urvyn
+insert Draron Githendas Tredyn Arval
+insert Bolyn Favani Bedal Savani
+print
+hash_code Draron Githendas
+bucket_count
+extract Fanasa Sathren
+bucket_count
+extract Bolyn Favani
+extract Telura Nadram
+peek Dedaenc Virith
+insert Viras Telvayn Trels Nervion
+extract Dedaenc Virith
+empty
+insert Galdal Relvani Nuleno Farethi
+bucket_count
+insert Vedam Dredayn Dathus Dredayn
+resize 9
+insert Ralam Beran Nina Sarendas
+resize 9
+insert Tremona Damori Nathala Alvor
+resize 16
+extract Viras Telvayn
+bucket_count
+extract Galdal Relvani
+peek Draron Githendas
+peek Draron Githendas
+size
+print
+extract Ralam Beran
+extract Tremona Damori
+extract Vedam Dredayn
+hash_code Draron Githendas
+insert Beldrose Arelas Ralmyn Sarethi
+bucket_count
+extract Draron Githendas
+insert Briras Drath Ethal Gimalvel
+print
+insert Irna Doves Deval Arvel
+extract Briras Drath
+insert Tumsa Fedos Saras Salam
+insert Femer Hlas Dreynis Areloth
+extract Falvel Therayn
+resize 4
+print
+bucket_count
+peek Berela Davus
+extract Beldrose Arelas
+bucket_count
+insert Bervyn Gilvilo Fathusa Sedas
+bucket_count
+print
+extract Bervyn Gilvilo
+insert Tirer Garvon Thurisea Hlando
+size
+resize 6
+insert Tarani Arano Felsa Areloth
+insert Dralsea Veralor Daynali Llaram
+insert Athesie Hlaano Ienas Benelas
+extract Tumsa Fedos
+resize 32
+extract Tirer Garvon
+print
+bucket_count
+print
+resize 5
+peek Dralsea Veralor
+extract Tarani Arano
+peek Femer Hlas
+print
+empty
+peek Adil Selas
+print
+bucket_count
+peek Irna Doves
+insert Tilena Ralaal Tinos Sethri
+insert Alynu Goran Gureryne Serano
+bucket_count
+peek Tilena Ralaal
+resize 8
+empty
+extract Alynu Goran
+extract Irna Doves
+bucket_count
+empty
+extract Athesie Hlaano
+quit
