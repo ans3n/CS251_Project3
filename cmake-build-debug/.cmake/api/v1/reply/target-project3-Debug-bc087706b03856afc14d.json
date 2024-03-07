@@ -71,11 +71,11 @@
 			[
 				{
 					"backtrace" : 3,
-					"path" : "/Users/ansen/Documents/Programming Projects/CS 251/Project 3/cmake-build-debug"
+					"path" : "/Users/ansen/Documents/Programming Projects/CS 251/Project3/cmake-build-debug"
 				},
 				{
 					"backtrace" : 4,
-					"path" : "/Users/ansen/Documents/Programming Projects/CS 251/Project 3/include"
+					"path" : "/Users/ansen/Documents/Programming Projects/CS 251/Project3/include"
 				}
 			],
 			"language" : "CXX",

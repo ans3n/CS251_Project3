@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/ansen/Documents/Programming Projects/CS 251/Project 3/cmake-build-debug"
+			"value" : "/Users/ansen/Documents/Programming Projects/CS 251/Project3/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -479,7 +479,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/ansen/Documents/Programming Projects/CS 251/Project 3/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/Users/ansen/Documents/Programming Projects/CS 251/Project3/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -539,7 +539,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/ansen/Documents/Programming Projects/CS 251/Project 3"
+			"value" : "/Users/ansen/Documents/Programming Projects/CS 251/Project3"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -1171,7 +1171,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/ansen/Documents/Programming Projects/CS 251/Project 3/cmake-build-debug"
+			"value" : "/Users/ansen/Documents/Programming Projects/CS 251/Project3/cmake-build-debug"
 		},
 		{
 			"name" : "CS251Projects_IS_TOP_LEVEL",
@@ -1195,7 +1195,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/ansen/Documents/Programming Projects/CS 251/Project 3"
+			"value" : "/Users/ansen/Documents/Programming Projects/CS 251/Project3"
 		}
 	],
 	"kind" : "cache",
