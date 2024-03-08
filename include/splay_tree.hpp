@@ -125,11 +125,13 @@ void splay_tree<K,V>::zig(std::shared_ptr<splay_tree_node>& current) {
 template <typename K, typename V>
 void splay_tree<K,V>::zigZig(std::shared_ptr<splay_tree_node>& current) {
     std::shared_ptr<splay_tree_node> parent = current->m_parent.lock();
-    if (((parent->m_parent.lock()->m_left == parent) && (parent->m_left == current))) {
-        rightRotation(parent->m_parent.lock());
+    std::shared_ptr<splay_tree_node> grandparent = parent->m_parent.lock();
+
+    if (((grandparent->m_left == parent) && (parent->m_left == current))) {
+        rightRotation(grandparent);
         rightRotation(parent);
     } else {
-        leftRotation(parent->m_parent.lock());
+        leftRotation(grandparent);
         leftRotation(parent);
     }
 }
@@ -137,12 +139,14 @@ void splay_tree<K,V>::zigZig(std::shared_ptr<splay_tree_node>& current) {
 template <typename K, typename V>
 void splay_tree<K,V>::zigZag(std::shared_ptr<splay_tree_node>& current) {
     std::shared_ptr<splay_tree_node> parent = current->m_parent.lock();
-    if (((parent->m_parent.lock()->m_left == parent) && (parent->m_right == current))) {
+    std::shared_ptr<splay_tree_node> grandparent = parent->m_parent.lock();
+
+    if (((grandparent->m_left == parent) && (parent->m_right == current))) {
         leftRotation(parent);
-        rightRotation(parent->m_parent.lock());
+        rightRotation(grandparent);
     } else {
         rightRotation(parent);
-        leftRotation(parent->m_parent.lock());
+        leftRotation(grandparent);
     }
 }
 
@@ -256,10 +260,10 @@ std::unique_ptr<V> splay_tree<K,V>::extract(const K& key) {
         if (current->m_key == key) {
             found = true;
             splay(current);
+            nodeValue = std::move(current->m_value);
             break;
         }
 
-        //loop to find key
         if (key < current->m_key) {
             current = current->m_left;
         } else {
@@ -269,32 +273,35 @@ std::unique_ptr<V> splay_tree<K,V>::extract(const K& key) {
 
     if (found) {
         if (current->m_right != nullptr && current->m_left != nullptr) {
-
-        } else if (current->m_right != nullptr) {
             successor = current->m_right;
             while (successor->m_left != nullptr) {
                 successor = successor->m_left;
             }
 
-            splay(successor);                      //ensure splay takes care of all connections
-
-
-            /*
-            if (current->m_left != nullptr) {                                           //check if these are needed still
-                (current->m_left)->m_parent.lock() = successor;
+            if (successor != current->m_right) {
+                if (successor->m_right != nullptr) {
+                    (successor->m_right)->m_parent.lock() = successor->m_parent.lock();
+                }
+                (successor->m_parent.lock())->m_left = successor->m_right;
+                successor->m_right = current->m_right;
             }
-            //successor is not root's immediate right
-            if ((current->m_right)->m_key != successor->m_key) {                         //check if these are needed still
-                (current->m_right)->m_parent.lock() = successor;
-            }
-             */
 
+            successor->m_left = current->m_left;
+            (current->m_left)->m_parent.lock() = successor;
+            m_root = successor;
+            successor->m_parent = std::weak_ptr<splay_tree_node>();
+            current->m_left = nullptr;
+            current->m_right = nullptr;
 
+        } else if (current->m_right != nullptr) {
+            //if only right child just take immediate right regardless if the right subtree has left children
+            (m_root->m_right)->m_parent = std::weak_ptr<splay_tree_node>();
+            m_root = m_root->m_right;
 
-        } else if (current->m_left != nullptr){          //no need for connection breaking with root as splay auto sets successor's parent to null?
+        } else if (current->m_left != nullptr){
             //no right successor, use left child
-            successor = m_root->m_left;
-            splay(successor);
+            (m_root->m_left)->m_parent = std::weak_ptr<splay_tree_node>();
+            m_root = m_root->m_left;
         } else {
             //no children
             m_root = nullptr;
@@ -318,7 +325,7 @@ K splay_tree<K,V>::minimum_key() {
         current = current->m_left;
     }
 
-    splay(current, current->m_key);
+    splay(current);
     return current->m_key;
 }
 
@@ -333,7 +340,7 @@ K splay_tree<K,V>::maximum_key() {
         current = current->m_right;
     }
 
-    splay(current, current->m_key);
+    splay(current);
     return current->m_key;
 }
 

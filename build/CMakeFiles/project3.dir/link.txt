@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libproject3.a CMakeFiles/project3.dir/src/adaptive_hash_map_app.cpp.o CMakeFiles/project3.dir/src/hash_map_app.cpp.o CMakeFiles/project3.dir/src/splay_tree_app.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libproject3.a
