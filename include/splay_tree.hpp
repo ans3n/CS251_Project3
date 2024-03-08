@@ -80,34 +80,43 @@ std::shared_ptr<typename splay_tree<K,V>::splay_tree_node> splay_tree<K,V>::get_
 template <typename K, typename V>
 void splay_tree<K,V>::rightRotation(std::shared_ptr<splay_tree_node>& nodeY) {
     std::shared_ptr<splay_tree_node> nodeX = nodeY->m_left;
-    std::shared_ptr<splay_tree_node> parentY = nodeY->m_parent.lock();
+    std::shared_ptr<splay_tree_node> parentY;
     nodeY->m_left = nodeX->m_right;
     nodeX->m_right = nodeY;
 
-    if (parentY->m_left == nodeY) {
-        parentY->m_left = nodeX;
-    } else {
-        parentY->m_right = nodeX;
-    }
-    nodeX->m_parent.lock() = parentY;
+    if (nodeY->m_parent.lock() != nullptr) {
+        parentY = nodeY->m_parent.lock();
 
+        if (parentY->m_left == nodeY) {
+            parentY->m_left = nodeX;
+        } else {
+            parentY->m_right = nodeX;
+        }
+
+        nodeX->m_parent.lock() = parentY;
+    } else {
+        nodeX->m_parent.lock() = nullptr;
+    }
     nodeY->m_parent.lock() = nodeX;
 }
 
 template <typename K, typename V>
 void splay_tree<K,V>::leftRotation(std::shared_ptr<splay_tree_node>& nodeX) {
     std::shared_ptr<splay_tree_node> nodeY = nodeX->m_right;
-    std::shared_ptr<splay_tree_node> parentX = nodeX->m_parent.lock();
+    std::shared_ptr<splay_tree_node> parentX;
     nodeX->m_right = nodeY->m_left;
     nodeY->m_left = nodeX;
 
-    if (parentX->m_left == nodeX) {
-        parentX->m_left = nodeY;
+    if (nodeX->m_parent.lock() != nullptr) {
+        if (parentX->m_left == nodeX) {
+            parentX->m_left = nodeY;
+        } else {
+            parentX->m_right = nodeY;
+        }
+        nodeY->m_parent.lock() = parentX;
     } else {
-        parentX->m_right = nodeY;
+        nodeY->m_parent.lock() = nullptr;
     }
-    nodeY->m_parent.lock() = parentX;
-
     nodeX->m_parent.lock() = nodeY;
 }
 
