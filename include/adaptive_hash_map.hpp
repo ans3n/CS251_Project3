@@ -52,15 +52,15 @@ const std::vector<splay_tree<K,V>>& adaptive_hash_map<K,V>::get_data() const {
 template <typename K, typename V>
 adaptive_hash_map<K,V>::adaptive_hash_map() {
     m_data = std::vector<splay_tree<K,V>>(1);
-    size_t m_bucketCount = 1;
-    size_t m_numElements = 0;
+    m_bucketCount = 1;
+    m_numElements = 0;
 }
 
 template <typename K, typename V>
 adaptive_hash_map<K,V>::adaptive_hash_map(const size_t bucketCount) {
     m_data = std::vector<splay_tree<K,V>>(bucketCount);
-    size_t m_bucketCount = bucketCount;
-    size_t m_numElements = 0;
+    m_bucketCount = bucketCount;
+    m_numElements = 0;
 }
 
 template <typename K, typename V>
@@ -69,7 +69,7 @@ size_t adaptive_hash_map<K,V>::hash_code(K key) const {
 }
 
 template <typename K, typename V>void adaptive_hash_map<K,V>::insert(const K& key, std::unique_ptr<V> value) {
-    m_data[hash_code(key)].insert(key, value);
+    m_data[hash_code(key)].insert(key, std::move(value));
     m_numElements++;
 }
 
@@ -80,8 +80,9 @@ const std::unique_ptr<V>& adaptive_hash_map<K,V>::peek(const K& key) {
 
 template <typename K, typename V>
 std::unique_ptr<V> adaptive_hash_map<K,V>::extract(const K& key) {
+    auto value = m_data[hash_code(key)].extract(key);
     m_numElements--;
-    return m_data[hash_code(key)].extract(key);
+    return value;
 }
 
 template <typename K, typename V>
