@@ -83,11 +83,13 @@ void splay_tree<K,V>::rightRotation(std::shared_ptr<splay_tree_node>& nodeY) {
     if (nodeX == nullptr) {
         return;
     }
-
-    std::shared_ptr<splay_tree_node> parentY;
     nodeY->m_left = nodeX->m_right;
+    if (nodeX->m_right != nullptr) {
+        (nodeX->m_right)->m_parent = nodeY;
+    }
     nodeX->m_right = nodeY;
 
+    std::shared_ptr<splay_tree_node> parentY;
     if (nodeY->m_parent.lock() != nullptr) {
         parentY = nodeY->m_parent.lock();
 
@@ -102,15 +104,23 @@ void splay_tree<K,V>::rightRotation(std::shared_ptr<splay_tree_node>& nodeY) {
         nodeX->m_parent.lock() = nullptr;
     }
     nodeY->m_parent.lock() = nodeX;
+
 }
 
 template <typename K, typename V>
 void splay_tree<K,V>::leftRotation(std::shared_ptr<splay_tree_node>& nodeX) {
     std::shared_ptr<splay_tree_node> nodeY = nodeX->m_right;
-    std::shared_ptr<splay_tree_node> parentX;
+    if (nodeY == nullptr) {
+        return;
+    }
     nodeX->m_right = nodeY->m_left;
+
+    if (nodeY->m_left != nullptr) {
+        (nodeY->m_left)->m_parent = nodeX;
+    }
     nodeY->m_left = nodeX;
 
+    std::shared_ptr<splay_tree_node> parentX;
     if (nodeX->m_parent.lock() != nullptr) {
         if (parentX->m_left == nodeX) {
             parentX->m_left = nodeY;
@@ -198,7 +208,7 @@ void splay_tree<K,V>::insert(const K& key, std::unique_ptr<V> value) {
     if (empty()) {
         m_root = std::make_shared<splay_tree_node>();                                                       //check if needed
         m_root->m_value = std::move(value);
-        m_root->m_key = std::move(key);
+        m_root->m_key = key;
         m_root->m_parent = std::weak_ptr<splay_tree_node>();
         m_root->m_left = nullptr;
         m_root->m_right = nullptr;
@@ -269,6 +279,7 @@ const std::unique_ptr<V>& splay_tree<K,V>::peek(const K& key) {
     if (!found) {
         throw nonexistent_key();
     }
+    splay(current);
     return current->m_value;
 }
 
@@ -370,7 +381,7 @@ K splay_tree<K,V>::maximum_key() {
 
 template <typename K, typename V>
 bool splay_tree<K,V>::empty() const {
-	return m_numElements == 0;
+	return !m_root;
 }
 
 template <typename K, typename V>
