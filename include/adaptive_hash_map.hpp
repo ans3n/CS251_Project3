@@ -70,16 +70,18 @@ size_t adaptive_hash_map<K,V>::hash_code(K key) const {
 
 template <typename K, typename V>void adaptive_hash_map<K,V>::insert(const K& key, std::unique_ptr<V> value) {
     m_data[hash_code(key)].insert(key, value);
+    m_numElements++;
 }
 
 template <typename K, typename V>
 const std::unique_ptr<V>& adaptive_hash_map<K,V>::peek(const K& key) {
-	m_data[hash_code(key)].peek(key);
+	return m_data[hash_code(key)].peek(key);
 }
 
 template <typename K, typename V>
 std::unique_ptr<V> adaptive_hash_map<K,V>::extract(const K& key) {
-	m_data[hash_code(key)].extract(key);
+    m_numElements--;
+    return m_data[hash_code(key)].extract(key);
 }
 
 template <typename K, typename V>
