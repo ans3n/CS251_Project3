@@ -89,22 +89,16 @@ void splay_tree<K,V>::rightRotation(std::shared_ptr<splay_tree_node>& nodeY) {
     }
     nodeX->m_right = nodeY;
 
-    std::shared_ptr<splay_tree_node> parentY;
-    if (nodeY->m_parent.lock() != nullptr) {
-        parentY = nodeY->m_parent.lock();
-
+    std::shared_ptr<splay_tree_node> parentY = nodeY->m_parent.lock();
+    if (parentY != nullptr) {
         if (parentY->m_left == nodeY) {
             parentY->m_left = nodeX;
         } else {
             parentY->m_right = nodeX;
         }
-
-        nodeX->m_parent.lock() = parentY;
-    } else {
-        nodeX->m_parent.lock() = nullptr;
     }
-    nodeY->m_parent.lock() = nodeX;
-
+    nodeX->m_parent = parentY;
+    nodeY->m_parent = nodeX;
 }
 
 template <typename K, typename V>
@@ -120,24 +114,22 @@ void splay_tree<K,V>::leftRotation(std::shared_ptr<splay_tree_node>& nodeX) {
     }
     nodeY->m_left = nodeX;
 
-    std::shared_ptr<splay_tree_node> parentX;
-    if (nodeX->m_parent.lock() != nullptr) {
+    std::shared_ptr<splay_tree_node> parentX = nodeX->m_parent.lock();
+    if (parentX != nullptr) {
         if (parentX->m_left == nodeX) {
             parentX->m_left = nodeY;
         } else {
             parentX->m_right = nodeY;
         }
-        nodeY->m_parent.lock() = parentX;
-    } else {
-        nodeY->m_parent.lock() = nullptr;
     }
-    nodeX->m_parent.lock() = nodeY;
+    nodeY->m_parent = parentX;
+    nodeX->m_parent = nodeY;
 }
 
 template <typename K, typename V>
 void splay_tree<K,V>::zig(std::shared_ptr<splay_tree_node>& current) {
     if (m_root != nullptr) {
-        if (current->m_parent.lock() == m_root) {
+        if ((current->m_parent).lock() == m_root) {
             if (m_root->m_left == current) {
                 rightRotation(m_root);
             } else {
@@ -186,10 +178,10 @@ void splay_tree<K,V>::splay(std::shared_ptr<splay_tree_node>& current) {
         std::shared_ptr<splay_tree_node> parent = current->m_parent.lock();
 
         if (parent != nullptr) {
-            if (parent->m_parent.lock() == nullptr) {
+            if ((parent->m_parent).lock() == nullptr) {
                 zig(current);
-            } else if (((parent->m_parent.lock()->m_left == parent) && (parent->m_left == current)) ||
-                       ((parent->m_parent.lock()->m_right == parent) && (parent->m_right == current))) {
+            } else if ((((parent->m_parent).lock()->m_left == parent) && (parent->m_left == current)) ||
+                       (((parent->m_parent).lock()->m_right == parent) && (parent->m_right == current))) {
                 zigZig(current);
             } else {
                 zigZag(current);
@@ -235,7 +227,7 @@ void splay_tree<K,V>::insert(const K& key, std::unique_ptr<V> value) {
         current->m_key = std::move(key);
         current->m_value = std::move(value);
 
-        current->m_parent.lock() = parent;
+        (current->m_parent).lock() = parent;
         current->m_right = nullptr;
         current->m_left = nullptr;
 
@@ -314,14 +306,14 @@ std::unique_ptr<V> splay_tree<K,V>::extract(const K& key) {
 
             if (successor != current->m_right) {
                 if (successor->m_right != nullptr) {
-                    (successor->m_right)->m_parent.lock() = successor->m_parent.lock();
+                    (successor->m_right)->m_parent = successor->m_parent;
                 }
-                (successor->m_parent.lock())->m_left = successor->m_right;
+                ((successor->m_parent).lock())->m_left = successor->m_right;
                 successor->m_right = current->m_right;
             }
 
             successor->m_left = current->m_left;
-            (current->m_left)->m_parent.lock() = successor;
+            (current->m_left)->m_parent = successor;
             m_root = successor;
             successor->m_parent = std::weak_ptr<splay_tree_node>();
             current->m_left = nullptr;
