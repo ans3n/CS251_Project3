@@ -233,21 +233,23 @@ const std::unique_ptr<V>& splay_tree<K,V>::peek(const K& key) {
     bool found = false;
     std::shared_ptr<splay_tree_node> current = m_root;
 
-	if (m_numElements == 1 && current->m_key == key) {
-        found = true;
-    } else {
-        //traverse through tree
-        while (current != nullptr) {
-            if (current->m_key == key) {
-                found = true;
-                splay(current);
-                break;
-            }
+    if (current != nullptr) {
+        if (m_numElements == 1 && current->m_key == key) {
+            found = true;
+        } else {
+            //traverse through tree
+            while (current != nullptr) {
+                if (current->m_key == key) {
+                    found = true;
+                    splay(current);
+                    break;
+                }
 
-            if (key < current->m_key) {
-                current = current->m_left;
-            } else {
-                current = current->m_right;
+                if (key < current->m_key) {
+                    current = current->m_left;
+                } else {
+                    current = current->m_right;
+                }
             }
         }
     }
@@ -316,6 +318,7 @@ std::unique_ptr<V> splay_tree<K,V>::extract(const K& key) {
             m_root = nullptr;
         }
     } else {
+        //not found
         throw nonexistent_key();
     }
 
