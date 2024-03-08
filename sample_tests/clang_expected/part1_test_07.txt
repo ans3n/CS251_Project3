@@ -1,0 +1,501 @@
+bucket_count
+3
+insert 736 Miner Teri
+print
+  0: [empty]
+  1: (1) 736 -> Miner Teri
+  2: [empty]
+extract 736
+Miner Teri
+extract 511
+Key does not exist!
+peek 4
+Key does not exist!
+bucket_count
+3
+insert -482 Meder Alvor
+size
+1
+insert -105 Feruren Othralen
+insert 728 Norus Apo
+insert -733 Folyni Barelo
+empty
+false
+size
+4
+extract -482
+Meder Alvor
+print
+  0: [empty]
+  1: (1) -105 -> Feruren Othralen
+  2: (2) 728 -> Norus Apo
+  3: [empty]
+  4: (3) -733 -> Folyni Barelo
+  5: [empty]
+bucket_count
+6
+hash_code 728
+2
+extract -105
+Feruren Othralen
+empty
+false
+insert 940 Ulvil Othralen
+print
+  0: [empty]
+  1: [empty]
+  2: (2) 728 -> Norus Apo
+  3: [empty]
+  4: (3) -733 -> Folyni Barelo
+  5: (4) 940 -> Ulvil Othralen
+insert 160 Tavilu Salandas
+peek 940
+Ulvil Othralen
+insert 160 Hleras Releth
+Duplicate key!
+print
+  0: (4) 160 -> Tavilu Salandas
+  1: [empty]
+  2: (2) 728 -> Norus Apo
+  3: [empty]
+  4: (3) -733 -> Folyni Barelo
+  5: (4) 940 -> Ulvil Othralen
+insert 728 Drarayne Baren
+Duplicate key!
+insert -232 Idronea Ramarys
+extract 160
+Tavilu Salandas
+insert -396 Talis Marys
+print
+  0: (4) -396 -> Talis Marys
+  1: (0) -232 -> Idronea Ramarys
+  2: (2) 728 -> Norus Apo
+  3: [empty]
+  4: (3) -733 -> Folyni Barelo
+  5: (4) 940 -> Ulvil Othralen
+insert 601 Tredyn Brenur
+insert 906 Daynas Herendas
+resize 12
+extract 237
+Key does not exist!
+extract -226
+Key does not exist!
+empty
+false
+hash_code -232
+0
+peek 728
+Norus Apo
+print
+  0: (0) -232 -> Idronea Ramarys
+  1: (1) 601 -> Tredyn Brenur
+  2: [empty]
+  3: (3) -733 -> Folyni Barelo
+  4: (4) -396 -> Talis Marys
+  5: (4) 940 -> Ulvil Othralen
+  6: (6) 906 -> Daynas Herendas
+  7: [empty]
+  8: (8) 728 -> Norus Apo
+  9: [empty]
+ 10: [empty]
+ 11: [empty]
+size
+7
+insert 77 Drathas Teran
+insert 962 Evesa Giral
+extract 962
+Evesa Giral
+size
+8
+insert 487 Ulms Dareleth
+peek -232
+Idronea Ramarys
+insert 741 Sevame Andaren
+extract 236
+Key does not exist!
+insert -685 Gilmyn Favani
+bucket_count
+12
+hash_code -733
+3
+hash_code 741
+9
+bucket_count
+12
+size
+11
+insert -887 Nalami Davor
+extract 940
+Ulvil Othralen
+extract 77
+Drathas Teran
+insert 446 Boderi Athram
+print
+  0: (0) -232 -> Idronea Ramarys
+  1: (1) 601 -> Tredyn Brenur
+  2: (5) -887 -> Nalami Davor
+  3: (3) -733 -> Folyni Barelo
+  4: (4) -396 -> Talis Marys
+  5: (2) 446 -> Boderi Athram
+  6: (6) 906 -> Daynas Herendas
+  7: [empty]
+  8: (8) 728 -> Norus Apo
+  9: (7) 487 -> Ulms Dareleth
+ 10: (9) 741 -> Sevame Andaren
+ 11: (3) -685 -> Gilmyn Favani
+insert 659 Trerayna Relenim
+extract -685
+Gilmyn Favani
+resize 47
+size
+11
+extract -232
+Idronea Ramarys
+resize 30
+insert -39 Bodsa Sarathram
+print
+  0: (29) -887 -> Nalami Davor
+  1: (1) 601 -> Tredyn Brenur
+  2: [empty]
+  3: (3) -733 -> Folyni Barelo
+  4: [empty]
+  5: [empty]
+  6: (6) 906 -> Daynas Herendas
+  7: (7) 487 -> Ulms Dareleth
+  8: (8) 728 -> Norus Apo
+  9: (7) -39 -> Bodsa Sarathram
+ 10: (10) -396 -> Talis Marys
+ 11: [empty]
+ 12: [empty]
+ 13: [empty]
+ 14: [empty]
+ 15: [empty]
+ 16: [empty]
+ 17: [empty]
+ 18: [empty]
+ 19: [empty]
+ 20: [empty]
+ 21: (21) 741 -> Sevame Andaren
+ 22: [empty]
+ 23: [empty]
+ 24: [empty]
+ 25: [empty]
+ 26: (26) 446 -> Boderi Athram
+ 27: [empty]
+ 28: [empty]
+ 29: (29) 659 -> Trerayna Relenim
+insert 421 Milara Drothan
+size
+12
+empty
+false
+bucket_count
+30
+extract 487
+Ulms Dareleth
+extract 741
+Sevame Andaren
+extract -423
+Key does not exist!
+print
+  0: (29) -887 -> Nalami Davor
+  1: (1) 601 -> Tredyn Brenur
+  2: (1) 421 -> Milara Drothan
+  3: (3) -733 -> Folyni Barelo
+  4: [empty]
+  5: [empty]
+  6: (6) 906 -> Daynas Herendas
+  7: [empty]
+  8: (8) 728 -> Norus Apo
+  9: (7) -39 -> Bodsa Sarathram
+ 10: (10) -396 -> Talis Marys
+ 11: [empty]
+ 12: [empty]
+ 13: [empty]
+ 14: [empty]
+ 15: [empty]
+ 16: [empty]
+ 17: [empty]
+ 18: [empty]
+ 19: [empty]
+ 20: [empty]
+ 21: [empty]
+ 22: [empty]
+ 23: [empty]
+ 24: [empty]
+ 25: [empty]
+ 26: (26) 446 -> Boderi Athram
+ 27: [empty]
+ 28: [empty]
+ 29: (29) 659 -> Trerayna Relenim
+insert -325 Nalmen Saryon
+peek -733
+Folyni Barelo
+resize 14
+print
+  0: (0) 728 -> Norus Apo
+  1: (1) 421 -> Milara Drothan
+  2: (12) -396 -> Talis Marys
+  3: (13) -325 -> Nalmen Saryon
+  4: (12) 446 -> Boderi Athram
+  5: (5) -39 -> Bodsa Sarathram
+  6: (1) 659 -> Trerayna Relenim
+  7: [empty]
+  8: [empty]
+  9: [empty]
+ 10: (10) 906 -> Daynas Herendas
+ 11: (11) -887 -> Nalami Davor
+ 12: (11) -733 -> Folyni Barelo
+ 13: (13) 601 -> Tredyn Brenur
+insert -522 Divayth Sadri
+peek 659
+Trerayna Relenim
+peek 906
+Daynas Herendas
+empty
+false
+extract 421
+Milara Drothan
+bucket_count
+14
+peek -396
+Talis Marys
+extract 728
+Norus Apo
+peek -733
+Folyni Barelo
+peek -887
+Nalami Davor
+hash_code -522
+12
+peek -325
+Nalmen Saryon
+insert 446 Tonas Rinith
+Duplicate key!
+insert -561 Golar Omaren
+extract -522
+Divayth Sadri
+peek -325
+Nalmen Saryon
+extract 789
+Key does not exist!
+empty
+false
+insert -989 Gilyn Nethan
+insert -765 Thurisea Andrano
+size
+12
+insert -528 Galyn Gidran
+extract 446
+Boderi Athram
+extract -396
+Talis Marys
+extract 906
+Daynas Herendas
+print
+  0: [empty]
+  1: (1) -561 -> Golar Omaren
+  2: [empty]
+  3: (13) -325 -> Nalmen Saryon
+  4: [empty]
+  5: (5) -39 -> Bodsa Sarathram
+  6: (1) 659 -> Trerayna Relenim
+  7: (7) -989 -> Gilyn Nethan
+  8: (7) -765 -> Thurisea Andrano
+  9: (6) -528 -> Galyn Gidran
+ 10: [empty]
+ 11: (11) -887 -> Nalami Davor
+ 12: (11) -733 -> Folyni Barelo
+ 13: (13) 601 -> Tredyn Brenur
+hash_code 659
+1
+print
+  0: [empty]
+  1: (1) -561 -> Golar Omaren
+  2: [empty]
+  3: (13) -325 -> Nalmen Saryon
+  4: [empty]
+  5: (5) -39 -> Bodsa Sarathram
+  6: (1) 659 -> Trerayna Relenim
+  7: (7) -989 -> Gilyn Nethan
+  8: (7) -765 -> Thurisea Andrano
+  9: (6) -528 -> Galyn Gidran
+ 10: [empty]
+ 11: (11) -887 -> Nalami Davor
+ 12: (11) -733 -> Folyni Barelo
+ 13: (13) 601 -> Tredyn Brenur
+peek -325
+Nalmen Saryon
+peek -39
+Bodsa Sarathram
+print
+  0: [empty]
+  1: (1) -561 -> Golar Omaren
+  2: [empty]
+  3: (13) -325 -> Nalmen Saryon
+  4: [empty]
+  5: (5) -39 -> Bodsa Sarathram
+  6: (1) 659 -> Trerayna Relenim
+  7: (7) -989 -> Gilyn Nethan
+  8: (7) -765 -> Thurisea Andrano
+  9: (6) -528 -> Galyn Gidran
+ 10: [empty]
+ 11: (11) -887 -> Nalami Davor
+ 12: (11) -733 -> Folyni Barelo
+ 13: (13) 601 -> Tredyn Brenur
+hash_code -39
+5
+extract -39
+Bodsa Sarathram
+peek 601
+Tredyn Brenur
+extract -528
+Galyn Gidran
+extract -989
+Gilyn Nethan
+hash_code -887
+11
+extract -400
+Key does not exist!
+peek 659
+Trerayna Relenim
+peek -325
+Nalmen Saryon
+extract -733
+Folyni Barelo
+extract 659
+Trerayna Relenim
+empty
+false
+insert -307 Danel Farandas
+insert -561 Anas Indobar
+Duplicate key!
+resize 14
+size
+6
+insert -105 Irver Beloren
+extract -105
+Irver Beloren
+peek -887
+Nalami Davor
+insert 562 Beyte Sarinith
+bucket_count
+14
+insert 784 Rindral Uvaren
+size
+8
+insert -856 Eldil Hloran
+print
+  0: (13) 601 -> Tredyn Brenur
+  1: (1) -561 -> Golar Omaren
+  2: (2) 562 -> Beyte Sarinith
+  3: (3) -307 -> Danel Farandas
+  4: (0) 784 -> Rindral Uvaren
+  5: (0) -856 -> Eldil Hloran
+  6: [empty]
+  7: (7) -765 -> Thurisea Andrano
+  8: [empty]
+  9: [empty]
+ 10: [empty]
+ 11: (11) -887 -> Nalami Davor
+ 12: [empty]
+ 13: (13) -325 -> Nalmen Saryon
+bucket_count
+14
+extract 22
+Key does not exist!
+extract -561
+Golar Omaren
+size
+8
+bucket_count
+14
+insert -875 Galen Ilnith
+size
+9
+extract -765
+Thurisea Andrano
+print
+  0: (13) 601 -> Tredyn Brenur
+  1: [empty]
+  2: (2) 562 -> Beyte Sarinith
+  3: (3) -307 -> Danel Farandas
+  4: (0) 784 -> Rindral Uvaren
+  5: (0) -856 -> Eldil Hloran
+  6: [empty]
+  7: [empty]
+  8: [empty]
+  9: (9) -875 -> Galen Ilnith
+ 10: [empty]
+ 11: (11) -887 -> Nalami Davor
+ 12: [empty]
+ 13: (13) -325 -> Nalmen Saryon
+peek 898
+Key does not exist!
+peek -875
+Galen Ilnith
+peek 562
+Beyte Sarinith
+peek 784
+Rindral Uvaren
+extract -875
+Galen Ilnith
+extract -307
+Danel Farandas
+insert 938 Beraren Sathryon
+resize 42
+extract -887
+Nalami Davor
+insert 562 Dravil Delvi
+Duplicate key!
+resize 10
+print
+  0: (0) -856 -> Eldil Hloran
+  1: (1) 601 -> Tredyn Brenur
+  2: (2) 562 -> Beyte Sarinith
+  3: (1) -325 -> Nalmen Saryon
+  4: (4) 784 -> Rindral Uvaren
+  5: [empty]
+  6: [empty]
+  7: [empty]
+  8: (8) 938 -> Beraren Sathryon
+  9: [empty]
+insert -264 Edd Salandas
+peek -325
+Nalmen Saryon
+empty
+false
+size
+7
+peek 601
+Tredyn Brenur
+extract 562
+Beyte Sarinith
+peek -639
+Key does not exist!
+resize 11
+extract 601
+Tredyn Brenur
+insert -392 Thauraver Menas
+insert 960 Miara Nilem
+print
+  0: [empty]
+  1: [empty]
+  2: [empty]
+  3: (3) 784 -> Rindral Uvaren
+  4: (3) 938 -> Beraren Sathryon
+  5: (5) -264 -> Edd Salandas
+  6: (3) 960 -> Miara Nilem
+  7: (7) -856 -> Eldil Hloran
+  8: [empty]
+  9: (9) -392 -> Thauraver Menas
+ 10: (10) -325 -> Nalmen Saryon
+extract 960
+Miara Nilem
+resize 33
+peek -392
+Thauraver Menas
+size
+6
+resize 7
+quit

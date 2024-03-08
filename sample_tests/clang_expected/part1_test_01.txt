@@ -1,0 +1,69 @@
+bucket_count
+7
+empty
+true
+insert 236 Guril Othreloth
+print
+  0: [empty]
+  1: [empty]
+  2: [empty]
+  3: [empty]
+  4: [empty]
+  5: (5) 236 -> Guril Othreloth
+  6: [empty]
+size
+1
+bucket_count
+7
+empty
+false
+insert 680 Adren Marvani
+peek 680
+Adren Marvani
+insert -464 Llathyno Davus
+insert -890 Arvamea Carvaren
+peek -464
+Llathyno Davus
+insert 188 Bronosa Dralor
+peek 680
+Adren Marvani
+empty
+false
+insert -502 Llandris Reloro
+size
+6
+insert 171 Gilvas Thando
+size
+7
+empty
+false
+hash_code 680
+1
+peek -502
+Llandris Reloro
+peek 680
+Adren Marvani
+insert -633 Oisig Daynes
+print
+  0: (0) -464 -> Llathyno Davus
+  1: [empty]
+  2: [empty]
+  3: (3) 171 -> Gilvas Thando
+  4: (4) -502 -> Llandris Reloro
+  5: [empty]
+  6: (6) 188 -> Bronosa Dralor
+  7: [empty]
+  8: (8) 680 -> Adren Marvani
+  9: (8) -890 -> Arvamea Carvaren
+ 10: [empty]
+ 11: [empty]
+ 12: (12) 236 -> Guril Othreloth
+ 13: (13) -633 -> Oisig Daynes
+peek 236
+Guril Othreloth
+bucket_count
+14
+size
+8
+insert 612 Relam Llendo
+quit

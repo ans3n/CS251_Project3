@@ -1,0 +1,1661 @@
+insert Idros Arothan -358.698
+peek Idros Arothan
+-358.698
+insert Tiras Seloth -179.367
+bucket_count
+8
+print
+  0: [empty]
+  1: [empty]
+  2: Idros Arothan -> -358.698
+  3: Tiras Seloth -> -179.367
+  4: [empty]
+  5: [empty]
+  6: [empty]
+  7: [empty]
+insert Sondryn Famori -396.255
+insert Marena Salas 326.175
+insert Brelar Beneran -440.737
+print
+  0: [empty]
+  1: [empty]
+  2: Marena Salas -> 326.175
+     └L: Idros Arothan -> -358.698
+  3: Tiras Seloth -> -179.367
+  4: Sondryn Famori -> -396.255
+  5: [empty]
+  6: Brelar Beneran -> -440.737
+  7: [empty]
+insert Vonos Braven -714.033
+print
+  0: [empty]
+  1: [empty]
+  2: Marena Salas -> 326.175
+     └L: Idros Arothan -> -358.698
+  3: Tiras Seloth -> -179.367
+  4: Vonos Braven -> -714.033
+     └R: Sondryn Famori -> -396.255
+  5: [empty]
+  6: Brelar Beneran -> -440.737
+  7: [empty]
+insert Arvs Arns 520.243
+print
+  0: [empty]
+  1: Arvs Arns -> 520.243
+  2: Marena Salas -> 326.175
+     └L: Idros Arothan -> -358.698
+  3: Tiras Seloth -> -179.367
+  4: Vonos Braven -> -714.033
+     └R: Sondryn Famori -> -396.255
+  5: [empty]
+  6: Brelar Beneran -> -440.737
+  7: [empty]
+bucket_count
+8
+size
+7
+insert Rindral Gavos -143.528
+peek Sondryn Famori
+-396.255
+hash_code Tiras Seloth
+3
+size
+8
+hash_code Idros Arothan
+2
+insert Serila Reladren 220.685
+peek Vonos Braven
+-714.033
+insert Giren Llandu -435.85
+insert Tarvus Mavandes -812.117
+insert Bralsea Marys 562.445
+insert Deldasa Davus 88.2185
+insert Gilur Serethi -409.482
+peek Brelar Beneran
+-440.737
+print
+  0: Serila Reladren -> 220.685
+  1: Arvs Arns -> 520.243
+  2: Bralsea Marys -> 562.445
+     ├L: Idros Arothan -> -358.698
+     └R: Marena Salas -> 326.175
+  3: Giren Llandu -> -435.85
+     └R: Tiras Seloth -> -179.367
+  4: Gilur Serethi -> -409.482
+     └L: Sondryn Famori -> -396.255
+      └L: Vonos Braven -> -714.033
+  5: Deldasa Davus -> 88.2185
+  6: Brelar Beneran -> -440.737
+     └R: Tarvus Mavandes -> -812.117
+  7: Rindral Gavos -> -143.528
+insert Angahran Vedralu -316.873
+empty
+false
+insert Bivale Valen -528.688
+size
+16
+insert Llovyn Selaren -591.848
+insert Folvys Balvel -301.164
+insert Brerama Herandus -941.526
+insert Drurile Adram -910.267
+bucket_count
+8
+insert Guril Sadralo 295.224
+bucket_count
+8
+size
+21
+hash_code Bralsea Marys
+2
+bucket_count
+8
+print
+  0: Guril Sadralo -> 295.224
+     └L: Serila Reladren -> 220.685
+  1: Drurile Adram -> -910.267
+     └R: Arvs Arns -> 520.243
+      └R: Angahran Vedralu -> -316.873
+  2: Bralsea Marys -> 562.445
+     ├L: Idros Arothan -> -358.698
+     └R: Marena Salas -> 326.175
+  3: Giren Llandu -> -435.85
+     └R: Tiras Seloth -> -179.367
+  4: Gilur Serethi -> -409.482
+     └L: Sondryn Famori -> -396.255
+      └L: Vonos Braven -> -714.033
+  5: Folvys Balvel -> -301.164
+     └R: Deldasa Davus -> 88.2185
+      └R: Llovyn Selaren -> -591.848
+  6: Brerama Herandus -> -941.526
+     ├L: Brelar Beneran -> -440.737
+     └R: Bivale Valen -> -528.688
+      └L: Tarvus Mavandes -> -812.117
+  7: Rindral Gavos -> -143.528
+insert Ienase Llervu 569.795
+insert Tunila Benelas 712.963
+bucket_count
+8
+insert Llondryn Salavel 877.747
+hash_code Llondryn Salavel
+0
+peek Llondryn Salavel
+877.747
+print
+  0: Llondryn Salavel -> 877.747
+     └L: Ienase Llervu -> 569.795
+      └R: Guril Sadralo -> 295.224
+       └L: Serila Reladren -> 220.685
+  1: Tunila Benelas -> 712.963
+     ├L: Drurile Adram -> -910.267
+     │└R: Arvs Arns -> 520.243
+     └R: Angahran Vedralu -> -316.873
+  2: Bralsea Marys -> 562.445
+     ├L: Idros Arothan -> -358.698
+     └R: Marena Salas -> 326.175
+  3: Giren Llandu -> -435.85
+     └R: Tiras Seloth -> -179.367
+  4: Gilur Serethi -> -409.482
+     └L: Sondryn Famori -> -396.255
+      └L: Vonos Braven -> -714.033
+  5: Folvys Balvel -> -301.164
+     └R: Deldasa Davus -> 88.2185
+      └R: Llovyn Selaren -> -591.848
+  6: Brerama Herandus -> -941.526
+     ├L: Brelar Beneran -> -440.737
+     └R: Bivale Valen -> -528.688
+      └L: Tarvus Mavandes -> -812.117
+  7: Rindral Gavos -> -143.528
+bucket_count
+8
+insert Fendel Gilvayn -303.229
+insert Marayn Dredayn -230.595
+print
+  0: Llondryn Salavel -> 877.747
+     └L: Ienase Llervu -> 569.795
+      └R: Guril Sadralo -> 295.224
+       └L: Serila Reladren -> 220.685
+  1: Tunila Benelas -> 712.963
+     ├L: Drurile Adram -> -910.267
+     │└R: Arvs Arns -> 520.243
+     └R: Angahran Vedralu -> -316.873
+  2: Bralsea Marys -> 562.445
+     ├L: Idros Arothan -> -358.698
+     └R: Marena Salas -> 326.175
+  3: Fendel Gilvayn -> -303.229
+     └R: Giren Llandu -> -435.85
+      └R: Tiras Seloth -> -179.367
+  4: Gilur Serethi -> -409.482
+     └L: Sondryn Famori -> -396.255
+      └L: Vonos Braven -> -714.033
+  5: Folvys Balvel -> -301.164
+     └R: Deldasa Davus -> 88.2185
+      └R: Llovyn Selaren -> -591.848
+  6: Brerama Herandus -> -941.526
+     ├L: Brelar Beneran -> -440.737
+     └R: Bivale Valen -> -528.688
+      └L: Tarvus Mavandes -> -812.117
+  7: Marayn Dredayn -> -230.595
+     └R: Rindral Gavos -> -143.528
+hash_code Drurile Adram
+1
+empty
+false
+peek Deldasa Davus
+88.2185
+insert Tralayn Helothren 834.861
+peek Tralayn Helothren
+834.861
+hash_code Sondryn Famori
+4
+empty
+false
+peek Vonos Braven
+-714.033
+bucket_count
+8
+size
+27
+print
+  0: Llondryn Salavel -> 877.747
+     └L: Ienase Llervu -> 569.795
+      └R: Guril Sadralo -> 295.224
+       └L: Serila Reladren -> 220.685
+  1: Tunila Benelas -> 712.963
+     ├L: Drurile Adram -> -910.267
+     │└R: Arvs Arns -> 520.243
+     └R: Angahran Vedralu -> -316.873
+  2: Bralsea Marys -> 562.445
+     ├L: Idros Arothan -> -358.698
+     └R: Marena Salas -> 326.175
+  3: Fendel Gilvayn -> -303.229
+     └R: Giren Llandu -> -435.85
+      └R: Tiras Seloth -> -179.367
+  4: Vonos Braven -> -714.033
+     └R: Sondryn Famori -> -396.255
+      └R: Gilur Serethi -> -409.482
+  5: Deldasa Davus -> 88.2185
+     ├L: Folvys Balvel -> -301.164
+     └R: Llovyn Selaren -> -591.848
+  6: Tralayn Helothren -> 834.861
+     ├L: Brelar Beneran -> -440.737
+     └R: Brerama Herandus -> -941.526
+      └R: Bivale Valen -> -528.688
+       └L: Tarvus Mavandes -> -812.117
+  7: Marayn Dredayn -> -230.595
+     └R: Rindral Gavos -> -143.528
+insert Meril Veran -253.805
+empty
+false
+insert Gomeso Surishpi 987.173
+insert Daynas Raram 732.705
+bucket_count
+8
+peek Marayn Dredayn
+-230.595
+empty
+false
+bucket_count
+8
+empty
+false
+insert Ralyn Rothrano 507.032
+peek Brerama Herandus
+-941.526
+print
+  0: Meril Veran -> -253.805
+     └L: Llondryn Salavel -> 877.747
+      └L: Ienase Llervu -> 569.795
+       └R: Guril Sadralo -> 295.224
+        └L: Serila Reladren -> 220.685
+  1: Daynas Raram -> 732.705
+     ├L: Tunila Benelas -> 712.963
+     │└L: Drurile Adram -> -910.267
+     │ └R: Arvs Arns -> 520.243
+     └R: Angahran Vedralu -> -316.873
+  2: Bralsea Marys -> 562.445
+     ├L: Idros Arothan -> -358.698
+     └R: Marena Salas -> 326.175
+  3: Ralyn Rothrano -> 507.032
+     ├L: Fendel Gilvayn -> -303.229
+     │└R: Giren Llandu -> -435.85
+     └R: Tiras Seloth -> -179.367
+  4: Vonos Braven -> -714.033
+     └R: Sondryn Famori -> -396.255
+      └R: Gilur Serethi -> -409.482
+  5: Gomeso Surishpi -> 987.173
+     └L: Llovyn Selaren -> -591.848
+      └L: Deldasa Davus -> 88.2185
+       └L: Folvys Balvel -> -301.164
+  6: Brerama Herandus -> -941.526
+     ├L: Tralayn Helothren -> 834.861
+     │└L: Brelar Beneran -> -440.737
+     └R: Bivale Valen -> -528.688
+      └L: Tarvus Mavandes -> -812.117
+  7: Marayn Dredayn -> -230.595
+     └R: Rindral Gavos -> -143.528
+insert Seryn Uvelas 156.776
+insert Ilet Rivul -659.317
+size
+33
+peek Llondryn Salavel
+877.747
+hash_code Gilur Serethi
+4
+bucket_count
+8
+size
+33
+peek Guril Sadralo
+295.224
+bucket_count
+8
+insert Fadren Sarothren -318.158
+hash_code Arvs Arns
+1
+peek Giren Llandu
+-435.85
+empty
+false
+print
+  0: Guril Sadralo -> 295.224
+     ├L: Ienase Llervu -> 569.795
+     │└R: Serila Reladren -> 220.685
+     └R: Llondryn Salavel -> 877.747
+      └R: Meril Veran -> -253.805
+  1: Daynas Raram -> 732.705
+     ├L: Tunila Benelas -> 712.963
+     │└L: Drurile Adram -> -910.267
+     │ └R: Arvs Arns -> 520.243
+     └R: Angahran Vedralu -> -316.873
+  2: Ilet Rivul -> -659.317
+     ├L: Bralsea Marys -> 562.445
+     │└L: Idros Arothan -> -358.698
+     └R: Marena Salas -> 326.175
+  3: Giren Llandu -> -435.85
+     ├L: Fendel Gilvayn -> -303.229
+     └R: Fadren Sarothren -> -318.158
+      ├L: Ralyn Rothrano -> 507.032
+      └R: Tiras Seloth -> -179.367
+  4: Seryn Uvelas -> 156.776
+     └L: Vonos Braven -> -714.033
+      └R: Gilur Serethi -> -409.482
+       └L: Sondryn Famori -> -396.255
+  5: Gomeso Surishpi -> 987.173
+     └L: Llovyn Selaren -> -591.848
+      └L: Deldasa Davus -> 88.2185
+       └L: Folvys Balvel -> -301.164
+  6: Brerama Herandus -> -941.526
+     ├L: Tralayn Helothren -> 834.861
+     │└L: Brelar Beneran -> -440.737
+     └R: Bivale Valen -> -528.688
+      └L: Tarvus Mavandes -> -812.117
+  7: Marayn Dredayn -> -230.595
+     └R: Rindral Gavos -> -143.528
+insert Eldrasea Folvyn -788.349
+insert Sevisa Thelas -272.305
+insert Hlenil Drethan 262.338
+insert Falam Gals 27.3854
+size
+38
+hash_code Deldasa Davus
+5
+print
+  0: Hlenil Drethan -> 262.338
+     └R: Eldrasea Folvyn -> -788.349
+      └R: Ienase Llervu -> 569.795
+       └R: Guril Sadralo -> 295.224
+        ├L: Serila Reladren -> 220.685
+        └R: Llondryn Salavel -> 877.747
+         └R: Meril Veran -> -253.805
+  1: Sevisa Thelas -> -272.305
+     ├L: Daynas Raram -> 732.705
+     │└L: Tunila Benelas -> 712.963
+     │ └L: Drurile Adram -> -910.267
+     │  └R: Arvs Arns -> 520.243
+     └R: Angahran Vedralu -> -316.873
+  2: Falam Gals -> 27.3854
+     ├L: Idros Arothan -> -358.698
+     └R: Ilet Rivul -> -659.317
+      ├L: Bralsea Marys -> 562.445
+      └R: Marena Salas -> 326.175
+  3: Giren Llandu -> -435.85
+     ├L: Fendel Gilvayn -> -303.229
+     └R: Fadren Sarothren -> -318.158
+      ├L: Ralyn Rothrano -> 507.032
+      └R: Tiras Seloth -> -179.367
+  4: Seryn Uvelas -> 156.776
+     └L: Vonos Braven -> -714.033
+      └R: Gilur Serethi -> -409.482
+       └L: Sondryn Famori -> -396.255
+  5: Gomeso Surishpi -> 987.173
+     └L: Llovyn Selaren -> -591.848
+      └L: Deldasa Davus -> 88.2185
+       └L: Folvys Balvel -> -301.164
+  6: Brerama Herandus -> -941.526
+     ├L: Tralayn Helothren -> 834.861
+     │└L: Brelar Beneran -> -440.737
+     └R: Bivale Valen -> -528.688
+      └L: Tarvus Mavandes -> -812.117
+  7: Marayn Dredayn -> -230.595
+     └R: Rindral Gavos -> -143.528
+insert Dils Gols -717.496
+insert Brelyna Athren -661.862
+peek Gomeso Surishpi
+987.173
+hash_code Tiras Seloth
+3
+bucket_count
+8
+insert Maralie Selvayn 439.383
+insert Gilyn Milo -80.0283
+hash_code Folvys Balvel
+5
+insert Elvasea Nadram 447.74
+empty
+false
+insert Ienas Vibato -309.014
+bucket_count
+8
+insert Gulena Vedran 203.347
+size
+45
+insert Varasa Berer -813.072
+insert Rovone Sarano -860.496
+hash_code Fadren Sarothren
+3
+peek Giren Llandu
+-435.85
+print
+  0: Ienas Vibato -> -309.014
+     └L: Gilyn Milo -> -80.0283
+      ├L: Eldrasea Folvyn -> -788.349
+      │├L: Hlenil Drethan -> 262.338
+      │└R: Ienase Llervu -> 569.795
+      └R: Meril Veran -> -253.805
+       └L: Maralie Selvayn -> 439.383
+        └L: Guril Sadralo -> 295.224
+         ├L: Serila Reladren -> 220.685
+         └R: Llondryn Salavel -> 877.747
+  1: Sevisa Thelas -> -272.305
+     ├L: Daynas Raram -> 732.705
+     │└L: Tunila Benelas -> 712.963
+     │ └L: Drurile Adram -> -910.267
+     │  └R: Arvs Arns -> 520.243
+     └R: Angahran Vedralu -> -316.873
+  2: Rovone Sarano -> -860.496
+     └L: Bralsea Marys -> 562.445
+      ├L: Dils Gols -> -717.496
+      │└L: Falam Gals -> 27.3854
+      │ └L: Idros Arothan -> -358.698
+      └R: Marena Salas -> 326.175
+       └L: Ilet Rivul -> -659.317
+  3: Giren Llandu -> -435.85
+     ├L: Fendel Gilvayn -> -303.229
+     └R: Fadren Sarothren -> -318.158
+      ├L: Ralyn Rothrano -> 507.032
+      └R: Tiras Seloth -> -179.367
+  4: Varasa Berer -> -813.072
+     └R: Vonos Braven -> -714.033
+      └R: Elvasea Nadram -> 447.74
+       ├L: Sondryn Famori -> -396.255
+       └R: Seryn Uvelas -> 156.776
+        └L: Gilur Serethi -> -409.482
+  5: Gomeso Surishpi -> 987.173
+     └L: Llovyn Selaren -> -591.848
+      └L: Deldasa Davus -> 88.2185
+       └L: Folvys Balvel -> -301.164
+  6: Gulena Vedran -> 203.347
+     └L: Brelyna Athren -> -661.862
+      └R: Bivale Valen -> -528.688
+       └L: Brerama Herandus -> -941.526
+        ├L: Brelar Beneran -> -440.737
+        │└R: Tralayn Helothren -> 834.861
+        └R: Tarvus Mavandes -> -812.117
+  7: Marayn Dredayn -> -230.595
+     └R: Rindral Gavos -> -143.528
+insert Andilu Virith -686.04
+peek Seryn Uvelas
+156.776
+insert Llirala Romothran -450.481
+insert Aras Drelas 105.164
+insert Ridena Tedas 632.611
+insert Braynas Relnim -65.3951
+insert Elms Gidran -858.978
+size
+53
+insert Diren Omani 332.918
+insert Gulmon Golathyn -210.406
+bucket_count
+8
+hash_code Bivale Valen
+6
+empty
+false
+peek Drurile Adram
+-910.267
+empty
+false
+insert Vindamea Helan 391.722
+hash_code Ilet Rivul
+2
+insert Milvonu Fareloth -643.799
+bucket_count
+8
+size
+57
+empty
+false
+insert Varon Arethi 615.339
+insert Ather Andrani 241.514
+empty
+false
+insert Ginadura Saryoni -416.597
+empty
+false
+size
+60
+insert Naral Teri 622.175
+insert Neloth Llendu -476.176
+bucket_count
+8
+print
+  0: Neloth Llendu -> -476.176
+     ├L: Eldrasea Folvyn -> -788.349
+     │└L: Hlenil Drethan -> 262.338
+     └R: Gilyn Milo -> -80.0283
+      ├L: Ienase Llervu -> 569.795
+      └R: Ienas Vibato -> -309.014
+       └L: Meril Veran -> -253.805
+        └L: Maralie Selvayn -> 439.383
+         └L: Guril Sadralo -> 295.224
+          ├L: Serila Reladren -> 220.685
+          └R: Llondryn Salavel -> 877.747
+  1: Drurile Adram -> -910.267
+     └R: Tunila Benelas -> 712.963
+      ├L: Arvs Arns -> 520.243
+      └R: Elms Gidran -> -858.978
+       └R: Sevisa Thelas -> -272.305
+        ├L: Daynas Raram -> 732.705
+        └R: Angahran Vedralu -> -316.873
+  2: Rovone Sarano -> -860.496
+     └L: Bralsea Marys -> 562.445
+      ├L: Dils Gols -> -717.496
+      │└L: Falam Gals -> 27.3854
+      │ └L: Idros Arothan -> -358.698
+      └R: Marena Salas -> 326.175
+       └L: Ilet Rivul -> -659.317
+  3: Ginadura Saryoni -> -416.597
+     ├L: Giren Llandu -> -435.85
+     │├L: Vindamea Helan -> 391.722
+     ││└L: Gulmon Golathyn -> -210.406
+     ││ └L: Fendel Gilvayn -> -303.229
+     │└R: Ralyn Rothrano -> 507.032
+     │ ├L: Llirala Romothran -> -450.481
+     │ └R: Fadren Sarothren -> -318.158
+     └R: Tiras Seloth -> -179.367
+  4: Milvonu Fareloth -> -643.799
+     ├L: Varasa Berer -> -813.072
+     │└R: Sondryn Famori -> -396.255
+     │ └L: Vonos Braven -> -714.033
+     └R: Seryn Uvelas -> 156.776
+      └L: Elvasea Nadram -> 447.74
+       └R: Gilur Serethi -> -409.482
+  5: Naral Teri -> 622.175
+     ├L: Braynas Relnim -> -65.3951
+     │├L: Diren Omani -> 332.918
+     ││└L: Deldasa Davus -> 88.2185
+     ││ └L: Folvys Balvel -> -301.164
+     │└R: Gomeso Surishpi -> 987.173
+     │ └L: Llovyn Selaren -> -591.848
+     └R: Andilu Virith -> -686.04
+  6: Ather Andrani -> 241.514
+     └R: Ridena Tedas -> 632.611
+      ├L: Brelyna Athren -> -661.862
+      │└R: Aras Drelas -> 105.164
+      │ ├L: Brelar Beneran -> -440.737
+      │ └R: Brerama Herandus -> -941.526
+      │  ├L: Tralayn Helothren -> 834.861
+      │  └R: Tarvus Mavandes -> -812.117
+      └R: Gulena Vedran -> 203.347
+       └L: Bivale Valen -> -528.688
+  7: Varon Arethi -> 615.339
+     └R: Marayn Dredayn -> -230.595
+      └R: Rindral Gavos -> -143.528
+peek Sevisa Thelas
+-272.305
+print
+  0: Neloth Llendu -> -476.176
+     ├L: Eldrasea Folvyn -> -788.349
+     │└L: Hlenil Drethan -> 262.338
+     └R: Gilyn Milo -> -80.0283
+      ├L: Ienase Llervu -> 569.795
+      └R: Ienas Vibato -> -309.014
+       └L: Meril Veran -> -253.805
+        └L: Maralie Selvayn -> 439.383
+         └L: Guril Sadralo -> 295.224
+          ├L: Serila Reladren -> 220.685
+          └R: Llondryn Salavel -> 877.747
+  1: Sevisa Thelas -> -272.305
+     ├L: Drurile Adram -> -910.267
+     │└R: Elms Gidran -> -858.978
+     │ ├L: Tunila Benelas -> 712.963
+     │ │└L: Arvs Arns -> 520.243
+     │ └R: Daynas Raram -> 732.705
+     └R: Angahran Vedralu -> -316.873
+  2: Rovone Sarano -> -860.496
+     └L: Bralsea Marys -> 562.445
+      ├L: Dils Gols -> -717.496
+      │└L: Falam Gals -> 27.3854
+      │ └L: Idros Arothan -> -358.698
+      └R: Marena Salas -> 326.175
+       └L: Ilet Rivul -> -659.317
+  3: Ginadura Saryoni -> -416.597
+     ├L: Giren Llandu -> -435.85
+     │├L: Vindamea Helan -> 391.722
+     ││└L: Gulmon Golathyn -> -210.406
+     ││ └L: Fendel Gilvayn -> -303.229
+     │└R: Ralyn Rothrano -> 507.032
+     │ ├L: Llirala Romothran -> -450.481
+     │ └R: Fadren Sarothren -> -318.158
+     └R: Tiras Seloth -> -179.367
+  4: Milvonu Fareloth -> -643.799
+     ├L: Varasa Berer -> -813.072
+     │└R: Sondryn Famori -> -396.255
+     │ └L: Vonos Braven -> -714.033
+     └R: Seryn Uvelas -> 156.776
+      └L: Elvasea Nadram -> 447.74
+       └R: Gilur Serethi -> -409.482
+  5: Naral Teri -> 622.175
+     ├L: Braynas Relnim -> -65.3951
+     │├L: Diren Omani -> 332.918
+     ││└L: Deldasa Davus -> 88.2185
+     ││ └L: Folvys Balvel -> -301.164
+     │└R: Gomeso Surishpi -> 987.173
+     │ └L: Llovyn Selaren -> -591.848
+     └R: Andilu Virith -> -686.04
+  6: Ather Andrani -> 241.514
+     └R: Ridena Tedas -> 632.611
+      ├L: Brelyna Athren -> -661.862
+      │└R: Aras Drelas -> 105.164
+      │ ├L: Brelar Beneran -> -440.737
+      │ └R: Brerama Herandus -> -941.526
+      │  ├L: Tralayn Helothren -> 834.861
+      │  └R: Tarvus Mavandes -> -812.117
+      └R: Gulena Vedran -> 203.347
+       └L: Bivale Valen -> -528.688
+  7: Varon Arethi -> 615.339
+     └R: Marayn Dredayn -> -230.595
+      └R: Rindral Gavos -> -143.528
+empty
+false
+insert Llarara Avani 1.4585
+insert Methulu Belas -658.715
+size
+64
+print
+  0: Neloth Llendu -> -476.176
+     ├L: Eldrasea Folvyn -> -788.349
+     │└L: Hlenil Drethan -> 262.338
+     └R: Gilyn Milo -> -80.0283
+      ├L: Ienase Llervu -> 569.795
+      └R: Ienas Vibato -> -309.014
+       └L: Meril Veran -> -253.805
+        └L: Maralie Selvayn -> 439.383
+         └L: Guril Sadralo -> 295.224
+          ├L: Serila Reladren -> 220.685
+          └R: Llondryn Salavel -> 877.747
+  1: Llarara Avani -> 1.4585
+     ├L: Drurile Adram -> -910.267
+     │└R: Arvs Arns -> 520.243
+     └R: Sevisa Thelas -> -272.305
+      ├L: Elms Gidran -> -858.978
+      │├L: Tunila Benelas -> 712.963
+      │└R: Daynas Raram -> 732.705
+      └R: Angahran Vedralu -> -316.873
+  2: Rovone Sarano -> -860.496
+     └L: Bralsea Marys -> 562.445
+      ├L: Dils Gols -> -717.496
+      │└L: Falam Gals -> 27.3854
+      │ └L: Idros Arothan -> -358.698
+      └R: Marena Salas -> 326.175
+       └L: Ilet Rivul -> -659.317
+  3: Ginadura Saryoni -> -416.597
+     ├L: Giren Llandu -> -435.85
+     │├L: Vindamea Helan -> 391.722
+     ││└L: Gulmon Golathyn -> -210.406
+     ││ └L: Fendel Gilvayn -> -303.229
+     │└R: Ralyn Rothrano -> 507.032
+     │ ├L: Llirala Romothran -> -450.481
+     │ └R: Fadren Sarothren -> -318.158
+     └R: Tiras Seloth -> -179.367
+  4: Milvonu Fareloth -> -643.799
+     ├L: Varasa Berer -> -813.072
+     │└R: Sondryn Famori -> -396.255
+     │ └L: Vonos Braven -> -714.033
+     └R: Seryn Uvelas -> 156.776
+      └L: Elvasea Nadram -> 447.74
+       └R: Gilur Serethi -> -409.482
+  5: Naral Teri -> 622.175
+     ├L: Braynas Relnim -> -65.3951
+     │├L: Diren Omani -> 332.918
+     ││└L: Deldasa Davus -> 88.2185
+     ││ └L: Folvys Balvel -> -301.164
+     │└R: Gomeso Surishpi -> 987.173
+     │ └L: Llovyn Selaren -> -591.848
+     └R: Andilu Virith -> -686.04
+  6: Ather Andrani -> 241.514
+     └R: Ridena Tedas -> 632.611
+      ├L: Brelyna Athren -> -661.862
+      │└R: Aras Drelas -> 105.164
+      │ ├L: Brelar Beneran -> -440.737
+      │ └R: Brerama Herandus -> -941.526
+      │  ├L: Tralayn Helothren -> 834.861
+      │  └R: Tarvus Mavandes -> -812.117
+      └R: Gulena Vedran -> 203.347
+       └L: Bivale Valen -> -528.688
+  7: Methulu Belas -> -658.715
+     ├L: Varon Arethi -> 615.339
+     └R: Marayn Dredayn -> -230.595
+      └R: Rindral Gavos -> -143.528
+insert Direr Sadrys -943.382
+print
+  0: Neloth Llendu -> -476.176
+     ├L: Eldrasea Folvyn -> -788.349
+     │└L: Hlenil Drethan -> 262.338
+     └R: Gilyn Milo -> -80.0283
+      ├L: Ienase Llervu -> 569.795
+      └R: Ienas Vibato -> -309.014
+       └L: Meril Veran -> -253.805
+        └L: Maralie Selvayn -> 439.383
+         └L: Guril Sadralo -> 295.224
+          ├L: Serila Reladren -> 220.685
+          └R: Llondryn Salavel -> 877.747
+  1: Llarara Avani -> 1.4585
+     ├L: Drurile Adram -> -910.267
+     │└R: Arvs Arns -> 520.243
+     └R: Sevisa Thelas -> -272.305
+      ├L: Elms Gidran -> -858.978
+      │├L: Tunila Benelas -> 712.963
+      │└R: Daynas Raram -> 732.705
+      └R: Angahran Vedralu -> -316.873
+  2: Rovone Sarano -> -860.496
+     └L: Bralsea Marys -> 562.445
+      ├L: Dils Gols -> -717.496
+      │└L: Falam Gals -> 27.3854
+      │ └L: Idros Arothan -> -358.698
+      └R: Marena Salas -> 326.175
+       └L: Ilet Rivul -> -659.317
+  3: Direr Sadrys -> -943.382
+     ├L: Giren Llandu -> -435.85
+     │├L: Vindamea Helan -> 391.722
+     ││└L: Gulmon Golathyn -> -210.406
+     ││ └L: Fendel Gilvayn -> -303.229
+     │└R: Ralyn Rothrano -> 507.032
+     │ └L: Llirala Romothran -> -450.481
+     └R: Ginadura Saryoni -> -416.597
+      ├L: Fadren Sarothren -> -318.158
+      └R: Tiras Seloth -> -179.367
+  4: Milvonu Fareloth -> -643.799
+     ├L: Varasa Berer -> -813.072
+     │└R: Sondryn Famori -> -396.255
+     │ └L: Vonos Braven -> -714.033
+     └R: Seryn Uvelas -> 156.776
+      └L: Elvasea Nadram -> 447.74
+       └R: Gilur Serethi -> -409.482
+  5: Naral Teri -> 622.175
+     ├L: Braynas Relnim -> -65.3951
+     │├L: Diren Omani -> 332.918
+     ││└L: Deldasa Davus -> 88.2185
+     ││ └L: Folvys Balvel -> -301.164
+     │└R: Gomeso Surishpi -> 987.173
+     │ └L: Llovyn Selaren -> -591.848
+     └R: Andilu Virith -> -686.04
+  6: Ather Andrani -> 241.514
+     └R: Ridena Tedas -> 632.611
+      ├L: Brelyna Athren -> -661.862
+      │└R: Aras Drelas -> 105.164
+      │ ├L: Brelar Beneran -> -440.737
+      │ └R: Brerama Herandus -> -941.526
+      │  ├L: Tralayn Helothren -> 834.861
+      │  └R: Tarvus Mavandes -> -812.117
+      └R: Gulena Vedran -> 203.347
+       └L: Bivale Valen -> -528.688
+  7: Methulu Belas -> -658.715
+     ├L: Varon Arethi -> 615.339
+     └R: Marayn Dredayn -> -230.595
+      └R: Rindral Gavos -> -143.528
+hash_code Ienas Vibato
+0
+insert Dather Nedalor 687.807
+print
+  0: Neloth Llendu -> -476.176
+     ├L: Eldrasea Folvyn -> -788.349
+     │└L: Hlenil Drethan -> 262.338
+     └R: Gilyn Milo -> -80.0283
+      ├L: Ienase Llervu -> 569.795
+      └R: Ienas Vibato -> -309.014
+       └L: Meril Veran -> -253.805
+        └L: Maralie Selvayn -> 439.383
+         └L: Guril Sadralo -> 295.224
+          ├L: Serila Reladren -> 220.685
+          └R: Llondryn Salavel -> 877.747
+  1: Dather Nedalor -> 687.807
+     ├L: Llarara Avani -> 1.4585
+     │├L: Drurile Adram -> -910.267
+     ││└R: Arvs Arns -> 520.243
+     │└R: Elms Gidran -> -858.978
+     │ └L: Tunila Benelas -> 712.963
+     └R: Sevisa Thelas -> -272.305
+      ├L: Daynas Raram -> 732.705
+      └R: Angahran Vedralu -> -316.873
+  2: Rovone Sarano -> -860.496
+     └L: Bralsea Marys -> 562.445
+      ├L: Dils Gols -> -717.496
+      │└L: Falam Gals -> 27.3854
+      │ └L: Idros Arothan -> -358.698
+      └R: Marena Salas -> 326.175
+       └L: Ilet Rivul -> -659.317
+  3: Direr Sadrys -> -943.382
+     ├L: Giren Llandu -> -435.85
+     │├L: Vindamea Helan -> 391.722
+     ││└L: Gulmon Golathyn -> -210.406
+     ││ └L: Fendel Gilvayn -> -303.229
+     │└R: Ralyn Rothrano -> 507.032
+     │ └L: Llirala Romothran -> -450.481
+     └R: Ginadura Saryoni -> -416.597
+      ├L: Fadren Sarothren -> -318.158
+      └R: Tiras Seloth -> -179.367
+  4: Milvonu Fareloth -> -643.799
+     ├L: Varasa Berer -> -813.072
+     │└R: Sondryn Famori -> -396.255
+     │ └L: Vonos Braven -> -714.033
+     └R: Seryn Uvelas -> 156.776
+      └L: Elvasea Nadram -> 447.74
+       └R: Gilur Serethi -> -409.482
+  5: Naral Teri -> 622.175
+     ├L: Braynas Relnim -> -65.3951
+     │├L: Diren Omani -> 332.918
+     ││└L: Deldasa Davus -> 88.2185
+     ││ └L: Folvys Balvel -> -301.164
+     │└R: Gomeso Surishpi -> 987.173
+     │ └L: Llovyn Selaren -> -591.848
+     └R: Andilu Virith -> -686.04
+  6: Ather Andrani -> 241.514
+     └R: Ridena Tedas -> 632.611
+      ├L: Brelyna Athren -> -661.862
+      │└R: Aras Drelas -> 105.164
+      │ ├L: Brelar Beneran -> -440.737
+      │ └R: Brerama Herandus -> -941.526
+      │  ├L: Tralayn Helothren -> 834.861
+      │  └R: Tarvus Mavandes -> -812.117
+      └R: Gulena Vedran -> 203.347
+       └L: Bivale Valen -> -528.688
+  7: Methulu Belas -> -658.715
+     ├L: Varon Arethi -> 615.339
+     └R: Marayn Dredayn -> -230.595
+      └R: Rindral Gavos -> -143.528
+bucket_count
+8
+peek Elvasea Nadram
+447.74
+peek Llondryn Salavel
+877.747
+peek Arvs Arns
+520.243
+insert Favise Romothran -608.769
+peek Gulena Vedran
+203.347
+insert Evesa Andalas 871.967
+insert Ienasa Drora 32.8929
+peek Folvys Balvel
+-301.164
+hash_code Varasa Berer
+4
+insert Golveso Malvayn -992.125
+bucket_count
+8
+insert Uryn Onmar -661.678
+empty
+false
+insert Salyn Terilu -900.512
+insert Sanaso Serano -219.014
+bucket_count
+8
+empty
+false
+print
+  0: Uryn Onmar -> -661.678
+     ├L: Gilyn Milo -> -80.0283
+     │└L: Neloth Llendu -> -476.176
+     │ ├L: Eldrasea Folvyn -> -788.349
+     │ │└L: Hlenil Drethan -> 262.338
+     │ └R: Ienase Llervu -> 569.795
+     └R: Llondryn Salavel -> 877.747
+      ├L: Serila Reladren -> 220.685
+      │└R: Guril Sadralo -> 295.224
+      └R: Meril Veran -> -253.805
+       ├L: Maralie Selvayn -> 439.383
+       └R: Ienas Vibato -> -309.014
+  1: Arvs Arns -> 520.243
+     ├L: Drurile Adram -> -910.267
+     └R: Dather Nedalor -> 687.807
+      ├L: Llarara Avani -> 1.4585
+      │└R: Elms Gidran -> -858.978
+      │ └L: Tunila Benelas -> 712.963
+      └R: Sevisa Thelas -> -272.305
+       ├L: Daynas Raram -> 732.705
+       └R: Angahran Vedralu -> -316.873
+  2: Rovone Sarano -> -860.496
+     └L: Bralsea Marys -> 562.445
+      ├L: Dils Gols -> -717.496
+      │└L: Falam Gals -> 27.3854
+      │ └L: Idros Arothan -> -358.698
+      └R: Marena Salas -> 326.175
+       └L: Ilet Rivul -> -659.317
+  3: Sanaso Serano -> -219.014
+     ├L: Tiras Seloth -> -179.367
+     │└L: Direr Sadrys -> -943.382
+     │ ├L: Golveso Malvayn -> -992.125
+     │ │├L: Giren Llandu -> -435.85
+     │ ││└L: Vindamea Helan -> 391.722
+     │ ││ └L: Gulmon Golathyn -> -210.406
+     │ ││  └L: Fendel Gilvayn -> -303.229
+     │ │└R: Llirala Romothran -> -450.481
+     │ │ └R: Ralyn Rothrano -> 507.032
+     │ └R: Ginadura Saryoni -> -416.597
+     │  └L: Fadren Sarothren -> -318.158
+     └R: Salyn Terilu -> -900.512
+  4: Elvasea Nadram -> 447.74
+     ├L: Milvonu Fareloth -> -643.799
+     │└L: Varasa Berer -> -813.072
+     │ └R: Sondryn Famori -> -396.255
+     │  └L: Vonos Braven -> -714.033
+     └R: Seryn Uvelas -> 156.776
+      └L: Gilur Serethi -> -409.482
+  5: Folvys Balvel -> -301.164
+     └R: Deldasa Davus -> 88.2185
+      └R: Ienasa Drora -> 32.8929
+       └R: Braynas Relnim -> -65.3951
+        ├L: Diren Omani -> 332.918
+        └R: Favise Romothran -> -608.769
+         └R: Naral Teri -> 622.175
+          ├L: Llovyn Selaren -> -591.848
+          │└R: Gomeso Surishpi -> 987.173
+          └R: Andilu Virith -> -686.04
+  6: Evesa Andalas -> 871.967
+     └R: Gulena Vedran -> 203.347
+      └L: Ather Andrani -> 241.514
+       └R: Ridena Tedas -> 632.611
+        ├L: Brelyna Athren -> -661.862
+        │└R: Aras Drelas -> 105.164
+        │ ├L: Brelar Beneran -> -440.737
+        │ └R: Brerama Herandus -> -941.526
+        │  ├L: Tralayn Helothren -> 834.861
+        │  └R: Tarvus Mavandes -> -812.117
+        └R: Bivale Valen -> -528.688
+  7: Methulu Belas -> -658.715
+     ├L: Varon Arethi -> 615.339
+     └R: Marayn Dredayn -> -230.595
+      └R: Rindral Gavos -> -143.528
+bucket_count
+8
+peek Tralayn Helothren
+834.861
+insert Brelyn Thilarvel 247.059
+insert Gulvilie Lloran 241.206
+hash_code Sevisa Thelas
+1
+peek Sanaso Serano
+-219.014
+peek Giren Llandu
+-435.85
+insert Ulenea Androm 580.563
+size
+76
+hash_code Salyn Terilu
+3
+hash_code Sondryn Famori
+4
+size
+76
+bucket_count
+8
+print
+  0: Uryn Onmar -> -661.678
+     ├L: Gilyn Milo -> -80.0283
+     │└L: Neloth Llendu -> -476.176
+     │ ├L: Eldrasea Folvyn -> -788.349
+     │ │└L: Hlenil Drethan -> 262.338
+     │ └R: Ienase Llervu -> 569.795
+     └R: Llondryn Salavel -> 877.747
+      ├L: Serila Reladren -> 220.685
+      │└R: Guril Sadralo -> 295.224
+      └R: Meril Veran -> -253.805
+       ├L: Maralie Selvayn -> 439.383
+       └R: Ienas Vibato -> -309.014
+  1: Arvs Arns -> 520.243
+     ├L: Drurile Adram -> -910.267
+     └R: Dather Nedalor -> 687.807
+      ├L: Llarara Avani -> 1.4585
+      │└R: Elms Gidran -> -858.978
+      │ └L: Tunila Benelas -> 712.963
+      └R: Sevisa Thelas -> -272.305
+       ├L: Daynas Raram -> 732.705
+       └R: Angahran Vedralu -> -316.873
+  2: Rovone Sarano -> -860.496
+     └L: Bralsea Marys -> 562.445
+      ├L: Dils Gols -> -717.496
+      │└L: Falam Gals -> 27.3854
+      │ └L: Idros Arothan -> -358.698
+      └R: Marena Salas -> 326.175
+       └L: Ilet Rivul -> -659.317
+  3: Ulenea Androm -> 580.563
+     └R: Vindamea Helan -> 391.722
+      ├L: Fendel Gilvayn -> -303.229
+      │└R: Gulmon Golathyn -> -210.406
+      └R: Giren Llandu -> -435.85
+       └R: Tiras Seloth -> -179.367
+        ├L: Golveso Malvayn -> -992.125
+        │└R: Direr Sadrys -> -943.382
+        │ ├L: Llirala Romothran -> -450.481
+        │ │└R: Ralyn Rothrano -> 507.032
+        │ └R: Ginadura Saryoni -> -416.597
+        │  └L: Fadren Sarothren -> -318.158
+        └R: Sanaso Serano -> -219.014
+         └R: Salyn Terilu -> -900.512
+  4: Elvasea Nadram -> 447.74
+     ├L: Milvonu Fareloth -> -643.799
+     │└L: Varasa Berer -> -813.072
+     │ └R: Sondryn Famori -> -396.255
+     │  └L: Vonos Braven -> -714.033
+     └R: Seryn Uvelas -> 156.776
+      └L: Gilur Serethi -> -409.482
+  5: Folvys Balvel -> -301.164
+     └R: Deldasa Davus -> 88.2185
+      └R: Ienasa Drora -> 32.8929
+       └R: Braynas Relnim -> -65.3951
+        ├L: Diren Omani -> 332.918
+        └R: Favise Romothran -> -608.769
+         └R: Naral Teri -> 622.175
+          ├L: Llovyn Selaren -> -591.848
+          │└R: Gomeso Surishpi -> 987.173
+          └R: Andilu Virith -> -686.04
+  6: Gulvilie Lloran -> 241.206
+     ├L: Tralayn Helothren -> 834.861
+     │├L: Evesa Andalas -> 871.967
+     ││└R: Ather Andrani -> 241.514
+     ││ └R: Brelyna Athren -> -661.862
+     ││  └R: Aras Drelas -> 105.164
+     ││   └L: Brelar Beneran -> -440.737
+     │└R: Brerama Herandus -> -941.526
+     └R: Ridena Tedas -> 632.611
+      ├L: Tarvus Mavandes -> -812.117
+      └R: Gulena Vedran -> 203.347
+       └L: Bivale Valen -> -528.688
+  7: Brelyn Thilarvel -> 247.059
+     └L: Methulu Belas -> -658.715
+      ├L: Varon Arethi -> 615.339
+      └R: Rindral Gavos -> -143.528
+       └L: Marayn Dredayn -> -230.595
+peek Naral Teri
+622.175
+print
+  0: Uryn Onmar -> -661.678
+     ├L: Gilyn Milo -> -80.0283
+     │└L: Neloth Llendu -> -476.176
+     │ ├L: Eldrasea Folvyn -> -788.349
+     │ │└L: Hlenil Drethan -> 262.338
+     │ └R: Ienase Llervu -> 569.795
+     └R: Llondryn Salavel -> 877.747
+      ├L: Serila Reladren -> 220.685
+      │└R: Guril Sadralo -> 295.224
+      └R: Meril Veran -> -253.805
+       ├L: Maralie Selvayn -> 439.383
+       └R: Ienas Vibato -> -309.014
+  1: Arvs Arns -> 520.243
+     ├L: Drurile Adram -> -910.267
+     └R: Dather Nedalor -> 687.807
+      ├L: Llarara Avani -> 1.4585
+      │└R: Elms Gidran -> -858.978
+      │ └L: Tunila Benelas -> 712.963
+      └R: Sevisa Thelas -> -272.305
+       ├L: Daynas Raram -> 732.705
+       └R: Angahran Vedralu -> -316.873
+  2: Rovone Sarano -> -860.496
+     └L: Bralsea Marys -> 562.445
+      ├L: Dils Gols -> -717.496
+      │└L: Falam Gals -> 27.3854
+      │ └L: Idros Arothan -> -358.698
+      └R: Marena Salas -> 326.175
+       └L: Ilet Rivul -> -659.317
+  3: Ulenea Androm -> 580.563
+     └R: Vindamea Helan -> 391.722
+      ├L: Fendel Gilvayn -> -303.229
+      │└R: Gulmon Golathyn -> -210.406
+      └R: Giren Llandu -> -435.85
+       └R: Tiras Seloth -> -179.367
+        ├L: Golveso Malvayn -> -992.125
+        │└R: Direr Sadrys -> -943.382
+        │ ├L: Llirala Romothran -> -450.481
+        │ │└R: Ralyn Rothrano -> 507.032
+        │ └R: Ginadura Saryoni -> -416.597
+        │  └L: Fadren Sarothren -> -318.158
+        └R: Sanaso Serano -> -219.014
+         └R: Salyn Terilu -> -900.512
+  4: Elvasea Nadram -> 447.74
+     ├L: Milvonu Fareloth -> -643.799
+     │└L: Varasa Berer -> -813.072
+     │ └R: Sondryn Famori -> -396.255
+     │  └L: Vonos Braven -> -714.033
+     └R: Seryn Uvelas -> 156.776
+      └L: Gilur Serethi -> -409.482
+  5: Naral Teri -> 622.175
+     ├L: Folvys Balvel -> -301.164
+     │└R: Ienasa Drora -> 32.8929
+     │ ├L: Deldasa Davus -> 88.2185
+     │ └R: Favise Romothran -> -608.769
+     │  ├L: Braynas Relnim -> -65.3951
+     │  │└L: Diren Omani -> 332.918
+     │  └R: Llovyn Selaren -> -591.848
+     │   └R: Gomeso Surishpi -> 987.173
+     └R: Andilu Virith -> -686.04
+  6: Gulvilie Lloran -> 241.206
+     ├L: Tralayn Helothren -> 834.861
+     │├L: Evesa Andalas -> 871.967
+     ││└R: Ather Andrani -> 241.514
+     ││ └R: Brelyna Athren -> -661.862
+     ││  └R: Aras Drelas -> 105.164
+     ││   └L: Brelar Beneran -> -440.737
+     │└R: Brerama Herandus -> -941.526
+     └R: Ridena Tedas -> 632.611
+      ├L: Tarvus Mavandes -> -812.117
+      └R: Gulena Vedran -> 203.347
+       └L: Bivale Valen -> -528.688
+  7: Brelyn Thilarvel -> 247.059
+     └L: Methulu Belas -> -658.715
+      ├L: Varon Arethi -> 615.339
+      └R: Rindral Gavos -> -143.528
+       └L: Marayn Dredayn -> -230.595
+insert Relvese Relnim -25.084
+bucket_count
+8
+peek Angahran Vedralu
+-316.873
+insert Forven Adram 638.219
+insert Suldreni Othrenim -70.8032
+insert Athesie Othreloth 909.594
+size
+80
+bucket_count
+8
+size
+80
+insert Vavran Faram 754.464
+print
+  0: Athesie Othreloth -> 909.594
+     ├L: Uryn Onmar -> -661.678
+     │└L: Gilyn Milo -> -80.0283
+     │ └L: Neloth Llendu -> -476.176
+     │  ├L: Eldrasea Folvyn -> -788.349
+     │  │└L: Hlenil Drethan -> 262.338
+     │  └R: Ienase Llervu -> 569.795
+     └R: Suldreni Othrenim -> -70.8032
+      └R: Relvese Relnim -> -25.084
+       ├L: Serila Reladren -> 220.685
+       └R: Llondryn Salavel -> 877.747
+        ├L: Guril Sadralo -> 295.224
+        └R: Meril Veran -> -253.805
+         ├L: Maralie Selvayn -> 439.383
+         └R: Ienas Vibato -> -309.014
+  1: Angahran Vedralu -> -316.873
+     └L: Arvs Arns -> 520.243
+      ├L: Drurile Adram -> -910.267
+      └R: Sevisa Thelas -> -272.305
+       └L: Dather Nedalor -> 687.807
+        ├L: Llarara Avani -> 1.4585
+        │└R: Elms Gidran -> -858.978
+        │ └L: Tunila Benelas -> 712.963
+        └R: Daynas Raram -> 732.705
+  2: Rovone Sarano -> -860.496
+     └L: Bralsea Marys -> 562.445
+      ├L: Dils Gols -> -717.496
+      │└L: Falam Gals -> 27.3854
+      │ └L: Idros Arothan -> -358.698
+      └R: Marena Salas -> 326.175
+       └L: Ilet Rivul -> -659.317
+  3: Ulenea Androm -> 580.563
+     └R: Vindamea Helan -> 391.722
+      ├L: Fendel Gilvayn -> -303.229
+      │└R: Gulmon Golathyn -> -210.406
+      └R: Giren Llandu -> -435.85
+       └R: Tiras Seloth -> -179.367
+        ├L: Golveso Malvayn -> -992.125
+        │└R: Direr Sadrys -> -943.382
+        │ ├L: Llirala Romothran -> -450.481
+        │ │└R: Ralyn Rothrano -> 507.032
+        │ └R: Ginadura Saryoni -> -416.597
+        │  └L: Fadren Sarothren -> -318.158
+        └R: Sanaso Serano -> -219.014
+         └R: Salyn Terilu -> -900.512
+  4: Vavran Faram -> 754.464
+     ├L: Sondryn Famori -> -396.255
+     │└L: Varasa Berer -> -813.072
+     │ └R: Vonos Braven -> -714.033
+     └R: Milvonu Fareloth -> -643.799
+      └R: Elvasea Nadram -> 447.74
+       └R: Seryn Uvelas -> 156.776
+        └L: Gilur Serethi -> -409.482
+  5: Naral Teri -> 622.175
+     ├L: Folvys Balvel -> -301.164
+     │└R: Ienasa Drora -> 32.8929
+     │ ├L: Deldasa Davus -> 88.2185
+     │ └R: Favise Romothran -> -608.769
+     │  ├L: Braynas Relnim -> -65.3951
+     │  │└L: Diren Omani -> 332.918
+     │  └R: Llovyn Selaren -> -591.848
+     │   └R: Gomeso Surishpi -> 987.173
+     └R: Andilu Virith -> -686.04
+  6: Gulvilie Lloran -> 241.206
+     ├L: Tralayn Helothren -> 834.861
+     │├L: Evesa Andalas -> 871.967
+     ││└R: Ather Andrani -> 241.514
+     ││ └R: Brelyna Athren -> -661.862
+     ││  └R: Aras Drelas -> 105.164
+     ││   └L: Brelar Beneran -> -440.737
+     │└R: Brerama Herandus -> -941.526
+     └R: Ridena Tedas -> 632.611
+      ├L: Tarvus Mavandes -> -812.117
+      └R: Gulena Vedran -> 203.347
+       └L: Bivale Valen -> -528.688
+  7: Forven Adram -> 638.219
+     └R: Brelyn Thilarvel -> 247.059
+      └L: Varon Arethi -> 615.339
+       └R: Methulu Belas -> -658.715
+        └R: Rindral Gavos -> -143.528
+         └L: Marayn Dredayn -> -230.595
+insert Daynas Reloro 473.773
+insert Milar Dulni -246.049
+hash_code Relvese Relnim
+0
+insert Erene Gimalvel -704.053
+bucket_count
+8
+print
+  0: Athesie Othreloth -> 909.594
+     ├L: Uryn Onmar -> -661.678
+     │└L: Gilyn Milo -> -80.0283
+     │ └L: Neloth Llendu -> -476.176
+     │  ├L: Eldrasea Folvyn -> -788.349
+     │  │└L: Hlenil Drethan -> 262.338
+     │  └R: Ienase Llervu -> 569.795
+     └R: Suldreni Othrenim -> -70.8032
+      └R: Relvese Relnim -> -25.084
+       ├L: Serila Reladren -> 220.685
+       └R: Llondryn Salavel -> 877.747
+        ├L: Guril Sadralo -> 295.224
+        └R: Meril Veran -> -253.805
+         ├L: Maralie Selvayn -> 439.383
+         └R: Ienas Vibato -> -309.014
+  1: Erene Gimalvel -> -704.053
+     ├L: Milar Dulni -> -246.049
+     │├L: Arvs Arns -> 520.243
+     ││├L: Drurile Adram -> -910.267
+     ││└R: Llarara Avani -> 1.4585
+     ││ └R: Tunila Benelas -> 712.963
+     │└R: Elms Gidran -> -858.978
+     └R: Sevisa Thelas -> -272.305
+      ├L: Dather Nedalor -> 687.807
+      │└R: Daynas Raram -> 732.705
+      └R: Angahran Vedralu -> -316.873
+  2: Rovone Sarano -> -860.496
+     └L: Bralsea Marys -> 562.445
+      ├L: Dils Gols -> -717.496
+      │└L: Falam Gals -> 27.3854
+      │ └L: Idros Arothan -> -358.698
+      └R: Marena Salas -> 326.175
+       └L: Ilet Rivul -> -659.317
+  3: Daynas Reloro -> 473.773
+     ├L: Ulenea Androm -> 580.563
+     │└R: Giren Llandu -> -435.85
+     │ ├L: Vindamea Helan -> 391.722
+     │ │└L: Fendel Gilvayn -> -303.229
+     │ │ └R: Gulmon Golathyn -> -210.406
+     │ └R: Golveso Malvayn -> -992.125
+     └R: Tiras Seloth -> -179.367
+      ├L: Llirala Romothran -> -450.481
+      │└R: Direr Sadrys -> -943.382
+      │ ├L: Ralyn Rothrano -> 507.032
+      │ └R: Ginadura Saryoni -> -416.597
+      │  └L: Fadren Sarothren -> -318.158
+      └R: Sanaso Serano -> -219.014
+       └R: Salyn Terilu -> -900.512
+  4: Vavran Faram -> 754.464
+     ├L: Sondryn Famori -> -396.255
+     │└L: Varasa Berer -> -813.072
+     │ └R: Vonos Braven -> -714.033
+     └R: Milvonu Fareloth -> -643.799
+      └R: Elvasea Nadram -> 447.74
+       └R: Seryn Uvelas -> 156.776
+        └L: Gilur Serethi -> -409.482
+  5: Naral Teri -> 622.175
+     ├L: Folvys Balvel -> -301.164
+     │└R: Ienasa Drora -> 32.8929
+     │ ├L: Deldasa Davus -> 88.2185
+     │ └R: Favise Romothran -> -608.769
+     │  ├L: Braynas Relnim -> -65.3951
+     │  │└L: Diren Omani -> 332.918
+     │  └R: Llovyn Selaren -> -591.848
+     │   └R: Gomeso Surishpi -> 987.173
+     └R: Andilu Virith -> -686.04
+  6: Gulvilie Lloran -> 241.206
+     ├L: Tralayn Helothren -> 834.861
+     │├L: Evesa Andalas -> 871.967
+     ││└R: Ather Andrani -> 241.514
+     ││ └R: Brelyna Athren -> -661.862
+     ││  └R: Aras Drelas -> 105.164
+     ││   └L: Brelar Beneran -> -440.737
+     │└R: Brerama Herandus -> -941.526
+     └R: Ridena Tedas -> 632.611
+      ├L: Tarvus Mavandes -> -812.117
+      └R: Gulena Vedran -> 203.347
+       └L: Bivale Valen -> -528.688
+  7: Forven Adram -> 638.219
+     └R: Brelyn Thilarvel -> 247.059
+      └L: Varon Arethi -> 615.339
+       └R: Methulu Belas -> -658.715
+        └R: Rindral Gavos -> -143.528
+         └L: Marayn Dredayn -> -230.595
+empty
+false
+bucket_count
+8
+insert Llerusa Falavel 19.9966
+empty
+false
+hash_code Methulu Belas
+7
+insert Ienas Bedas 712.299
+insert Brara Uvalor -815.94
+size
+87
+insert Hleras Helan 306.546
+empty
+false
+hash_code Fendel Gilvayn
+3
+bucket_count
+8
+insert Forvse Mavandes -447.447
+bucket_count
+8
+print
+  0: Forvse Mavandes -> -447.447
+     ├L: Ienas Bedas -> 712.299
+     │└R: Neloth Llendu -> -476.176
+     │ ├L: Hlenil Drethan -> 262.338
+     │ │└R: Eldrasea Folvyn -> -788.349
+     │ └R: Ienase Llervu -> 569.795
+     └R: Uryn Onmar -> -661.678
+      ├L: Gilyn Milo -> -80.0283
+      └R: Athesie Othreloth -> 909.594
+       └R: Suldreni Othrenim -> -70.8032
+        └R: Relvese Relnim -> -25.084
+         ├L: Serila Reladren -> 220.685
+         └R: Llondryn Salavel -> 877.747
+          ├L: Guril Sadralo -> 295.224
+          └R: Meril Veran -> -253.805
+           ├L: Maralie Selvayn -> 439.383
+           └R: Ienas Vibato -> -309.014
+  1: Erene Gimalvel -> -704.053
+     ├L: Milar Dulni -> -246.049
+     │├L: Arvs Arns -> 520.243
+     ││├L: Drurile Adram -> -910.267
+     ││└R: Llarara Avani -> 1.4585
+     ││ └R: Tunila Benelas -> 712.963
+     │└R: Elms Gidran -> -858.978
+     └R: Sevisa Thelas -> -272.305
+      ├L: Dather Nedalor -> 687.807
+      │└R: Daynas Raram -> 732.705
+      └R: Angahran Vedralu -> -316.873
+  2: Rovone Sarano -> -860.496
+     └L: Bralsea Marys -> 562.445
+      ├L: Dils Gols -> -717.496
+      │└L: Falam Gals -> 27.3854
+      │ └L: Idros Arothan -> -358.698
+      └R: Marena Salas -> 326.175
+       └L: Ilet Rivul -> -659.317
+  3: Brara Uvalor -> -815.94
+     └L: Llerusa Falavel -> 19.9966
+      ├L: Ulenea Androm -> 580.563
+      └R: Tiras Seloth -> -179.367
+       ├L: Daynas Reloro -> 473.773
+       │├L: Giren Llandu -> -435.85
+       ││├L: Fendel Gilvayn -> -303.229
+       │││└R: Vindamea Helan -> 391.722
+       │││ └L: Gulmon Golathyn -> -210.406
+       ││└R: Golveso Malvayn -> -992.125
+       │└R: Llirala Romothran -> -450.481
+       │ └R: Direr Sadrys -> -943.382
+       │  ├L: Ralyn Rothrano -> 507.032
+       │  └R: Ginadura Saryoni -> -416.597
+       │   └L: Fadren Sarothren -> -318.158
+       └R: Salyn Terilu -> -900.512
+        └L: Sanaso Serano -> -219.014
+  4: Vavran Faram -> 754.464
+     ├L: Sondryn Famori -> -396.255
+     │└L: Varasa Berer -> -813.072
+     │ └R: Vonos Braven -> -714.033
+     └R: Milvonu Fareloth -> -643.799
+      └R: Elvasea Nadram -> 447.74
+       └R: Seryn Uvelas -> 156.776
+        └L: Gilur Serethi -> -409.482
+  5: Naral Teri -> 622.175
+     ├L: Folvys Balvel -> -301.164
+     │└R: Ienasa Drora -> 32.8929
+     │ ├L: Deldasa Davus -> 88.2185
+     │ └R: Favise Romothran -> -608.769
+     │  ├L: Braynas Relnim -> -65.3951
+     │  │└L: Diren Omani -> 332.918
+     │  └R: Llovyn Selaren -> -591.848
+     │   └R: Gomeso Surishpi -> 987.173
+     └R: Andilu Virith -> -686.04
+  6: Hleras Helan -> 306.546
+     ├L: Ather Andrani -> 241.514
+     │├L: Evesa Andalas -> 871.967
+     │└R: Aras Drelas -> 105.164
+     │ └L: Brelyna Athren -> -661.862
+     │  └R: Brelar Beneran -> -440.737
+     └R: Tralayn Helothren -> 834.861
+      └R: Gulvilie Lloran -> 241.206
+       ├L: Brerama Herandus -> -941.526
+       └R: Ridena Tedas -> 632.611
+        ├L: Tarvus Mavandes -> -812.117
+        └R: Gulena Vedran -> 203.347
+         └L: Bivale Valen -> -528.688
+  7: Forven Adram -> 638.219
+     └R: Brelyn Thilarvel -> 247.059
+      └L: Varon Arethi -> 615.339
+       └R: Methulu Belas -> -658.715
+        └R: Rindral Gavos -> -143.528
+         └L: Marayn Dredayn -> -230.595
+empty
+false
+size
+89
+insert Bralis Nilem -736.693
+peek Braynas Relnim
+-65.3951
+insert Drelayn Relnim 392.059
+insert Brathus Thenim -392.509
+size
+92
+insert Radene Salas -21.2819
+peek Tiras Seloth
+-179.367
+size
+93
+print
+  0: Forvse Mavandes -> -447.447
+     ├L: Ienas Bedas -> 712.299
+     │└R: Neloth Llendu -> -476.176
+     │ ├L: Hlenil Drethan -> 262.338
+     │ │└R: Eldrasea Folvyn -> -788.349
+     │ └R: Ienase Llervu -> 569.795
+     └R: Uryn Onmar -> -661.678
+      ├L: Gilyn Milo -> -80.0283
+      └R: Athesie Othreloth -> 909.594
+       └R: Suldreni Othrenim -> -70.8032
+        └R: Relvese Relnim -> -25.084
+         ├L: Serila Reladren -> 220.685
+         └R: Llondryn Salavel -> 877.747
+          ├L: Guril Sadralo -> 295.224
+          └R: Meril Veran -> -253.805
+           ├L: Maralie Selvayn -> 439.383
+           └R: Ienas Vibato -> -309.014
+  1: Bralis Nilem -> -736.693
+     ├L: Erene Gimalvel -> -704.053
+     │├L: Milar Dulni -> -246.049
+     ││├L: Arvs Arns -> 520.243
+     │││├L: Drurile Adram -> -910.267
+     │││└R: Llarara Avani -> 1.4585
+     │││ └R: Tunila Benelas -> 712.963
+     ││└R: Elms Gidran -> -858.978
+     │└R: Dather Nedalor -> 687.807
+     └R: Sevisa Thelas -> -272.305
+      ├L: Daynas Raram -> 732.705
+      └R: Angahran Vedralu -> -316.873
+  2: Drelayn Relnim -> 392.059
+     ├L: Bralsea Marys -> 562.445
+     │└L: Dils Gols -> -717.496
+     │ └L: Falam Gals -> 27.3854
+     │  └L: Idros Arothan -> -358.698
+     └R: Rovone Sarano -> -860.496
+      └L: Ilet Rivul -> -659.317
+       └R: Marena Salas -> 326.175
+  3: Tiras Seloth -> -179.367
+     ├L: Radene Salas -> -21.2819
+     │├L: Llerusa Falavel -> 19.9966
+     ││├L: Ulenea Androm -> 580.563
+     ││└R: Daynas Reloro -> 473.773
+     ││ ├L: Giren Llandu -> -435.85
+     ││ │├L: Fendel Gilvayn -> -303.229
+     ││ ││└R: Vindamea Helan -> 391.722
+     ││ ││ └L: Gulmon Golathyn -> -210.406
+     ││ │└R: Golveso Malvayn -> -992.125
+     ││ └R: Direr Sadrys -> -943.382
+     ││  └L: Llirala Romothran -> -450.481
+     ││   └R: Ralyn Rothrano -> 507.032
+     │└R: Fadren Sarothren -> -318.158
+     │ └R: Ginadura Saryoni -> -416.597
+     └R: Brara Uvalor -> -815.94
+      └L: Salyn Terilu -> -900.512
+       └L: Sanaso Serano -> -219.014
+  4: Vavran Faram -> 754.464
+     ├L: Sondryn Famori -> -396.255
+     │└L: Varasa Berer -> -813.072
+     │ └R: Vonos Braven -> -714.033
+     └R: Milvonu Fareloth -> -643.799
+      └R: Elvasea Nadram -> 447.74
+       └R: Seryn Uvelas -> 156.776
+        └L: Gilur Serethi -> -409.482
+  5: Braynas Relnim -> -65.3951
+     ├L: Folvys Balvel -> -301.164
+     │└R: Ienasa Drora -> 32.8929
+     │ ├L: Deldasa Davus -> 88.2185
+     │ └R: Diren Omani -> 332.918
+     └R: Naral Teri -> 622.175
+      ├L: Favise Romothran -> -608.769
+      │└R: Llovyn Selaren -> -591.848
+      │ └R: Gomeso Surishpi -> 987.173
+      └R: Andilu Virith -> -686.04
+  6: Brathus Thenim -> -392.509
+     ├L: Tralayn Helothren -> 834.861
+     │├L: Hleras Helan -> 306.546
+     ││└L: Ather Andrani -> 241.514
+     ││ ├L: Evesa Andalas -> 871.967
+     ││ └R: Aras Drelas -> 105.164
+     ││  └L: Brelyna Athren -> -661.862
+     ││   └R: Brelar Beneran -> -440.737
+     │└R: Ridena Tedas -> 632.611
+     │ └L: Gulvilie Lloran -> 241.206
+     │  ├L: Brerama Herandus -> -941.526
+     │  └R: Tarvus Mavandes -> -812.117
+     └R: Bivale Valen -> -528.688
+      └R: Gulena Vedran -> 203.347
+  7: Forven Adram -> 638.219
+     └R: Brelyn Thilarvel -> 247.059
+      └L: Varon Arethi -> 615.339
+       └R: Methulu Belas -> -658.715
+        └R: Rindral Gavos -> -143.528
+         └L: Marayn Dredayn -> -230.595
+empty
+false
+insert Miron Indrano 319.795
+insert Briras Adryn -756.302
+hash_code Sondryn Famori
+4
+peek Uryn Onmar
+-661.678
+insert Rayna Hlarys -998.222
+size
+96
+peek Falam Gals
+27.3854
+print
+  0: Uryn Onmar -> -661.678
+     ├L: Forvse Mavandes -> -447.447
+     │├L: Ienas Bedas -> 712.299
+     ││└R: Neloth Llendu -> -476.176
+     ││ ├L: Hlenil Drethan -> 262.338
+     ││ │└R: Eldrasea Folvyn -> -788.349
+     ││ └R: Ienase Llervu -> 569.795
+     │└R: Gilyn Milo -> -80.0283
+     └R: Athesie Othreloth -> 909.594
+      └R: Suldreni Othrenim -> -70.8032
+       └R: Relvese Relnim -> -25.084
+        ├L: Serila Reladren -> 220.685
+        └R: Llondryn Salavel -> 877.747
+         ├L: Guril Sadralo -> 295.224
+         └R: Meril Veran -> -253.805
+          ├L: Maralie Selvayn -> 439.383
+          └R: Ienas Vibato -> -309.014
+  1: Bralis Nilem -> -736.693
+     ├L: Erene Gimalvel -> -704.053
+     │├L: Milar Dulni -> -246.049
+     ││├L: Arvs Arns -> 520.243
+     │││├L: Drurile Adram -> -910.267
+     │││└R: Llarara Avani -> 1.4585
+     │││ └R: Tunila Benelas -> 712.963
+     ││└R: Elms Gidran -> -858.978
+     │└R: Dather Nedalor -> 687.807
+     └R: Sevisa Thelas -> -272.305
+      ├L: Daynas Raram -> 732.705
+      └R: Angahran Vedralu -> -316.873
+  2: Falam Gals -> 27.3854
+     ├L: Idros Arothan -> -358.698
+     └R: Dils Gols -> -717.496
+      └R: Rayna Hlarys -> -998.222
+       └R: Drelayn Relnim -> 392.059
+        ├L: Bralsea Marys -> 562.445
+        └R: Rovone Sarano -> -860.496
+         └L: Ilet Rivul -> -659.317
+          └R: Marena Salas -> 326.175
+  3: Tiras Seloth -> -179.367
+     ├L: Radene Salas -> -21.2819
+     │├L: Llerusa Falavel -> 19.9966
+     ││├L: Ulenea Androm -> 580.563
+     ││└R: Daynas Reloro -> 473.773
+     ││ ├L: Giren Llandu -> -435.85
+     ││ │├L: Fendel Gilvayn -> -303.229
+     ││ ││└R: Vindamea Helan -> 391.722
+     ││ ││ └L: Gulmon Golathyn -> -210.406
+     ││ │└R: Golveso Malvayn -> -992.125
+     ││ └R: Direr Sadrys -> -943.382
+     ││  └L: Llirala Romothran -> -450.481
+     ││   └R: Ralyn Rothrano -> 507.032
+     │└R: Fadren Sarothren -> -318.158
+     │ └R: Ginadura Saryoni -> -416.597
+     └R: Brara Uvalor -> -815.94
+      └L: Salyn Terilu -> -900.512
+       └L: Sanaso Serano -> -219.014
+  4: Vavran Faram -> 754.464
+     ├L: Sondryn Famori -> -396.255
+     │└L: Varasa Berer -> -813.072
+     │ └R: Vonos Braven -> -714.033
+     └R: Milvonu Fareloth -> -643.799
+      └R: Elvasea Nadram -> 447.74
+       └R: Seryn Uvelas -> 156.776
+        └L: Gilur Serethi -> -409.482
+  5: Briras Adryn -> -756.302
+     └R: Folvys Balvel -> -301.164
+      └R: Braynas Relnim -> -65.3951
+       ├L: Ienasa Drora -> 32.8929
+       │├L: Deldasa Davus -> 88.2185
+       │└R: Diren Omani -> 332.918
+       └R: Naral Teri -> 622.175
+        ├L: Favise Romothran -> -608.769
+        │└R: Llovyn Selaren -> -591.848
+        │ └R: Gomeso Surishpi -> 987.173
+        └R: Andilu Virith -> -686.04
+  6: Brathus Thenim -> -392.509
+     ├L: Tralayn Helothren -> 834.861
+     │├L: Hleras Helan -> 306.546
+     ││└L: Ather Andrani -> 241.514
+     ││ ├L: Evesa Andalas -> 871.967
+     ││ └R: Aras Drelas -> 105.164
+     ││  └L: Brelyna Athren -> -661.862
+     ││   └R: Brelar Beneran -> -440.737
+     │└R: Ridena Tedas -> 632.611
+     │ └L: Gulvilie Lloran -> 241.206
+     │  ├L: Brerama Herandus -> -941.526
+     │  └R: Tarvus Mavandes -> -812.117
+     └R: Bivale Valen -> -528.688
+      └R: Gulena Vedran -> 203.347
+  7: Miron Indrano -> 319.795
+     ├L: Forven Adram -> 638.219
+     │└R: Varon Arethi -> 615.339
+     │ └R: Rindral Gavos -> -143.528
+     │  └L: Methulu Belas -> -658.715
+     │   └R: Marayn Dredayn -> -230.595
+     └R: Brelyn Thilarvel -> 247.059
+quit

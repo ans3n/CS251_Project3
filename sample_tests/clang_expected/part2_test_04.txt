@@ -1,0 +1,886 @@
+insert YEb2I2G LsPQ
+minimum_key
+YEb2I2G
+insert as1QM2 QuskcL
+peek as1QM2
+QuskcL
+peek as1QM2
+QuskcL
+extract YEb2I2G
+LsPQ
+extract as1QM2
+QuskcL
+insert Ptlp4fF uHU3bgh
+minimum_key
+Ptlp4fF
+insert YB9g1W nCZii
+size
+2
+insert o6vaUEz 3vcrWrlG
+minimum_key
+Ptlp4fF
+extract o6vaUEz
+3vcrWrlG
+insert Oxe1FIMJ 3Kai
+insert r89Y tFscZ
+maximum_key
+r89Y
+size
+4
+print
+r89Y -> tFscZ
+└L: Oxe1FIMJ -> 3Kai
+ └R: YB9g1W -> nCZii
+  └L: Ptlp4fF -> uHU3bgh
+peek r89Y
+tFscZ
+insert 8LzgjSw RhKAqA
+minimum_key
+8LzgjSw
+maximum_key
+r89Y
+peek Ptlp4fF
+uHU3bgh
+insert yyEgaar tB2mhE
+insert 7qfcCi3 eOs9
+minimum_key
+7qfcCi3
+peek 8LzgjSw
+RhKAqA
+insert vyADvo0 2NtTvA
+extract Ptlp4fF
+uHU3bgh
+peek Oxe1FIMJ
+3Kai
+print
+Oxe1FIMJ -> 3Kai
+├L: 8LzgjSw -> RhKAqA
+│└L: 7qfcCi3 -> eOs9
+└R: YB9g1W -> nCZii
+ └R: vyADvo0 -> 2NtTvA
+  ├L: r89Y -> tFscZ
+  └R: yyEgaar -> tB2mhE
+empty
+false
+insert MUc2KHYZ VATRl
+maximum_key
+yyEgaar
+insert KCEErOd MfC7
+minimum_key
+7qfcCi3
+size
+9
+empty
+false
+print
+7qfcCi3 -> eOs9
+└R: 8LzgjSw -> RhKAqA
+ └R: KCEErOd -> MfC7
+  └R: Oxe1FIMJ -> 3Kai
+   ├L: MUc2KHYZ -> VATRl
+   └R: yyEgaar -> tB2mhE
+    └L: vyADvo0 -> 2NtTvA
+     └L: YB9g1W -> nCZii
+      └R: r89Y -> tFscZ
+maximum_key
+yyEgaar
+peek r89Y
+tFscZ
+insert pLlMy3mG j2njSLQ
+maximum_key
+yyEgaar
+peek YB9g1W
+nCZii
+extract YB9g1W
+nCZii
+peek vyADvo0
+2NtTvA
+insert WoVevC8 r1af1
+peek MUc2KHYZ
+VATRl
+print
+MUc2KHYZ -> VATRl
+├L: KCEErOd -> MfC7
+│└L: 8LzgjSw -> RhKAqA
+│ └L: 7qfcCi3 -> eOs9
+└R: Oxe1FIMJ -> 3Kai
+ └R: WoVevC8 -> r1af1
+  └R: vyADvo0 -> 2NtTvA
+   ├L: pLlMy3mG -> j2njSLQ
+   │└R: r89Y -> tFscZ
+   └R: yyEgaar -> tB2mhE
+insert Ka9P ZiB4ZmN
+minimum_key
+7qfcCi3
+peek vyADvo0
+2NtTvA
+extract 8LzgjSw
+RhKAqA
+print
+KCEErOd -> MfC7
+├L: 7qfcCi3 -> eOs9
+└R: vyADvo0 -> 2NtTvA
+ ├L: Ka9P -> ZiB4ZmN
+ │└R: MUc2KHYZ -> VATRl
+ │ └R: WoVevC8 -> r1af1
+ │  ├L: Oxe1FIMJ -> 3Kai
+ │  └R: pLlMy3mG -> j2njSLQ
+ │   └R: r89Y -> tFscZ
+ └R: yyEgaar -> tB2mhE
+peek vyADvo0
+2NtTvA
+print
+vyADvo0 -> 2NtTvA
+├L: KCEErOd -> MfC7
+│├L: 7qfcCi3 -> eOs9
+│└R: Ka9P -> ZiB4ZmN
+│ └R: MUc2KHYZ -> VATRl
+│  └R: WoVevC8 -> r1af1
+│   ├L: Oxe1FIMJ -> 3Kai
+│   └R: pLlMy3mG -> j2njSLQ
+│    └R: r89Y -> tFscZ
+└R: yyEgaar -> tB2mhE
+size
+10
+extract yyEgaar
+tB2mhE
+print
+vyADvo0 -> 2NtTvA
+└L: KCEErOd -> MfC7
+ ├L: 7qfcCi3 -> eOs9
+ └R: Ka9P -> ZiB4ZmN
+  └R: MUc2KHYZ -> VATRl
+   └R: WoVevC8 -> r1af1
+    ├L: Oxe1FIMJ -> 3Kai
+    └R: pLlMy3mG -> j2njSLQ
+     └R: r89Y -> tFscZ
+size
+9
+minimum_key
+7qfcCi3
+insert npABef1t slHUne
+maximum_key
+vyADvo0
+insert 8Dv6d 6O6spS
+maximum_key
+vyADvo0
+print
+vyADvo0 -> 2NtTvA
+└L: npABef1t -> slHUne
+ ├L: 8Dv6d -> 6O6spS
+ │├L: 7qfcCi3 -> eOs9
+ │└R: KCEErOd -> MfC7
+ │ └R: MUc2KHYZ -> VATRl
+ │  ├L: Ka9P -> ZiB4ZmN
+ │  └R: WoVevC8 -> r1af1
+ │   └L: Oxe1FIMJ -> 3Kai
+ └R: pLlMy3mG -> j2njSLQ
+  └R: r89Y -> tFscZ
+extract MUc2KHYZ
+VATRl
+size
+10
+minimum_key
+7qfcCi3
+print
+7qfcCi3 -> eOs9
+└R: Oxe1FIMJ -> 3Kai
+ ├L: 8Dv6d -> 6O6spS
+ │└R: KCEErOd -> MfC7
+ │ └R: Ka9P -> ZiB4ZmN
+ └R: npABef1t -> slHUne
+  ├L: WoVevC8 -> r1af1
+  └R: vyADvo0 -> 2NtTvA
+   └L: pLlMy3mG -> j2njSLQ
+    └R: r89Y -> tFscZ
+insert AThj Vb8et
+maximum_key
+vyADvo0
+peek Oxe1FIMJ
+3Kai
+insert bndwYJyj xYq3NH3
+print
+bndwYJyj -> xYq3NH3
+├L: Oxe1FIMJ -> 3Kai
+│├L: AThj -> Vb8et
+││├L: 7qfcCi3 -> eOs9
+│││└R: 8Dv6d -> 6O6spS
+││└R: KCEErOd -> MfC7
+││ └R: Ka9P -> ZiB4ZmN
+│└R: WoVevC8 -> r1af1
+└R: vyADvo0 -> 2NtTvA
+ └L: npABef1t -> slHUne
+  └R: pLlMy3mG -> j2njSLQ
+   └R: r89Y -> tFscZ
+insert xejQX7 NsqlTZ5Y
+insert jQFLU0 Fi2ACQB
+maximum_key
+xejQX7
+print
+xejQX7 -> NsqlTZ5Y
+└L: vyADvo0 -> 2NtTvA
+ └L: jQFLU0 -> Fi2ACQB
+  ├L: bndwYJyj -> xYq3NH3
+  │└L: Oxe1FIMJ -> 3Kai
+  │ ├L: AThj -> Vb8et
+  │ │├L: 7qfcCi3 -> eOs9
+  │ ││└R: 8Dv6d -> 6O6spS
+  │ │└R: KCEErOd -> MfC7
+  │ │ └R: Ka9P -> ZiB4ZmN
+  │ └R: WoVevC8 -> r1af1
+  └R: npABef1t -> slHUne
+   └R: pLlMy3mG -> j2njSLQ
+    └R: r89Y -> tFscZ
+size
+14
+minimum_key
+7qfcCi3
+print
+7qfcCi3 -> eOs9
+└R: vyADvo0 -> 2NtTvA
+ ├L: bndwYJyj -> xYq3NH3
+ │├L: AThj -> Vb8et
+ ││├L: 8Dv6d -> 6O6spS
+ ││└R: Oxe1FIMJ -> 3Kai
+ ││ ├L: KCEErOd -> MfC7
+ ││ │└R: Ka9P -> ZiB4ZmN
+ ││ └R: WoVevC8 -> r1af1
+ │└R: jQFLU0 -> Fi2ACQB
+ │ └R: npABef1t -> slHUne
+ │  └R: pLlMy3mG -> j2njSLQ
+ │   └R: r89Y -> tFscZ
+ └R: xejQX7 -> NsqlTZ5Y
+insert Tu5BU3wh pavpP4
+insert XJPaw gdG1
+insert XCsOM xLmGt6
+peek r89Y
+tFscZ
+print
+r89Y -> tFscZ
+├L: XCsOM -> xLmGt6
+│├L: WoVevC8 -> r1af1
+││└L: Tu5BU3wh -> pavpP4
+││ └L: 7qfcCi3 -> eOs9
+││  └R: AThj -> Vb8et
+││   ├L: 8Dv6d -> 6O6spS
+││   └R: Oxe1FIMJ -> 3Kai
+││    └L: KCEErOd -> MfC7
+││     └R: Ka9P -> ZiB4ZmN
+│└R: XJPaw -> gdG1
+│ └R: jQFLU0 -> Fi2ACQB
+│  ├L: bndwYJyj -> xYq3NH3
+│  └R: pLlMy3mG -> j2njSLQ
+│   └L: npABef1t -> slHUne
+└R: vyADvo0 -> 2NtTvA
+ └R: xejQX7 -> NsqlTZ5Y
+minimum_key
+7qfcCi3
+print
+7qfcCi3 -> eOs9
+└R: XCsOM -> xLmGt6
+ ├L: Tu5BU3wh -> pavpP4
+ │├L: AThj -> Vb8et
+ ││├L: 8Dv6d -> 6O6spS
+ ││└R: Oxe1FIMJ -> 3Kai
+ ││ └L: KCEErOd -> MfC7
+ ││  └R: Ka9P -> ZiB4ZmN
+ │└R: WoVevC8 -> r1af1
+ └R: r89Y -> tFscZ
+  ├L: XJPaw -> gdG1
+  │└R: jQFLU0 -> Fi2ACQB
+  │ ├L: bndwYJyj -> xYq3NH3
+  │ └R: pLlMy3mG -> j2njSLQ
+  │  └L: npABef1t -> slHUne
+  └R: vyADvo0 -> 2NtTvA
+   └R: xejQX7 -> NsqlTZ5Y
+minimum_key
+7qfcCi3
+insert TDO4VG9 CvPT
+print
+TDO4VG9 -> CvPT
+├L: 7qfcCi3 -> eOs9
+│└R: Oxe1FIMJ -> 3Kai
+│ └L: AThj -> Vb8et
+│  ├L: 8Dv6d -> 6O6spS
+│  └R: KCEErOd -> MfC7
+│   └R: Ka9P -> ZiB4ZmN
+└R: Tu5BU3wh -> pavpP4
+ └R: XCsOM -> xLmGt6
+  ├L: WoVevC8 -> r1af1
+  └R: r89Y -> tFscZ
+   ├L: XJPaw -> gdG1
+   │└R: jQFLU0 -> Fi2ACQB
+   │ ├L: bndwYJyj -> xYq3NH3
+   │ └R: pLlMy3mG -> j2njSLQ
+   │  └L: npABef1t -> slHUne
+   └R: vyADvo0 -> 2NtTvA
+    └R: xejQX7 -> NsqlTZ5Y
+size
+18
+print
+TDO4VG9 -> CvPT
+├L: 7qfcCi3 -> eOs9
+│└R: Oxe1FIMJ -> 3Kai
+│ └L: AThj -> Vb8et
+│  ├L: 8Dv6d -> 6O6spS
+│  └R: KCEErOd -> MfC7
+│   └R: Ka9P -> ZiB4ZmN
+└R: Tu5BU3wh -> pavpP4
+ └R: XCsOM -> xLmGt6
+  ├L: WoVevC8 -> r1af1
+  └R: r89Y -> tFscZ
+   ├L: XJPaw -> gdG1
+   │└R: jQFLU0 -> Fi2ACQB
+   │ ├L: bndwYJyj -> xYq3NH3
+   │ └R: pLlMy3mG -> j2njSLQ
+   │  └L: npABef1t -> slHUne
+   └R: vyADvo0 -> 2NtTvA
+    └R: xejQX7 -> NsqlTZ5Y
+peek XJPaw
+gdG1
+extract XCsOM
+xLmGt6
+minimum_key
+7qfcCi3
+print
+7qfcCi3 -> eOs9
+└R: XJPaw -> gdG1
+ ├L: TDO4VG9 -> CvPT
+ │├L: Oxe1FIMJ -> 3Kai
+ ││└L: AThj -> Vb8et
+ ││ ├L: 8Dv6d -> 6O6spS
+ ││ └R: KCEErOd -> MfC7
+ ││  └R: Ka9P -> ZiB4ZmN
+ │└R: Tu5BU3wh -> pavpP4
+ │ └R: WoVevC8 -> r1af1
+ └R: r89Y -> tFscZ
+  ├L: jQFLU0 -> Fi2ACQB
+  │├L: bndwYJyj -> xYq3NH3
+  │└R: pLlMy3mG -> j2njSLQ
+  │ └L: npABef1t -> slHUne
+  └R: vyADvo0 -> 2NtTvA
+   └R: xejQX7 -> NsqlTZ5Y
+peek Tu5BU3wh
+pavpP4
+empty
+false
+print
+Tu5BU3wh -> pavpP4
+├L: 7qfcCi3 -> eOs9
+│└R: TDO4VG9 -> CvPT
+│ └L: Oxe1FIMJ -> 3Kai
+│  └L: AThj -> Vb8et
+│   ├L: 8Dv6d -> 6O6spS
+│   └R: KCEErOd -> MfC7
+│    └R: Ka9P -> ZiB4ZmN
+└R: XJPaw -> gdG1
+ ├L: WoVevC8 -> r1af1
+ └R: r89Y -> tFscZ
+  ├L: jQFLU0 -> Fi2ACQB
+  │├L: bndwYJyj -> xYq3NH3
+  │└R: pLlMy3mG -> j2njSLQ
+  │ └L: npABef1t -> slHUne
+  └R: vyADvo0 -> 2NtTvA
+   └R: xejQX7 -> NsqlTZ5Y
+insert gEUOY rfmWG
+insert oAQmk7tR 7n7n
+size
+19
+insert O6UoO7LO rDeEp
+insert iLLC J5ENgV
+minimum_key
+7qfcCi3
+insert w4CwrFqT 7xh74mc
+extract TDO4VG9
+CvPT
+insert WBwjja N07RlaX
+print
+WBwjja -> N07RlaX
+├L: Tu5BU3wh -> pavpP4
+│└L: 7qfcCi3 -> eOs9
+│ └R: O6UoO7LO -> rDeEp
+│  ├L: AThj -> Vb8et
+│  │├L: 8Dv6d -> 6O6spS
+│  │└R: Ka9P -> ZiB4ZmN
+│  │ └L: KCEErOd -> MfC7
+│  └R: Oxe1FIMJ -> 3Kai
+└R: w4CwrFqT -> 7xh74mc
+ ├L: gEUOY -> rfmWG
+ │├L: WoVevC8 -> r1af1
+ ││└R: XJPaw -> gdG1
+ ││ └R: bndwYJyj -> xYq3NH3
+ │└R: iLLC -> J5ENgV
+ │ └R: r89Y -> tFscZ
+ │  ├L: oAQmk7tR -> 7n7n
+ │  │├L: jQFLU0 -> Fi2ACQB
+ │  ││└R: npABef1t -> slHUne
+ │  │└R: pLlMy3mG -> j2njSLQ
+ │  └R: vyADvo0 -> 2NtTvA
+ └R: xejQX7 -> NsqlTZ5Y
+extract WoVevC8
+r1af1
+insert JrXmwf1 hKampNx
+print
+JrXmwf1 -> hKampNx
+├L: 7qfcCi3 -> eOs9
+│└R: AThj -> Vb8et
+│ └L: 8Dv6d -> 6O6spS
+└R: WBwjja -> N07RlaX
+ ├L: Tu5BU3wh -> pavpP4
+ │└L: O6UoO7LO -> rDeEp
+ │ ├L: KCEErOd -> MfC7
+ │ │└R: Ka9P -> ZiB4ZmN
+ │ └R: Oxe1FIMJ -> 3Kai
+ └R: XJPaw -> gdG1
+  └R: gEUOY -> rfmWG
+   ├L: bndwYJyj -> xYq3NH3
+   └R: w4CwrFqT -> 7xh74mc
+    ├L: iLLC -> J5ENgV
+    │└R: r89Y -> tFscZ
+    │ ├L: oAQmk7tR -> 7n7n
+    │ │├L: jQFLU0 -> Fi2ACQB
+    │ ││└R: npABef1t -> slHUne
+    │ │└R: pLlMy3mG -> j2njSLQ
+    │ └R: vyADvo0 -> 2NtTvA
+    └R: xejQX7 -> NsqlTZ5Y
+insert cdL9kITq 5eTqqi
+extract iLLC
+J5ENgV
+size
+22
+maximum_key
+xejQX7
+extract 7qfcCi3
+eOs9
+extract O6UoO7LO
+rDeEp
+insert 4BC8Ipo qQop
+minimum_key
+4BC8Ipo
+print
+4BC8Ipo -> qQop
+└R: JrXmwf1 -> hKampNx
+ ├L: 8Dv6d -> 6O6spS
+ │└R: AThj -> Vb8et
+ └R: Oxe1FIMJ -> 3Kai
+  ├L: KCEErOd -> MfC7
+  │└R: Ka9P -> ZiB4ZmN
+  └R: xejQX7 -> NsqlTZ5Y
+   └L: jQFLU0 -> Fi2ACQB
+    ├L: XJPaw -> gdG1
+    │├L: Tu5BU3wh -> pavpP4
+    ││└R: WBwjja -> N07RlaX
+    │└R: cdL9kITq -> 5eTqqi
+    │ ├L: bndwYJyj -> xYq3NH3
+    │ └R: gEUOY -> rfmWG
+    └R: w4CwrFqT -> 7xh74mc
+     └L: r89Y -> tFscZ
+      ├L: oAQmk7tR -> 7n7n
+      │├L: npABef1t -> slHUne
+      │└R: pLlMy3mG -> j2njSLQ
+      └R: vyADvo0 -> 2NtTvA
+insert 0wUTdWCI vaij
+size
+22
+peek vyADvo0
+2NtTvA
+insert VpeHOM VV1Fzvn0
+minimum_key
+0wUTdWCI
+maximum_key
+xejQX7
+minimum_key
+0wUTdWCI
+insert Rt3T GDZT8YG
+insert cZNp5Qr fWGTwo0
+empty
+false
+print
+cZNp5Qr -> fWGTwo0
+├L: Rt3T -> GDZT8YG
+│├L: 0wUTdWCI -> vaij
+││└R: 4BC8Ipo -> qQop
+││ └R: Oxe1FIMJ -> 3Kai
+││  └L: JrXmwf1 -> hKampNx
+││   ├L: 8Dv6d -> 6O6spS
+││   │└R: AThj -> Vb8et
+││   └R: KCEErOd -> MfC7
+││    └R: Ka9P -> ZiB4ZmN
+│└R: VpeHOM -> VV1Fzvn0
+│ ├L: Tu5BU3wh -> pavpP4
+│ └R: XJPaw -> gdG1
+│  ├L: WBwjja -> N07RlaX
+│  └R: bndwYJyj -> xYq3NH3
+└R: vyADvo0 -> 2NtTvA
+ ├L: jQFLU0 -> Fi2ACQB
+ │├L: cdL9kITq -> 5eTqqi
+ ││└R: gEUOY -> rfmWG
+ │└R: r89Y -> tFscZ
+ │ └L: oAQmk7tR -> 7n7n
+ │  ├L: npABef1t -> slHUne
+ │  └R: pLlMy3mG -> j2njSLQ
+ └R: xejQX7 -> NsqlTZ5Y
+  └L: w4CwrFqT -> 7xh74mc
+insert ewkbI4nj NBY0zZs
+empty
+false
+maximum_key
+xejQX7
+print
+xejQX7 -> NsqlTZ5Y
+└L: ewkbI4nj -> NBY0zZs
+ ├L: cZNp5Qr -> fWGTwo0
+ │├L: Rt3T -> GDZT8YG
+ ││├L: 0wUTdWCI -> vaij
+ │││└R: 4BC8Ipo -> qQop
+ │││ └R: Oxe1FIMJ -> 3Kai
+ │││  └L: JrXmwf1 -> hKampNx
+ │││   ├L: 8Dv6d -> 6O6spS
+ │││   │└R: AThj -> Vb8et
+ │││   └R: KCEErOd -> MfC7
+ │││    └R: Ka9P -> ZiB4ZmN
+ ││└R: VpeHOM -> VV1Fzvn0
+ ││ ├L: Tu5BU3wh -> pavpP4
+ ││ └R: XJPaw -> gdG1
+ ││  ├L: WBwjja -> N07RlaX
+ ││  └R: bndwYJyj -> xYq3NH3
+ │└R: cdL9kITq -> 5eTqqi
+ └R: vyADvo0 -> 2NtTvA
+  ├L: jQFLU0 -> Fi2ACQB
+  │├L: gEUOY -> rfmWG
+  │└R: r89Y -> tFscZ
+  │ └L: oAQmk7tR -> 7n7n
+  │  ├L: npABef1t -> slHUne
+  │  └R: pLlMy3mG -> j2njSLQ
+  └R: w4CwrFqT -> 7xh74mc
+minimum_key
+0wUTdWCI
+insert uVXaQM SVbp
+size
+27
+insert 5iVC 4b2s
+size
+28
+maximum_key
+xejQX7
+peek uVXaQM
+SVbp
+extract cZNp5Qr
+fWGTwo0
+print
+cdL9kITq -> 5eTqqi
+├L: Rt3T -> GDZT8YG
+│├L: 5iVC -> 4b2s
+││├L: 0wUTdWCI -> vaij
+│││└R: 4BC8Ipo -> qQop
+││└R: Oxe1FIMJ -> 3Kai
+││ └L: 8Dv6d -> 6O6spS
+││  └R: JrXmwf1 -> hKampNx
+││   ├L: AThj -> Vb8et
+││   └R: KCEErOd -> MfC7
+││    └R: Ka9P -> ZiB4ZmN
+│└R: VpeHOM -> VV1Fzvn0
+│ ├L: Tu5BU3wh -> pavpP4
+│ └R: XJPaw -> gdG1
+│  ├L: WBwjja -> N07RlaX
+│  └R: bndwYJyj -> xYq3NH3
+└R: ewkbI4nj -> NBY0zZs
+ └R: uVXaQM -> SVbp
+  ├L: r89Y -> tFscZ
+  │└L: jQFLU0 -> Fi2ACQB
+  │ ├L: gEUOY -> rfmWG
+  │ └R: oAQmk7tR -> 7n7n
+  │  ├L: npABef1t -> slHUne
+  │  └R: pLlMy3mG -> j2njSLQ
+  └R: xejQX7 -> NsqlTZ5Y
+   └L: vyADvo0 -> 2NtTvA
+    └R: w4CwrFqT -> 7xh74mc
+insert MW5m W5Ep
+print
+MW5m -> W5Ep
+├L: 5iVC -> 4b2s
+│├L: 0wUTdWCI -> vaij
+││└R: 4BC8Ipo -> qQop
+│└R: JrXmwf1 -> hKampNx
+│ ├L: 8Dv6d -> 6O6spS
+│ │└R: AThj -> Vb8et
+│ └R: Ka9P -> ZiB4ZmN
+│  └L: KCEErOd -> MfC7
+└R: Rt3T -> GDZT8YG
+ ├L: Oxe1FIMJ -> 3Kai
+ └R: cdL9kITq -> 5eTqqi
+  ├L: VpeHOM -> VV1Fzvn0
+  │├L: Tu5BU3wh -> pavpP4
+  │└R: XJPaw -> gdG1
+  │ ├L: WBwjja -> N07RlaX
+  │ └R: bndwYJyj -> xYq3NH3
+  └R: ewkbI4nj -> NBY0zZs
+   └R: uVXaQM -> SVbp
+    ├L: r89Y -> tFscZ
+    │└L: jQFLU0 -> Fi2ACQB
+    │ ├L: gEUOY -> rfmWG
+    │ └R: oAQmk7tR -> 7n7n
+    │  ├L: npABef1t -> slHUne
+    │  └R: pLlMy3mG -> j2njSLQ
+    └R: xejQX7 -> NsqlTZ5Y
+     └L: vyADvo0 -> 2NtTvA
+      └R: w4CwrFqT -> 7xh74mc
+insert yGT4 J90y2n
+insert 3k4z4 zqOnmE2
+insert 0fHSp4r fwLKJO
+empty
+false
+minimum_key
+0fHSp4r
+insert lYVcB8 4YSsit
+print
+lYVcB8 -> 4YSsit
+├L: 0wUTdWCI -> vaij
+│├L: 0fHSp4r -> fwLKJO
+│└R: Rt3T -> GDZT8YG
+│ ├L: 3k4z4 -> zqOnmE2
+│ │└R: 5iVC -> 4b2s
+│ │ ├L: 4BC8Ipo -> qQop
+│ │ └R: MW5m -> W5Ep
+│ │  ├L: JrXmwf1 -> hKampNx
+│ │  │├L: 8Dv6d -> 6O6spS
+│ │  ││└R: AThj -> Vb8et
+│ │  │└R: Ka9P -> ZiB4ZmN
+│ │  │ └L: KCEErOd -> MfC7
+│ │  └R: Oxe1FIMJ -> 3Kai
+│ └R: ewkbI4nj -> NBY0zZs
+│  ├L: cdL9kITq -> 5eTqqi
+│  │└L: VpeHOM -> VV1Fzvn0
+│  │ ├L: Tu5BU3wh -> pavpP4
+│  │ └R: XJPaw -> gdG1
+│  │  ├L: WBwjja -> N07RlaX
+│  │  └R: bndwYJyj -> xYq3NH3
+│  └R: jQFLU0 -> Fi2ACQB
+│   └L: gEUOY -> rfmWG
+└R: yGT4 -> J90y2n
+ └L: uVXaQM -> SVbp
+  ├L: r89Y -> tFscZ
+  │└L: npABef1t -> slHUne
+  │ └R: oAQmk7tR -> 7n7n
+  │  └R: pLlMy3mG -> j2njSLQ
+  └R: xejQX7 -> NsqlTZ5Y
+   └L: vyADvo0 -> 2NtTvA
+    └R: w4CwrFqT -> 7xh74mc
+size
+32
+insert lJlct sCZ7hzO
+minimum_key
+0fHSp4r
+maximum_key
+yGT4
+peek KCEErOd
+MfC7
+extract xejQX7
+NsqlTZ5Y
+insert 8BQwGKT qHg5Fys
+peek VpeHOM
+VV1Fzvn0
+insert QleeT8Y XGJyGH
+insert Kjbpsu nsv778wB
+insert Jclr 2uA9MR
+peek XJPaw
+gdG1
+insert z1ZHjV PYkU0Xvd
+insert fuS0 tN2kpbW6
+insert H31B3gO Kd5JQ
+insert h5PGMd 3m4oA
+peek MW5m
+W5Ep
+minimum_key
+0fHSp4r
+print
+0fHSp4r -> fwLKJO
+└R: H31B3gO -> Kd5JQ
+ ├L: 8Dv6d -> 6O6spS
+ │├L: 0wUTdWCI -> vaij
+ ││└R: 8BQwGKT -> qHg5Fys
+ ││ └L: 5iVC -> 4b2s
+ ││  └L: 3k4z4 -> zqOnmE2
+ ││   └R: 4BC8Ipo -> qQop
+ │└R: AThj -> Vb8et
+ └R: MW5m -> W5Ep
+  ├L: Jclr -> 2uA9MR
+  │└R: Kjbpsu -> nsv778wB
+  │ └L: KCEErOd -> MfC7
+  │  ├L: JrXmwf1 -> hKampNx
+  │  └R: Ka9P -> ZiB4ZmN
+  └R: h5PGMd -> 3m4oA
+   ├L: fuS0 -> tN2kpbW6
+   │├L: XJPaw -> gdG1
+   ││├L: VpeHOM -> VV1Fzvn0
+   │││├L: Oxe1FIMJ -> 3Kai
+   ││││└R: QleeT8Y -> XGJyGH
+   ││││ └R: Rt3T -> GDZT8YG
+   ││││  └R: Tu5BU3wh -> pavpP4
+   │││└R: WBwjja -> N07RlaX
+   ││└R: cdL9kITq -> 5eTqqi
+   ││ ├L: bndwYJyj -> xYq3NH3
+   ││ └R: ewkbI4nj -> NBY0zZs
+   │└R: gEUOY -> rfmWG
+   └R: lJlct -> sCZ7hzO
+    ├L: jQFLU0 -> Fi2ACQB
+    └R: z1ZHjV -> PYkU0Xvd
+     └L: yGT4 -> J90y2n
+      └L: uVXaQM -> SVbp
+       ├L: lYVcB8 -> 4YSsit
+       │└R: r89Y -> tFscZ
+       │ └L: npABef1t -> slHUne
+       │  └R: oAQmk7tR -> 7n7n
+       │   └R: pLlMy3mG -> j2njSLQ
+       └R: vyADvo0 -> 2NtTvA
+        └R: w4CwrFqT -> 7xh74mc
+insert QaDp YE0v
+insert RtisU cAPi
+extract Rt3T
+GDZT8YG
+insert 8R8gOw kp5ggC87
+insert 7nDC BC8nC
+empty
+false
+extract pLlMy3mG
+j2njSLQ
+empty
+false
+extract 3k4z4
+zqOnmE2
+insert KGdJzE4t MXpyEVp
+print
+KGdJzE4t -> MXpyEVp
+├L: 8R8gOw -> kp5ggC87
+│├L: 4BC8Ipo -> qQop
+││├L: 0fHSp4r -> fwLKJO
+│││└R: 0wUTdWCI -> vaij
+││└R: 7nDC -> BC8nC
+││ ├L: 5iVC -> 4b2s
+││ └R: 8Dv6d -> 6O6spS
+││  └L: 8BQwGKT -> qHg5Fys
+│└R: H31B3gO -> Kd5JQ
+│ ├L: AThj -> Vb8et
+│ └R: Jclr -> 2uA9MR
+│  └R: KCEErOd -> MfC7
+│   └L: JrXmwf1 -> hKampNx
+└R: RtisU -> cAPi
+ ├L: QaDp -> YE0v
+ │├L: MW5m -> W5Ep
+ ││├L: Kjbpsu -> nsv778wB
+ │││└L: Ka9P -> ZiB4ZmN
+ ││└R: Oxe1FIMJ -> 3Kai
+ │└R: QleeT8Y -> XGJyGH
+ └R: r89Y -> tFscZ
+  ├L: h5PGMd -> 3m4oA
+  │├L: fuS0 -> tN2kpbW6
+  ││├L: VpeHOM -> VV1Fzvn0
+  │││├L: Tu5BU3wh -> pavpP4
+  │││└R: XJPaw -> gdG1
+  │││ ├L: WBwjja -> N07RlaX
+  │││ └R: cdL9kITq -> 5eTqqi
+  │││  ├L: bndwYJyj -> xYq3NH3
+  │││  └R: ewkbI4nj -> NBY0zZs
+  ││└R: gEUOY -> rfmWG
+  │└R: lJlct -> sCZ7hzO
+  │ ├L: jQFLU0 -> Fi2ACQB
+  │ └R: lYVcB8 -> 4YSsit
+  │  └R: oAQmk7tR -> 7n7n
+  │   └L: npABef1t -> slHUne
+  └R: z1ZHjV -> PYkU0Xvd
+   └L: uVXaQM -> SVbp
+    └R: yGT4 -> J90y2n
+     └L: vyADvo0 -> 2NtTvA
+      └R: w4CwrFqT -> 7xh74mc
+minimum_key
+0fHSp4r
+insert RVp2q VEUL
+insert vpseCJ 8rgCOi
+peek AThj
+Vb8et
+minimum_key
+0fHSp4r
+insert kBq89 H8ZQDfx4
+insert iumlNPx 2z85
+insert UF0zuyH yT1GfX
+extract WBwjja
+N07RlaX
+extract vyADvo0
+2NtTvA
+extract KGdJzE4t
+MXpyEVp
+minimum_key
+0fHSp4r
+insert l3ipRU aOILyo
+peek 7nDC
+BC8nC
+maximum_key
+z1ZHjV
+peek lJlct
+sCZ7hzO
+maximum_key
+z1ZHjV
+insert U4CYLZ 1Yy34IV
+insert 5JayQKzx Yk7SL
+print
+5JayQKzx -> Yk7SL
+├L: 0fHSp4r -> fwLKJO
+│└R: 4BC8Ipo -> qQop
+│ └L: 0wUTdWCI -> vaij
+└R: Ka9P -> ZiB4ZmN
+ ├L: 7nDC -> BC8nC
+ │├L: 5iVC -> 4b2s
+ │└R: AThj -> Vb8et
+ │ ├L: 8R8gOw -> kp5ggC87
+ │ │└L: 8Dv6d -> 6O6spS
+ │ │ └L: 8BQwGKT -> qHg5Fys
+ │ └R: H31B3gO -> Kd5JQ
+ │  └R: Jclr -> 2uA9MR
+ │   └R: KCEErOd -> MfC7
+ │    └L: JrXmwf1 -> hKampNx
+ └R: U4CYLZ -> 1Yy34IV
+  ├L: RVp2q -> VEUL
+  │├L: QleeT8Y -> XGJyGH
+  ││└L: QaDp -> YE0v
+  ││ └L: MW5m -> W5Ep
+  ││  ├L: Kjbpsu -> nsv778wB
+  ││  └R: Oxe1FIMJ -> 3Kai
+  │└R: Tu5BU3wh -> pavpP4
+  │ └L: RtisU -> cAPi
+  └R: z1ZHjV -> PYkU0Xvd
+   └L: lJlct -> sCZ7hzO
+    ├L: XJPaw -> gdG1
+    │├L: UF0zuyH -> yT1GfX
+    ││└R: VpeHOM -> VV1Fzvn0
+    │└R: l3ipRU -> aOILyo
+    │ └L: kBq89 -> H8ZQDfx4
+    │  └L: iumlNPx -> 2z85
+    │   ├L: fuS0 -> tN2kpbW6
+    │   │├L: cdL9kITq -> 5eTqqi
+    │   ││├L: bndwYJyj -> xYq3NH3
+    │   ││└R: ewkbI4nj -> NBY0zZs
+    │   │└R: h5PGMd -> 3m4oA
+    │   │ └L: gEUOY -> rfmWG
+    │   └R: jQFLU0 -> Fi2ACQB
+    └R: w4CwrFqT -> 7xh74mc
+     ├L: vpseCJ -> 8rgCOi
+     │└L: r89Y -> tFscZ
+     │ ├L: lYVcB8 -> 4YSsit
+     │ │└R: oAQmk7tR -> 7n7n
+     │ │ └L: npABef1t -> slHUne
+     │ └R: uVXaQM -> SVbp
+     └R: yGT4 -> J90y2n
+peek kBq89
+H8ZQDfx4
+size
+47
+peek cdL9kITq
+5eTqqi
+minimum_key
+0fHSp4r
+empty
+false
+insert Tz7l29x dR8n
+empty
+false
+quit

@@ -1,0 +1,80 @@
+insert xn3ZpHY krfKnkt
+peek xn3ZpHY
+krfKnkt
+size
+1
+peek xn3ZpHY
+krfKnkt
+bucket_count
+15
+insert XgO6U8g 63Fcpz
+insert 8m0e6 GNybbzT
+insert geuqYFr4 6SPpzr2P
+print
+  0: [empty]
+  1: (1) xn3ZpHY -> krfKnkt
+  2: [empty]
+  3: (3) 8m0e6 -> GNybbzT
+  4: [empty]
+  5: (5) geuqYFr4 -> 6SPpzr2P
+  6: [empty]
+  7: [empty]
+  8: [empty]
+  9: [empty]
+ 10: [empty]
+ 11: (11) XgO6U8g -> 63Fcpz
+ 12: [empty]
+ 13: [empty]
+ 14: [empty]
+insert gp9XU5b EGgwgbT1
+extract xn3ZpHY
+krfKnkt
+size
+4
+resize 4
+extract XgO6U8g
+63Fcpz
+hash_code 8m0e6
+1
+extract gp9XU5b
+EGgwgbT1
+print
+  0: [empty]
+  1: (1) 8m0e6 -> GNybbzT
+  2: (2) geuqYFr4 -> 6SPpzr2P
+  3: [empty]
+empty
+false
+insert CYXtB9Jf qMmc
+insert LPPBeXu qq2k
+hash_code LPPBeXu
+2
+print
+  0: (2) LPPBeXu -> qq2k
+  1: (1) 8m0e6 -> GNybbzT
+  2: (2) geuqYFr4 -> 6SPpzr2P
+  3: (1) CYXtB9Jf -> qMmc
+bucket_count
+4
+peek CYXtB9Jf
+qMmc
+insert pf5gbJ LEPt8xr
+print
+  0: [empty]
+  1: [empty]
+  2: (2) LPPBeXu -> qq2k
+  3: [empty]
+  4: (4) pf5gbJ -> LEPt8xr
+  5: (5) 8m0e6 -> GNybbzT
+  6: (6) geuqYFr4 -> 6SPpzr2P
+  7: (5) CYXtB9Jf -> qMmc
+extract pf5gbJ
+LEPt8xr
+insert 0KqfQc1F AEmLgK
+insert ySc7j HAV3jNER
+peek 8m0e6
+GNybbzT
+insert 60S9rh kUct
+size
+7
+quit

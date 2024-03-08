@@ -1,0 +1,398 @@
+insert Tuls Uvayn Ivulen Andrethi
+extract Tuls Uvayn
+Ivulen Andrethi
+extract Bravosi Verethi
+Key does not exist!
+extract Eldrar Uvalor
+Key does not exist!
+extract Dalin Areth
+Key does not exist!
+maximum_key
+Tree is empty!
+extract Seryne Drelas
+Key does not exist!
+minimum_key
+Tree is empty!
+insert Dalvus Selvilo Ulvil Llaram
+insert Talmsa Arethan Gidar Rilvayn
+empty
+false
+size
+2
+insert Andril Nothryon Sevame Sandas
+print
+Andril Nothryon -> Sevame Sandas
+├L: Talmsa Arethan -> Gidar Rilvayn
+└R: Dalvus Selvilo -> Ulvil Llaram
+peek Dalvus Selvilo
+Ulvil Llaram
+peek Talmsa Arethan
+Gidar Rilvayn
+empty
+false
+extract Talmsa Arethan
+Gidar Rilvayn
+print
+Andril Nothryon -> Sevame Sandas
+└R: Dalvus Selvilo -> Ulvil Llaram
+insert Drandryn Relarys Llavesa Faralen
+insert Adren Drothan Telis Dulfass
+extract Adren Drothan
+Telis Dulfass
+maximum_key
+Dalvus Selvilo
+print
+Dalvus Selvilo -> Ulvil Llaram
+└L: Drandryn Relarys -> Llavesa Faralen
+ └L: Andril Nothryon -> Sevame Sandas
+insert Arns Tharyon Elvasea Deras
+extract Andril Nothryon
+Sevame Sandas
+insert Dridas Drenim Endase Surishpi
+extract Arns Tharyon
+Elvasea Deras
+extract Drandryn Relarys
+Llavesa Faralen
+extract Dalvus Selvilo
+Ulvil Llaram
+print
+Dridas Drenim -> Endase Surishpi
+maximum_key
+Dridas Drenim
+peek Dridas Drenim
+Endase Surishpi
+print
+Dridas Drenim -> Endase Surishpi
+insert Daynali Andalor Nerer Selas
+insert Volene Thindo Ernse Sarathram
+insert Diren Reloro Anel Lloryn
+maximum_key
+Volene Thindo
+insert Riraynea Faryon Dronos Sari
+maximum_key
+Volene Thindo
+insert Faven Sethri Meder Varys
+insert Roner Belan Fadren Dralayn
+peek Daynali Andalor
+Nerer Selas
+extract Volene Thindo
+Ernse Sarathram
+empty
+false
+peek Diren Reloro
+Anel Lloryn
+extract Faven Sethri
+Meder Varys
+size
+5
+extract Daynali Andalor
+Nerer Selas
+size
+4
+minimum_key
+Roner Belan
+insert Galms Reni Rilver Llothri
+print
+Galms Reni -> Rilver Llothri
+└L: Roner Belan -> Fadren Dralayn
+ └R: Diren Reloro -> Anel Lloryn
+  └L: Riraynea Faryon -> Dronos Sari
+   └L: Dridas Drenim -> Endase Surishpi
+insert Fevus Salen Drelyne Brenos
+insert Alveno Sathryon Bralen Aravel
+insert Bervaso Fareloth Gathal Valen
+insert Selman Verelas Roner Benelas
+insert Guls Sethandus Gindrala Hlen
+insert Nirasa Othralen Nedeni Goran
+print
+Nirasa Othralen -> Nedeni Goran
+├L: Bervaso Fareloth -> Gathal Valen
+│├L: Roner Belan -> Fadren Dralayn
+││└R: Dridas Drenim -> Endase Surishpi
+│└R: Riraynea Faryon -> Dronos Sari
+└R: Alveno Sathryon -> Bralen Aravel
+ ├L: Galms Reni -> Rilver Llothri
+ │├L: Diren Reloro -> Anel Lloryn
+ │└R: Fevus Salen -> Drelyne Brenos
+ └R: Guls Sethandus -> Gindrala Hlen
+  └R: Selman Verelas -> Roner Benelas
+insert Daldur Salandas Uvisea Beren
+insert Varvsa Thindo Golena Nadram
+minimum_key
+Roner Belan
+maximum_key
+Selman Verelas
+insert Salas Sethandas Daral Ulom
+insert Dralosa Elarven Bilsa Radas
+insert Tedryn Ulessen Tadera Norvayn
+print
+Tedryn Ulessen -> Tadera Norvayn
+├L: Salas Sethandas -> Daral Ulom
+│├L: Dralosa Elarven -> Bilsa Radas
+││├L: Roner Belan -> Fadren Dralayn
+│││└R: Dridas Drenim -> Endase Surishpi
+││└R: Daldur Salandas -> Uvisea Beren
+││ ├L: Bervaso Fareloth -> Gathal Valen
+││ │└R: Nirasa Othralen -> Nedeni Goran
+││ │ ├L: Riraynea Faryon -> Dronos Sari
+││ │ └R: Galms Reni -> Rilver Llothri
+││ │  └L: Diren Reloro -> Anel Lloryn
+││ └R: Alveno Sathryon -> Bralen Aravel
+││  └L: Fevus Salen -> Drelyne Brenos
+│└R: Varvsa Thindo -> Golena Nadram
+│ └L: Guls Sethandus -> Gindrala Hlen
+└R: Selman Verelas -> Roner Benelas
+minimum_key
+Roner Belan
+insert Sevyni Irathi Tredyn Verethi
+minimum_key
+Roner Belan
+print
+Roner Belan -> Fadren Dralayn
+└R: Sevyni Irathi -> Tredyn Verethi
+ ├L: Dralosa Elarven -> Bilsa Radas
+ │├L: Dridas Drenim -> Endase Surishpi
+ │└R: Bervaso Fareloth -> Gathal Valen
+ │ └R: Riraynea Faryon -> Dronos Sari
+ └R: Tedryn Ulessen -> Tadera Norvayn
+  ├L: Salas Sethandas -> Daral Ulom
+  │├L: Daldur Salandas -> Uvisea Beren
+  ││├L: Nirasa Othralen -> Nedeni Goran
+  │││└R: Galms Reni -> Rilver Llothri
+  │││ └L: Diren Reloro -> Anel Lloryn
+  ││└R: Alveno Sathryon -> Bralen Aravel
+  ││ └L: Fevus Salen -> Drelyne Brenos
+  │└R: Varvsa Thindo -> Golena Nadram
+  │ └L: Guls Sethandus -> Gindrala Hlen
+  └R: Selman Verelas -> Roner Benelas
+peek Diren Reloro
+Anel Lloryn
+minimum_key
+Roner Belan
+insert Nilas Saryoni Tralayn Aradil
+extract Riraynea Faryon
+Dronos Sari
+extract Bervaso Fareloth
+Gathal Valen
+peek Arvela Sarobar
+Key does not exist!
+peek Alveno Sathryon
+Bralen Aravel
+insert Fieryra Tharys Dils Falavel
+insert Darns Dral Hloris Tharam
+extract Sevyni Irathi
+Tredyn Verethi
+extract Alveno Sathryon
+Bralen Aravel
+insert Milyn Helni Dreynis Falandas
+print
+Milyn Helni -> Dreynis Falandas
+├L: Darns Dral -> Hloris Tharam
+│├L: Roner Belan -> Fadren Dralayn
+│└R: Dralosa Elarven -> Bilsa Radas
+│ └L: Dridas Drenim -> Endase Surishpi
+└R: Salas Sethandas -> Daral Ulom
+ ├L: Nirasa Othralen -> Nedeni Goran
+ │└R: Nilas Saryoni -> Tralayn Aradil
+ │ └L: Diren Reloro -> Anel Lloryn
+ │  └R: Daldur Salandas -> Uvisea Beren
+ │   ├L: Galms Reni -> Rilver Llothri
+ │   └R: Fevus Salen -> Drelyne Brenos
+ └R: Fieryra Tharys -> Dils Falavel
+  ├L: Guls Sethandus -> Gindrala Hlen
+  └R: Tedryn Ulessen -> Tadera Norvayn
+   ├L: Varvsa Thindo -> Golena Nadram
+   └R: Selman Verelas -> Roner Benelas
+peek Roner Belan
+Fadren Dralayn
+insert Hort Herendas Rarusu Dren
+minimum_key
+Roner Belan
+print
+Roner Belan -> Fadren Dralayn
+└R: Hort Herendas -> Rarusu Dren
+ ├L: Milyn Helni -> Dreynis Falandas
+ │└L: Darns Dral -> Hloris Tharam
+ │ └R: Dralosa Elarven -> Bilsa Radas
+ │  └L: Dridas Drenim -> Endase Surishpi
+ └R: Nirasa Othralen -> Nedeni Goran
+  └R: Salas Sethandas -> Daral Ulom
+   ├L: Nilas Saryoni -> Tralayn Aradil
+   │└L: Diren Reloro -> Anel Lloryn
+   │ └R: Daldur Salandas -> Uvisea Beren
+   │  ├L: Galms Reni -> Rilver Llothri
+   │  └R: Fevus Salen -> Drelyne Brenos
+   └R: Fieryra Tharys -> Dils Falavel
+    ├L: Guls Sethandus -> Gindrala Hlen
+    └R: Tedryn Ulessen -> Tadera Norvayn
+     ├L: Varvsa Thindo -> Golena Nadram
+     └R: Selman Verelas -> Roner Benelas
+extract Selman Verelas
+Roner Benelas
+insert Goler Adryn Mindeli Tobor
+print
+Goler Adryn -> Mindeli Tobor
+└R: Roner Belan -> Fadren Dralayn
+ └R: Hort Herendas -> Rarusu Dren
+  ├L: Milyn Helni -> Dreynis Falandas
+  │└L: Darns Dral -> Hloris Tharam
+  │ └R: Dralosa Elarven -> Bilsa Radas
+  │  └L: Dridas Drenim -> Endase Surishpi
+  └R: Salas Sethandas -> Daral Ulom
+   ├L: Nirasa Othralen -> Nedeni Goran
+   │└R: Nilas Saryoni -> Tralayn Aradil
+   │ └L: Diren Reloro -> Anel Lloryn
+   │  └R: Daldur Salandas -> Uvisea Beren
+   │   ├L: Galms Reni -> Rilver Llothri
+   │   └R: Fevus Salen -> Drelyne Brenos
+   └R: Tedryn Ulessen -> Tadera Norvayn
+    └L: Fieryra Tharys -> Dils Falavel
+     ├L: Guls Sethandus -> Gindrala Hlen
+     └R: Varvsa Thindo -> Golena Nadram
+maximum_key
+Tedryn Ulessen
+peek Fieryra Tharys
+Dils Falavel
+size
+18
+insert Fovus Nolar Taren Andalor
+print
+Fovus Nolar -> Taren Andalor
+├L: Roner Belan -> Fadren Dralayn
+│├L: Goler Adryn -> Mindeli Tobor
+│└R: Hort Herendas -> Rarusu Dren
+│ └L: Milyn Helni -> Dreynis Falandas
+│  └L: Darns Dral -> Hloris Tharam
+│   └R: Dralosa Elarven -> Bilsa Radas
+│    └L: Dridas Drenim -> Endase Surishpi
+└R: Fieryra Tharys -> Dils Falavel
+ ├L: Salas Sethandas -> Daral Ulom
+ │├L: Nirasa Othralen -> Nedeni Goran
+ ││└R: Nilas Saryoni -> Tralayn Aradil
+ ││ └L: Diren Reloro -> Anel Lloryn
+ ││  └R: Daldur Salandas -> Uvisea Beren
+ ││   ├L: Galms Reni -> Rilver Llothri
+ ││   └R: Fevus Salen -> Drelyne Brenos
+ │└R: Guls Sethandus -> Gindrala Hlen
+ └R: Tedryn Ulessen -> Tadera Norvayn
+  └L: Varvsa Thindo -> Golena Nadram
+empty
+false
+maximum_key
+Tedryn Ulessen
+minimum_key
+Goler Adryn
+size
+19
+minimum_key
+Goler Adryn
+print
+Goler Adryn -> Mindeli Tobor
+└R: Fieryra Tharys -> Dils Falavel
+ ├L: Roner Belan -> Fadren Dralayn
+ │└R: Fovus Nolar -> Taren Andalor
+ │ ├L: Hort Herendas -> Rarusu Dren
+ │ │└L: Milyn Helni -> Dreynis Falandas
+ │ │ └L: Darns Dral -> Hloris Tharam
+ │ │  └R: Dralosa Elarven -> Bilsa Radas
+ │ │   └L: Dridas Drenim -> Endase Surishpi
+ │ └R: Salas Sethandas -> Daral Ulom
+ │  ├L: Nirasa Othralen -> Nedeni Goran
+ │  │└R: Nilas Saryoni -> Tralayn Aradil
+ │  │ └L: Diren Reloro -> Anel Lloryn
+ │  │  └R: Daldur Salandas -> Uvisea Beren
+ │  │   ├L: Galms Reni -> Rilver Llothri
+ │  │   └R: Fevus Salen -> Drelyne Brenos
+ │  └R: Guls Sethandus -> Gindrala Hlen
+ └R: Tedryn Ulessen -> Tadera Norvayn
+  └L: Varvsa Thindo -> Golena Nadram
+empty
+false
+insert Dralosa Elarven Almsi Nolar
+Duplicate key!
+peek Varvsa Thindo
+Golena Nadram
+extract Tedryn Ulessen
+Tadera Norvayn
+minimum_key
+Goler Adryn
+peek Fevus Salen
+Drelyne Brenos
+insert Dovrosi Garer Minasi Rervam
+insert Drinar Nithryon Gaden Salen
+extract Guls Sethandus
+Gindrala Hlen
+print
+Fieryra Tharys -> Dils Falavel
+├L: Fovus Nolar -> Taren Andalor
+│├L: Drinar Nithryon -> Gaden Salen
+││└L: Dovrosi Garer -> Minasi Rervam
+││ ├L: Goler Adryn -> Mindeli Tobor
+││ │└R: Roner Belan -> Fadren Dralayn
+││ │ └R: Dralosa Elarven -> Bilsa Radas
+││ │  └L: Darns Dral -> Hloris Tharam
+││ │   └R: Dridas Drenim -> Endase Surishpi
+││ └R: Hort Herendas -> Rarusu Dren
+││  └L: Milyn Helni -> Dreynis Falandas
+│└R: Fevus Salen -> Drelyne Brenos
+│ ├L: Nirasa Othralen -> Nedeni Goran
+│ │└R: Daldur Salandas -> Uvisea Beren
+│ │ └L: Diren Reloro -> Anel Lloryn
+│ │  └R: Galms Reni -> Rilver Llothri
+│ └R: Salas Sethandas -> Daral Ulom
+│  └L: Nilas Saryoni -> Tralayn Aradil
+└R: Varvsa Thindo -> Golena Nadram
+insert Angahran Driler Eldrasea Dalen
+print
+Angahran Driler -> Eldrasea Dalen
+├L: Goler Adryn -> Mindeli Tobor
+│└R: Roner Belan -> Fadren Dralayn
+│ └R: Dridas Drenim -> Endase Surishpi
+│  └L: Darns Dral -> Hloris Tharam
+└R: Fieryra Tharys -> Dils Falavel
+ ├L: Drinar Nithryon -> Gaden Salen
+ │├L: Dovrosi Garer -> Minasi Rervam
+ ││├L: Dralosa Elarven -> Bilsa Radas
+ ││└R: Hort Herendas -> Rarusu Dren
+ ││ └L: Milyn Helni -> Dreynis Falandas
+ │└R: Fovus Nolar -> Taren Andalor
+ │ └R: Fevus Salen -> Drelyne Brenos
+ │  ├L: Nirasa Othralen -> Nedeni Goran
+ │  │└R: Daldur Salandas -> Uvisea Beren
+ │  │ └L: Diren Reloro -> Anel Lloryn
+ │  │  └R: Galms Reni -> Rilver Llothri
+ │  └R: Salas Sethandas -> Daral Ulom
+ │   └L: Nilas Saryoni -> Tralayn Aradil
+ └R: Varvsa Thindo -> Golena Nadram
+size
+20
+peek Fevus Salen
+Drelyne Brenos
+peek Galms Reni
+Rilver Llothri
+peek Diren Reloro
+Anel Lloryn
+minimum_key
+Goler Adryn
+size
+20
+insert Trivura Marvos Urven Gols
+maximum_key
+Varvsa Thindo
+extract Angahran Driler
+Eldrasea Dalen
+peek Drinar Nithryon
+Gaden Salen
+size
+20
+maximum_key
+Varvsa Thindo
+minimum_key
+Goler Adryn
+size
+20
+insert Manabi Alen Dothasi Aradil
+insert Dalnorea Raloran Ruthrisu Verelas
+extract Salas Sethandas
+Daral Ulom
+quit

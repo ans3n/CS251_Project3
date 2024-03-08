@@ -1,0 +1,54 @@
+insert Enz2V8 786
+size
+1
+empty
+false
+insert 077IP -98
+peek 077IP
+-98
+print
+077IP -> -98
+└R: Enz2V8 -> 786
+insert lwHROdo 48
+print
+lwHROdo -> 48
+└L: Enz2V8 -> 786
+ └L: 077IP -> -98
+extract lwHROdo
+48
+peek 077IP
+-98
+maximum_key
+Enz2V8
+print
+Enz2V8 -> 786
+└L: 077IP -> -98
+insert xStZAym 501
+minimum_key
+077IP
+insert in3IvHP -106
+insert vbRRlY63 -756
+insert Q93vEiG 829
+insert FgJlUIe -199
+size
+7
+peek vbRRlY63
+-756
+maximum_key
+xStZAym
+extract FgJlUIe
+-199
+peek xStZAym
+501
+extract xStZAym
+501
+minimum_key
+077IP
+insert uCLq 110
+extract uCLq
+110
+peek in3IvHP
+-106
+extract Q93vEiG
+829
+quit

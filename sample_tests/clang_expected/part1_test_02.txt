@@ -1,0 +1,197 @@
+resize 5
+bucket_count
+5
+insert Avoni Garil bvPYvQG
+insert Bervyn Nerothren 6uTbVYh
+insert Urandile Sarano 0JVZ
+empty
+false
+insert Haleneri Apo MFKRCO
+insert Bels Brilyn octHuW7V
+insert Gragus Marvel PNS4ef
+insert Galsu Senoril NiZf
+peek Bels Brilyn
+octHuW7V
+insert Tilena Moran xpldtB
+bucket_count
+10
+insert Bronosa Drin pWDj
+print
+  0: (9) Haleneri Apo -> MFKRCO
+  1: (1) Avoni Garil -> bvPYvQG
+  2: (2) Bels Brilyn -> octHuW7V
+  3: (9) Bervyn Nerothren -> 6uTbVYh
+  4: (2) Gragus Marvel -> PNS4ef
+  5: (1) Galsu Senoril -> NiZf
+  6: (0) Tilena Moran -> xpldtB
+  7: (2) Bronosa Drin -> pWDj
+  8: [empty]
+  9: (9) Urandile Sarano -> 0JVZ
+hash_code Galsu Senoril
+1
+print
+  0: (9) Haleneri Apo -> MFKRCO
+  1: (1) Avoni Garil -> bvPYvQG
+  2: (2) Bels Brilyn -> octHuW7V
+  3: (9) Bervyn Nerothren -> 6uTbVYh
+  4: (2) Gragus Marvel -> PNS4ef
+  5: (1) Galsu Senoril -> NiZf
+  6: (0) Tilena Moran -> xpldtB
+  7: (2) Bronosa Drin -> pWDj
+  8: [empty]
+  9: (9) Urandile Sarano -> 0JVZ
+resize 30
+print
+  0: [empty]
+  1: (1) Avoni Garil -> bvPYvQG
+  2: (1) Galsu Senoril -> NiZf
+  3: [empty]
+  4: [empty]
+  5: [empty]
+  6: [empty]
+  7: [empty]
+  8: [empty]
+  9: (9) Urandile Sarano -> 0JVZ
+ 10: [empty]
+ 11: [empty]
+ 12: (12) Bels Brilyn -> octHuW7V
+ 13: (12) Gragus Marvel -> PNS4ef
+ 14: (12) Bronosa Drin -> pWDj
+ 15: [empty]
+ 16: [empty]
+ 17: [empty]
+ 18: [empty]
+ 19: (19) Haleneri Apo -> MFKRCO
+ 20: (19) Bervyn Nerothren -> 6uTbVYh
+ 21: (20) Tilena Moran -> xpldtB
+ 22: [empty]
+ 23: [empty]
+ 24: [empty]
+ 25: [empty]
+ 26: [empty]
+ 27: [empty]
+ 28: [empty]
+ 29: [empty]
+insert Uvele Lladri K8nups
+print
+  0: [empty]
+  1: (1) Avoni Garil -> bvPYvQG
+  2: (1) Galsu Senoril -> NiZf
+  3: (2) Uvele Lladri -> K8nups
+  4: [empty]
+  5: [empty]
+  6: [empty]
+  7: [empty]
+  8: [empty]
+  9: (9) Urandile Sarano -> 0JVZ
+ 10: [empty]
+ 11: [empty]
+ 12: (12) Bels Brilyn -> octHuW7V
+ 13: (12) Gragus Marvel -> PNS4ef
+ 14: (12) Bronosa Drin -> pWDj
+ 15: [empty]
+ 16: [empty]
+ 17: [empty]
+ 18: [empty]
+ 19: (19) Haleneri Apo -> MFKRCO
+ 20: (19) Bervyn Nerothren -> 6uTbVYh
+ 21: (20) Tilena Moran -> xpldtB
+ 22: [empty]
+ 23: [empty]
+ 24: [empty]
+ 25: [empty]
+ 26: [empty]
+ 27: [empty]
+ 28: [empty]
+ 29: [empty]
+extract Gragus Marvel
+PNS4ef
+insert Dolmyn Sarinith 0mduL5YW
+extract Uvele Lladri
+K8nups
+peek Haleneri Apo
+MFKRCO
+insert Iner Gindu i8fG8LF
+empty
+false
+peek Dolmyn Sarinith
+0mduL5YW
+peek Avoni Garil
+bvPYvQG
+peek Avoni Garil
+bvPYvQG
+peek Bels Brilyn
+octHuW7V
+print
+  0: (0) Iner Gindu -> i8fG8LF
+  1: (1) Avoni Garil -> bvPYvQG
+  2: (1) Galsu Senoril -> NiZf
+  3: [empty]
+  4: [empty]
+  5: [empty]
+  6: [empty]
+  7: (7) Dolmyn Sarinith -> 0mduL5YW
+  8: [empty]
+  9: (9) Urandile Sarano -> 0JVZ
+ 10: [empty]
+ 11: [empty]
+ 12: (12) Bels Brilyn -> octHuW7V
+ 13: [empty]
+ 14: (12) Bronosa Drin -> pWDj
+ 15: [empty]
+ 16: [empty]
+ 17: [empty]
+ 18: [empty]
+ 19: (19) Haleneri Apo -> MFKRCO
+ 20: (19) Bervyn Nerothren -> 6uTbVYh
+ 21: (20) Tilena Moran -> xpldtB
+ 22: [empty]
+ 23: [empty]
+ 24: [empty]
+ 25: [empty]
+ 26: [empty]
+ 27: [empty]
+ 28: [empty]
+ 29: [empty]
+extract Bervyn Nerothren
+6uTbVYh
+insert Daynes Thireloth CgdFTn
+insert Ivramie Hlarys OkCjJQ2
+size
+11
+print
+  0: (0) Iner Gindu -> i8fG8LF
+  1: (1) Avoni Garil -> bvPYvQG
+  2: (1) Galsu Senoril -> NiZf
+  3: [empty]
+  4: [empty]
+  5: [empty]
+  6: [empty]
+  7: (7) Dolmyn Sarinith -> 0mduL5YW
+  8: [empty]
+  9: (9) Urandile Sarano -> 0JVZ
+ 10: [empty]
+ 11: [empty]
+ 12: (12) Bels Brilyn -> octHuW7V
+ 13: [empty]
+ 14: (12) Bronosa Drin -> pWDj
+ 15: (15) Ivramie Hlarys -> OkCjJQ2
+ 16: [empty]
+ 17: [empty]
+ 18: [empty]
+ 19: (19) Haleneri Apo -> MFKRCO
+ 20: [empty]
+ 21: (20) Tilena Moran -> xpldtB
+ 22: [empty]
+ 23: [empty]
+ 24: [empty]
+ 25: [empty]
+ 26: [empty]
+ 27: [empty]
+ 28: [empty]
+ 29: (29) Daynes Thireloth -> CgdFTn
+empty
+false
+insert Salver Deltis Hpt57AT
+insert Duldresi Inlador T0xDb1fo
+quit

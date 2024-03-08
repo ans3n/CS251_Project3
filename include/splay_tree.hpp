@@ -80,6 +80,10 @@ std::shared_ptr<typename splay_tree<K,V>::splay_tree_node> splay_tree<K,V>::get_
 template <typename K, typename V>
 void splay_tree<K,V>::rightRotation(std::shared_ptr<splay_tree_node>& nodeY) {
     std::shared_ptr<splay_tree_node> nodeX = nodeY->m_left;
+    if (nodeX == nullptr) {
+        return;
+    }
+
     std::shared_ptr<splay_tree_node> parentY;
     nodeY->m_left = nodeX->m_right;
     nodeX->m_right = nodeY;
@@ -186,7 +190,6 @@ void splay_tree<K,V>::splay(std::shared_ptr<splay_tree_node>& current) {
 
 template <typename K, typename V>
 splay_tree<K,V>::splay_tree() {
-    m_root = std::make_shared<splay_tree_node>();
     m_numElements = 0;
 }
 

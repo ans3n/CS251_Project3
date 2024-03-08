@@ -1,0 +1,325 @@
+insert 68 -654
+extract 68
+-654
+size
+0
+print
+  0: [empty]
+  1: [empty]
+  2: [empty]
+  3: [empty]
+  4: [empty]
+  5: [empty]
+  6: [empty]
+  7: [empty]
+  8: [empty]
+  9: [empty]
+ 10: [empty]
+ 11: [empty]
+ 12: [empty]
+ 13: [empty]
+insert -388 581
+size
+1
+extract -388
+581
+peek -516
+Key does not exist!
+insert 327 209
+size
+1
+print
+  0: [empty]
+  1: [empty]
+  2: [empty]
+  3: [empty]
+  4: [empty]
+  5: 327 -> 209
+  6: [empty]
+  7: [empty]
+  8: [empty]
+  9: [empty]
+ 10: [empty]
+ 11: [empty]
+ 12: [empty]
+ 13: [empty]
+insert 327 -814
+Duplicate key!
+insert -932 -86
+insert 230 428
+size
+3
+print
+  0: [empty]
+  1: [empty]
+  2: [empty]
+  3: [empty]
+  4: [empty]
+  5: 327 -> 209
+  6: 230 -> 428
+  7: [empty]
+  8: -932 -> -86
+  9: [empty]
+ 10: [empty]
+ 11: [empty]
+ 12: [empty]
+ 13: [empty]
+peek -932
+-86
+insert -809 -405
+peek -169
+Key does not exist!
+extract -809
+-405
+insert -536 -396
+peek -697
+Key does not exist!
+insert 627 -887
+insert -205 798
+empty
+false
+insert -148 -917
+bucket_count
+14
+print
+  0: [empty]
+  1: [empty]
+  2: [empty]
+  3: [empty]
+  4: [empty]
+  5: 327 -> 209
+  6: 230 -> 428
+  7: -205 -> 798
+  8: -148 -> -917
+     └L: -932 -> -86
+  9: [empty]
+ 10: [empty]
+ 11: 627 -> -887
+ 12: -536 -> -396
+ 13: [empty]
+extract 627
+-887
+peek -536
+-396
+extract -148
+-917
+hash_code -932
+8
+peek -205
+798
+peek 230
+428
+print
+  0: [empty]
+  1: [empty]
+  2: [empty]
+  3: [empty]
+  4: [empty]
+  5: 327 -> 209
+  6: 230 -> 428
+  7: -205 -> 798
+  8: -932 -> -86
+  9: [empty]
+ 10: [empty]
+ 11: [empty]
+ 12: -536 -> -396
+ 13: [empty]
+extract -860
+Key does not exist!
+extract -536
+-396
+bucket_count
+14
+extract 230
+428
+empty
+false
+insert 108 -230
+print
+  0: [empty]
+  1: [empty]
+  2: [empty]
+  3: [empty]
+  4: [empty]
+  5: 327 -> 209
+  6: [empty]
+  7: -205 -> 798
+  8: -932 -> -86
+  9: [empty]
+ 10: 108 -> -230
+ 11: [empty]
+ 12: [empty]
+ 13: [empty]
+insert -468 -663
+extract 108
+-230
+empty
+false
+print
+  0: [empty]
+  1: [empty]
+  2: [empty]
+  3: [empty]
+  4: [empty]
+  5: 327 -> 209
+  6: [empty]
+  7: -205 -> 798
+  8: -932 -> -86
+  9: [empty]
+ 10: -468 -> -663
+ 11: [empty]
+ 12: [empty]
+ 13: [empty]
+insert 987 846
+insert 556 -28
+empty
+false
+extract -205
+798
+print
+  0: [empty]
+  1: [empty]
+  2: [empty]
+  3: [empty]
+  4: [empty]
+  5: 327 -> 209
+  6: [empty]
+  7: 987 -> 846
+  8: -932 -> -86
+  9: [empty]
+ 10: 556 -> -28
+     └L: -468 -> -663
+ 11: [empty]
+ 12: [empty]
+ 13: [empty]
+bucket_count
+14
+extract 556
+-28
+insert -210 -200
+insert -50 -543
+extract -210
+-200
+peek -468
+-663
+extract -932
+-86
+insert 712 604
+insert 938 -937
+extract 987
+846
+peek -50
+-543
+empty
+false
+insert 272 -126
+insert 161 711
+insert -50 -628
+Duplicate key!
+print
+  0: 938 -> -937
+  1: [empty]
+  2: [empty]
+  3: [empty]
+  4: [empty]
+  5: 327 -> 209
+  6: 272 -> -126
+  7: 161 -> 711
+  8: -50 -> -543
+  9: [empty]
+ 10: -468 -> -663
+ 11: [empty]
+ 12: 712 -> 604
+ 13: [empty]
+bucket_count
+14
+extract -50
+-543
+insert 327 -998
+Duplicate key!
+print
+  0: 938 -> -937
+  1: [empty]
+  2: [empty]
+  3: [empty]
+  4: [empty]
+  5: 327 -> 209
+  6: 272 -> -126
+  7: 161 -> 711
+  8: [empty]
+  9: [empty]
+ 10: -468 -> -663
+ 11: [empty]
+ 12: 712 -> 604
+ 13: [empty]
+peek 327
+209
+print
+  0: 938 -> -937
+  1: [empty]
+  2: [empty]
+  3: [empty]
+  4: [empty]
+  5: 327 -> 209
+  6: 272 -> -126
+  7: 161 -> 711
+  8: [empty]
+  9: [empty]
+ 10: -468 -> -663
+ 11: [empty]
+ 12: 712 -> 604
+ 13: [empty]
+empty
+false
+size
+6
+extract 327
+209
+extract 712
+604
+peek -468
+-663
+extract 824
+Key does not exist!
+extract -468
+-663
+empty
+false
+peek 272
+-126
+extract 161
+711
+empty
+false
+extract 938
+-937
+insert 687 -286
+extract 687
+-286
+bucket_count
+14
+extract 272
+-126
+insert -75 355
+empty
+false
+print
+  0: [empty]
+  1: [empty]
+  2: [empty]
+  3: [empty]
+  4: [empty]
+  5: [empty]
+  6: [empty]
+  7: [empty]
+  8: [empty]
+  9: [empty]
+ 10: [empty]
+ 11: -75 -> 355
+ 12: [empty]
+ 13: [empty]
+insert -323 506
+insert -566 209
+extract -323
+506
+quit

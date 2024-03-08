@@ -1,0 +1,60 @@
+bucket_count
+9
+size
+0
+empty
+true
+insert V6woTC -520.19
+peek V6woTC
+-520.19
+size
+1
+hash_code V6woTC
+8
+insert ZhpLUu -184.155
+insert NE3X3fb -47.0941
+bucket_count
+9
+print
+  0: (0) NE3X3fb -> -47.0941
+  1: [empty]
+  2: [empty]
+  3: [empty]
+  4: [empty]
+  5: [empty]
+  6: [empty]
+  7: (7) ZhpLUu -> -184.155
+  8: (8) V6woTC -> -520.19
+peek V6woTC
+-520.19
+peek NE3X3fb
+-47.0941
+peek ZhpLUu
+-184.155
+size
+3
+print
+  0: (0) NE3X3fb -> -47.0941
+  1: [empty]
+  2: [empty]
+  3: [empty]
+  4: [empty]
+  5: [empty]
+  6: [empty]
+  7: (7) ZhpLUu -> -184.155
+  8: (8) V6woTC -> -520.19
+insert SpMNL9w 357.968
+insert nQpUXt 192.883
+print
+  0: (0) NE3X3fb -> -47.0941
+  1: (6) nQpUXt -> 192.883
+  2: [empty]
+  3: [empty]
+  4: [empty]
+  5: [empty]
+  6: (6) SpMNL9w -> 357.968
+  7: (7) ZhpLUu -> -184.155
+  8: (8) V6woTC -> -520.19
+insert VD0xu1a 628.569
+insert iw5Ad -503.044
+quit

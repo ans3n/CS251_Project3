@@ -1,0 +1,244 @@
+insert 112 -767.164
+insert 24 -34.4537
+peek 112
+-767.164
+extract 112
+-767.164
+extract 24
+-34.4537
+print
+  0: [empty]
+  1: [empty]
+  2: [empty]
+  3: [empty]
+  4: [empty]
+  5: [empty]
+  6: [empty]
+  7: [empty]
+  8: [empty]
+  9: [empty]
+ 10: [empty]
+ 11: [empty]
+ 12: [empty]
+extract -435
+Key does not exist!
+insert 900 -545.932
+print
+  0: [empty]
+  1: [empty]
+  2: [empty]
+  3: (3) 900 -> -545.932
+  4: [empty]
+  5: [empty]
+  6: [empty]
+  7: [empty]
+  8: [empty]
+  9: [empty]
+ 10: [empty]
+ 11: [empty]
+ 12: [empty]
+insert 996 -448.794
+print
+  0: [empty]
+  1: [empty]
+  2: [empty]
+  3: (3) 900 -> -545.932
+  4: [empty]
+  5: [empty]
+  6: [empty]
+  7: [empty]
+  8: (8) 996 -> -448.794
+  9: [empty]
+ 10: [empty]
+ 11: [empty]
+ 12: [empty]
+extract 900
+-545.932
+size
+1
+hash_code 996
+8
+size
+1
+hash_code 996
+8
+size
+1
+insert -102 464.406
+peek -291
+Key does not exist!
+extract -102
+464.406
+empty
+false
+extract 39
+Key does not exist!
+hash_code 996
+8
+extract 996
+-448.794
+insert 124 -868.434
+insert 722 -206.397
+insert 389 767.144
+peek 389
+767.144
+extract 124
+-868.434
+peek 722
+-206.397
+insert 72 223.105
+extract 722
+-206.397
+bucket_count
+13
+extract 389
+767.144
+extract 72
+223.105
+insert 470 608.665
+bucket_count
+13
+insert -22 -782.481
+print
+  0: [empty]
+  1: [empty]
+  2: (2) 470 -> 608.665
+  3: [empty]
+  4: [empty]
+  5: [empty]
+  6: [empty]
+  7: (7) -22 -> -782.481
+  8: [empty]
+  9: [empty]
+ 10: [empty]
+ 11: [empty]
+ 12: [empty]
+hash_code -297
+5
+insert 470 -573.534
+Duplicate key!
+print
+  0: [empty]
+  1: [empty]
+  2: (2) 470 -> 608.665
+  3: [empty]
+  4: [empty]
+  5: [empty]
+  6: [empty]
+  7: (7) -22 -> -782.481
+  8: [empty]
+  9: [empty]
+ 10: [empty]
+ 11: [empty]
+ 12: [empty]
+hash_code 470
+2
+extract 470
+608.665
+extract -22
+-782.481
+bucket_count
+13
+resize 5
+bucket_count
+5
+peek 454
+Key does not exist!
+extract -979
+Key does not exist!
+peek -385
+Key does not exist!
+print
+  0: [empty]
+  1: [empty]
+  2: [empty]
+  3: [empty]
+  4: [empty]
+insert 44 -791.336
+peek 44
+-791.336
+extract 44
+-791.336
+print
+  0: [empty]
+  1: [empty]
+  2: [empty]
+  3: [empty]
+  4: [empty]
+empty
+true
+insert -819 289.718
+empty
+false
+insert -449 801.852
+insert 634 104.96
+extract -449
+801.852
+print
+  0: [empty]
+  1: [empty]
+  2: (2) -819 -> 289.718
+  3: [empty]
+  4: (4) 634 -> 104.96
+insert 527 -786.704
+extract 527
+-786.704
+peek -819
+289.718
+print
+  0: [empty]
+  1: [empty]
+  2: (2) -819 -> 289.718
+  3: [empty]
+  4: (4) 634 -> 104.96
+insert -202 -911.358
+resize 7
+insert -395 490.4
+resize 25
+extract -819
+289.718
+extract 634
+104.96
+bucket_count
+25
+peek -202
+-911.358
+insert -164 357.883
+bucket_count
+25
+extract -202
+-911.358
+insert -529 711.306
+extract 393
+Key does not exist!
+insert -219 611.382
+resize 16
+empty
+false
+print
+  0: [empty]
+  1: [empty]
+  2: [empty]
+  3: [empty]
+  4: [empty]
+  5: (5) -395 -> 490.4
+  6: (5) -219 -> 611.382
+  7: [empty]
+  8: [empty]
+  9: [empty]
+ 10: [empty]
+ 11: [empty]
+ 12: (12) -164 -> 357.883
+ 13: [empty]
+ 14: [empty]
+ 15: (15) -529 -> 711.306
+extract -529
+711.306
+empty
+false
+insert 222 541.429
+hash_code -395
+5
+empty
+false
+quit

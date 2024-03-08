@@ -1,0 +1,331 @@
+insert 562 606.217
+insert 562 -412.688
+Duplicate key!
+empty
+false
+extract 562
+606.217
+insert 231 -613.485
+insert 415 30.2083
+bucket_count
+16
+insert 788 -87.0279
+size
+3
+extract 788
+-87.0279
+size
+2
+extract 415
+30.2083
+extract 231
+-613.485
+insert -837 625.743
+resize 29
+extract -837
+625.743
+insert 717 -368.158
+insert 963 -57.1625
+insert -435 -222.543
+insert 39 878.528
+bucket_count
+29
+size
+4
+extract -435
+-222.543
+bucket_count
+29
+insert 39 949.258
+Duplicate key!
+peek 39
+878.528
+bucket_count
+29
+insert 605 615.335
+insert -809 -690.302
+hash_code 39
+10
+size
+5
+insert 283 -909.262
+insert 344 -89.0731
+extract -809
+-690.302
+peek 605
+615.335
+bucket_count
+29
+insert -34 571.058
+extract 39
+878.528
+hash_code 344
+25
+peek 283
+-909.262
+extract 605
+615.335
+insert -838 -618.986
+empty
+false
+insert -820 832.916
+peek 283
+-909.262
+resize 36
+peek 960
+Key does not exist!
+peek -34
+571.058
+print
+  0: [empty]
+  1: [empty]
+  2: [empty]
+  3: [empty]
+  4: [empty]
+  5: [empty]
+  6: (6) -838 -> -618.986
+  7: [empty]
+  8: [empty]
+  9: [empty]
+ 10: [empty]
+ 11: [empty]
+ 12: [empty]
+ 13: [empty]
+ 14: [empty]
+ 15: [empty]
+ 16: [empty]
+ 17: [empty]
+ 18: (18) -34 -> 571.058
+ 19: [empty]
+ 20: (20) 344 -> -89.0731
+ 21: [empty]
+ 22: [empty]
+ 23: [empty]
+ 24: (24) -820 -> 832.916
+ 25: [empty]
+ 26: [empty]
+ 27: (27) 963 -> -57.1625
+ 28: [empty]
+ 29: [empty]
+ 30: [empty]
+ 31: (31) 283 -> -909.262
+ 32: [empty]
+ 33: (33) 717 -> -368.158
+ 34: [empty]
+ 35: [empty]
+empty
+false
+extract -820
+832.916
+peek -838
+-618.986
+insert -347 -202.628
+insert -467 -819.723
+peek 717
+-368.158
+insert 746 229.653
+bucket_count
+36
+peek 963
+-57.1625
+resize 11
+extract 963
+-57.1625
+peek 717
+-368.158
+resize 26
+extract -838
+-618.986
+resize 33
+insert 748 718.433
+peek 717
+-368.158
+print
+  0: [empty]
+  1: [empty]
+  2: [empty]
+  3: [empty]
+  4: [empty]
+  5: [empty]
+  6: [empty]
+  7: [empty]
+  8: [empty]
+  9: [empty]
+ 10: [empty]
+ 11: (11) -467 -> -819.723
+ 12: [empty]
+ 13: [empty]
+ 14: (14) 344 -> -89.0731
+ 15: (15) -34 -> 571.058
+ 16: [empty]
+ 17: [empty]
+ 18: [empty]
+ 19: (19) 283 -> -909.262
+ 20: (20) 746 -> 229.653
+ 21: [empty]
+ 22: (22) 748 -> 718.433
+ 23: [empty]
+ 24: (24) 717 -> -368.158
+ 25: [empty]
+ 26: [empty]
+ 27: [empty]
+ 28: [empty]
+ 29: [empty]
+ 30: [empty]
+ 31: [empty]
+ 32: (32) -347 -> -202.628
+bucket_count
+33
+peek -467
+-819.723
+insert -543 -516.943
+size
+9
+extract -543
+-516.943
+insert -358 498.583
+print
+  0: [empty]
+  1: [empty]
+  2: [empty]
+  3: [empty]
+  4: [empty]
+  5: [empty]
+  6: [empty]
+  7: [empty]
+  8: [empty]
+  9: [empty]
+ 10: [empty]
+ 11: (11) -467 -> -819.723
+ 12: [empty]
+ 13: [empty]
+ 14: (14) 344 -> -89.0731
+ 15: (15) -34 -> 571.058
+ 16: [empty]
+ 17: [empty]
+ 18: [empty]
+ 19: (19) 283 -> -909.262
+ 20: (20) 746 -> 229.653
+ 21: (21) -358 -> 498.583
+ 22: (22) 748 -> 718.433
+ 23: [empty]
+ 24: (24) 717 -> -368.158
+ 25: [empty]
+ 26: [empty]
+ 27: [empty]
+ 28: [empty]
+ 29: [empty]
+ 30: [empty]
+ 31: [empty]
+ 32: (32) -347 -> -202.628
+hash_code 717
+24
+bucket_count
+33
+resize 20
+print
+  0: [empty]
+  1: [empty]
+  2: (2) -34 -> 571.058
+  3: (3) 283 -> -909.262
+  4: (4) 344 -> -89.0731
+  5: [empty]
+  6: (6) 746 -> 229.653
+  7: [empty]
+  8: (8) 748 -> 718.433
+  9: (9) -467 -> -819.723
+ 10: (9) -347 -> -202.628
+ 11: [empty]
+ 12: [empty]
+ 13: [empty]
+ 14: [empty]
+ 15: [empty]
+ 16: [empty]
+ 17: (17) 717 -> -368.158
+ 18: (18) -358 -> 498.583
+ 19: [empty]
+insert 892 -182.091
+insert -928 -692.623
+bucket_count
+20
+size
+11
+resize 35
+print
+  0: [empty]
+  1: [empty]
+  2: [empty]
+  3: (3) 283 -> -909.262
+  4: (4) -467 -> -819.723
+  5: [empty]
+  6: [empty]
+  7: [empty]
+  8: (8) -358 -> 498.583
+  9: [empty]
+ 10: [empty]
+ 11: (11) 746 -> 229.653
+ 12: [empty]
+ 13: (13) 748 -> 718.433
+ 14: [empty]
+ 15: [empty]
+ 16: [empty]
+ 17: (17) -34 -> 571.058
+ 18: (17) 892 -> -182.091
+ 19: (19) -347 -> -202.628
+ 20: (17) 717 -> -368.158
+ 21: [empty]
+ 22: [empty]
+ 23: [empty]
+ 24: [empty]
+ 25: [empty]
+ 26: [empty]
+ 27: [empty]
+ 28: [empty]
+ 29: (29) 344 -> -89.0731
+ 30: [empty]
+ 31: [empty]
+ 32: [empty]
+ 33: (33) -928 -> -692.623
+ 34: [empty]
+insert 820 -367.862
+print
+  0: [empty]
+  1: [empty]
+  2: [empty]
+  3: (3) 283 -> -909.262
+  4: (4) -467 -> -819.723
+  5: [empty]
+  6: [empty]
+  7: [empty]
+  8: (8) -358 -> 498.583
+  9: [empty]
+ 10: [empty]
+ 11: (11) 746 -> 229.653
+ 12: [empty]
+ 13: (13) 748 -> 718.433
+ 14: [empty]
+ 15: (15) 820 -> -367.862
+ 16: [empty]
+ 17: (17) -34 -> 571.058
+ 18: (17) 892 -> -182.091
+ 19: (19) -347 -> -202.628
+ 20: (17) 717 -> -368.158
+ 21: [empty]
+ 22: [empty]
+ 23: [empty]
+ 24: [empty]
+ 25: [empty]
+ 26: [empty]
+ 27: [empty]
+ 28: [empty]
+ 29: (29) 344 -> -89.0731
+ 30: [empty]
+ 31: [empty]
+ 32: [empty]
+ 33: (33) -928 -> -692.623
+ 34: [empty]
+size
+12
+hash_code -358
+8
+quit
