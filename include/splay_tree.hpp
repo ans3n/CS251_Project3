@@ -177,6 +177,10 @@ void splay_tree<K,V>::splay(std::shared_ptr<splay_tree_node>& current) {
     while (current != m_root) {
         std::shared_ptr<splay_tree_node> parent = current->m_parent.lock();
 
+        if (!parent) {
+            break;
+        }
+
         if (parent != nullptr) {
             if ((parent->m_parent).lock() == nullptr) {
                 zig(current);
@@ -188,6 +192,7 @@ void splay_tree<K,V>::splay(std::shared_ptr<splay_tree_node>& current) {
             }
         }
     }
+
 }
 
 template <typename K, typename V>
